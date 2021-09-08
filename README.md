@@ -1,5 +1,5 @@
-# Hey people, Hope you are doing good
-[](https://github.com/jammutkarsh/jammutkarsh/github-banner.png?raw=true)
+# Hey people, Hope you are doing good!
+![Image](https://github.com/JammUtkarsh/jammutkarsh/blob/main/github-banner.png?raw=true)
 ## Socials - Get connected
 
 
