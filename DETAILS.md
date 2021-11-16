@@ -1,4 +1,4 @@
-# Here are my Details
+<!-- # Here are my Details
 
 - [YouTube - Yash Sehgal](https://www.youtube.com/channel/UC23yA3SBkV_ehY4H8VSuNVg?)
 - [LinkedIn - Yash Sehgal](https://www.linkedin.com/in/yash-sehgal-55b7711a4/)
@@ -9,4 +9,4 @@
 - [GitHub - Yash Sehgal (@yashsehgal)](https://www.github.com/yashsehgal)
 - GeoLocation - Indore, Madhya Pradesh, India
 - Phone Number - +91 98265-44591
-- Email Address - yashsehgal.work@gmail.com, yashsehgal.study@gmail.com, yashsehgal24insta@gmail.com
+- Email Address - yashsehgal.work@gmail.com, yashsehgal.study@gmail.com, yashsehgal24insta@gmail.com -->
