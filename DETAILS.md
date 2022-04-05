@@ -5,7 +5,7 @@
 - [Instagram - @jammcodes](https://www.instagram.com/jammcodes/)
 - [Twitter - Utkarsh Chourasia](https://twitter.com/JammUtkarsh)
 - [GitHub - Utkarsh Chourasia (@JammUtkarsh)](https://github.com/JammUtkarsh)
-- [Discord - Jamming College](https://github.com/JammUtkarsh)
+
 - GeoLocation - Indore, Madhya Pradesh, India
 - Phone Number - +91 84610-60010
 - Email Address - 5.utkarshc@gmail.com

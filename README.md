@@ -17,17 +17,37 @@
 
 ## Skills
 
-- Languages - C++, Go, Pyhton
-<!-- - Libraries & Frameworks - Nope -->
-- Tools and Technologies - Figma, Github-Pages, Netlify, Vim, Bootstrap, Linux
-- Areas for interests - `Script Development`, `Desktop/CLI Application Development`, `Project Managment`, `UI/UX Design`, `Blockchain`, `Cloud Technologies`
+Language: Go, C++, Bash, Python
+
+Tools: Docker, Github Actions, Netify, GNU/Linux
+
+I also have experience with CLI Development with Go and shell scripting.
 
 ## Projects
 
-- [Spell-Ez](https://github.com/JammingCollege/Spell-Ez-Python) - An simple TTS app to practice spellings. *Open To Contribution!*
+- Shared Clipboard - `Go`, `HTTP`
 
-- Home Server - Upgraded an old PC to a home server.
-It is used as a streaming, backup server, and remote development for personal use
+It's a simple app which let you share text data between computers in CLI.
+
+- Spell-Ez - `Python`
+
+A simple TTS app to improve your spelling, running in CLI
+
+- Assignment Parser - `Go`
+
+A script to parse through terminal sql output to sql commmands.
+
+- Grec - `Go`
+
+A data entry app based on CLI.
+
+- Go Web Server - `Docker`, `Go`, `CI/CD`, `Github Actions`
+
+This project serves many purposes. It is getting started guide for GitHub Actions. Using GitHub actions, we are pushing the Docker image built in cloud to Docker Registry. The image is a go web server for static webpages.
+
+- Home Server - `Ubuntu Server`, `Docker`
+
+I upgraded my potato PC to my local home server. It's served as a remote development, a media server, a remote backup and many more minor tasks. The reffered link is the site which helped to do all the jobs using Docker
 
 ## Ask me about
 
