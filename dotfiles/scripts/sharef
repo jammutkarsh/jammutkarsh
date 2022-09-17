@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "curl -F 'file=@' 'https://0x0.st/' | pbcopy" | pbcopy

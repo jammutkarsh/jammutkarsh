@@ -1,0 +1,12 @@
+#!/bin/bash
+RED='\033[0;31m'
+NC='\033[0m' # No Color
+file=$1
+if [ -z "$file" ]
+then
+        echo -e "${RED}error:${NC} needs a C/C++ file"
+        exit 1
+else
+        g++ $file -o ${file%.*} && ./${file%.*}
+        rm ${file%.*}
+fi

@@ -1,0 +1,42 @@
+result="history 1 -1 | cut -c 8- | uniq | fzf | pbcopy"
+alias hst="$result"
+alias hrun='bash -c "$(pbpaste)"'
+alias keygen="openssl rand -hex $1"
+
+
+alias cp="ditto"
+alias cls="clear"
+alias rmf="rm -rf"
+alias ..="cd .."
+alias ...="cd ../.."
+alias -- -="cd ~"
+alias ~="cd ~"
+alias godir="cd ~/code/go/"
+alias down="cd ~/Downloads"
+alias app="open -a "
+alias opendoc="open -g -a Docker"
+alias kctl='kubectl'
+alias mik='minikube'
+alias netcheck='ping www.google.com'
+alias dsa='code ~/code/DSA/'
+
+# Docker Shortcut Commands
+alias dcd="docker-compose down"
+alias dcu="docker-compose up -d"
+alias dps="docker ps"
+alias dpa="docker ps -a"
+alias drm="docker rm -f"
+
+# Run dockerized apps without installing dependencies 
+alias madness='docker run --rm -it -v $PWD:/docs -p 3000:3000 dannyben/madness'
+alias python="docker run -it  --rm -v "$(pwd)":/root -w /root python:3 python"
+alias node="docker run -it --rm -v "$(pwd)":/root -w /root node node"
+alias npm="docker run -it --rm -v "$(pwd)":/root -w /root node npm"
+alias npms="docker run -it --rm -v "$(pwd)":/root -w /root node npm start"
+alias npmi="docker run -it --rm -v "$(pwd)":/root -w /root node npm install"
+alias ruby="docker run -it --rm -v "$(pwd)":/root -w /root ruby ruby"
+alias javac='docker run --rm -v "$(pwd)":/app -w /app java javac'
+alias java='docker run --rm -v "$(pwd)":/app -w /app java java'
+
+alias nodedcr="docker run -itd --rm -v "$(pwd)":/root/app -w /root/app --name napp node"
+alias nodexe="nodedcr && docker exec -it napp && docker rm -f napp"

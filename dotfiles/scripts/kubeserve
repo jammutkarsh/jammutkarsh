@@ -1,0 +1,4 @@
+#/bin/bash
+
+cd ~/code/review/minikube/site
+hugo server
