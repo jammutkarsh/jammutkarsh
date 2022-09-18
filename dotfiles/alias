@@ -32,11 +32,8 @@ alias madness='docker run --rm -it -v $PWD:/docs -p 3000:3000 dannyben/madness'
 alias python="docker run -it  --rm -v "$(pwd)":/root -w /root python:3 python"
 alias node="docker run -it --rm -v "$(pwd)":/root -w /root node node"
 alias npm="docker run -it --rm -v "$(pwd)":/root -w /root node npm"
-alias npms="docker run -it --rm -v "$(pwd)":/root -w /root node npm start"
+alias npms='function a(){docker run -it --rm -v "$(pwd)":/root -p $1:$1 -w /root node npm start}; _a'
 alias npmi="docker run -it --rm -v "$(pwd)":/root -w /root node npm install"
 alias ruby="docker run -it --rm -v "$(pwd)":/root -w /root ruby ruby"
 alias javac='docker run --rm -v "$(pwd)":/app -w /app java javac'
 alias java='docker run --rm -v "$(pwd)":/app -w /app java java'
-
-alias nodedcr="docker run -itd --rm -v "$(pwd)":/root/app -w /root/app --name napp node"
-alias nodexe="nodedcr && docker exec -it napp && docker rm -f napp"

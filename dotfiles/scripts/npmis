@@ -1,0 +1,4 @@
+#!/bin/bash
+docker run -it --rm -v "$(pwd)":/root -w /root node npm install
+sleep 3
+docker run -it --rm -v "$(pwd)":/root --network=host -p $1:$1 -w /root node npm start
