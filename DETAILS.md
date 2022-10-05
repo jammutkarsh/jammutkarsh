@@ -1,10 +1,10 @@
 # Here are my Details
 
-<!-- - [YouTube - Yash Sehgal](https://www.youtube.com/channel/UC23yA3SBkV_ehY4H8VSuNVg?) -->
-- [LinkedIn - Utkarsh Chourasia](https://www.linkedin.com/in/5utkarshc/)
-- [Instagram - @jammcodes](https://www.instagram.com/jammcodes/)
-- [Twitter - Utkarsh Chourasia](https://twitter.com/JammUtkarsh)
-- [GitHub - Utkarsh Chourasia (@JammUtkarsh)](https://github.com/JammUtkarsh)
+- [LinkedIn](https://www.linkedin.com/in/5utkarshc/)
+- [Twitter](https://twitter.com/JammUtkarsh)
+- [GitHub Memory](https://githubmemory.com/@JammUtkarsh)
+- [Website / Portfolio](https://utkarshchourasia.in/)
+- [Resume & General Cover Letter](https://drive.google.com/drive/folders/1ci7ngCK4trDgoGHongJxUamzC4hm0AqE?usp=sharing)
 
 - GeoLocation - Indore, Madhya Pradesh, India
 - Phone Number - +91 84610-60010
