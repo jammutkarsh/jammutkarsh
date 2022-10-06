@@ -28,11 +28,11 @@
 
 ## 👯 Check out some of my recent followers
 
-- [bavmar](https://github.com/bavmar)
 - [Kwynto](https://github.com/Kwynto)
 - [cumsoft](https://github.com/cumsoft)
 - [ValentineFernandes](https://github.com/ValentineFernandes)
 - [Basci0](https://github.com/Basci0)
+- [gamemann](https://github.com/gamemann)
 
 ## 💬 Feedback
 
