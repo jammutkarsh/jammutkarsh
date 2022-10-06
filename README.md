@@ -4,11 +4,11 @@
 
 ## 👷 Check out what I'm currently working on
 
-- [acetechcomm/website](https://github.com/acetechcomm/website) - Website for Ace (2 days ago)
-- [JammUtkarsh/grec](https://github.com/JammUtkarsh/grec) - A CLI application to insert records into json file. grec = go recorder (3 days ago)
+- [JammUtkarsh/jammutkarsh](https://github.com/JammUtkarsh/jammutkarsh) -  (today)
+- [acetechcomm/website](https://github.com/acetechcomm/website) - Website for Ace (3 days ago)
+- [JammUtkarsh/grec](https://github.com/JammUtkarsh/grec) - A CLI application to insert records into json file. grec = go recorder (4 days ago)
 - [JammUtkarsh/cshare-server](https://github.com/JammUtkarsh/cshare-server) - Back-End of Cshare (2 weeks ago)
 - [JammUtkarsh/dotfiles](https://github.com/JammUtkarsh/dotfiles) - Scripts and alias commonly used (2 weeks ago)
-- [JammUtkarsh/cshare](https://github.com/JammUtkarsh/cshare) - A CLI utility to share clips across devices. (2 weeks ago)
 
 ## 🌱 My latest projects
 
@@ -18,29 +18,21 @@
 - [JammUtkarsh/cshare](https://github.com/JammUtkarsh/cshare) - A CLI utility to share clips across devices.
 - [JammUtkarsh/terminal-website](https://github.com/JammUtkarsh/terminal-website) - A portfolio website with terminal like theme
 
-## 🍴 My recent forks
+# ⭐ Recent Stars
 
-- [JammUtkarsh/ugit](https://github.com/JammUtkarsh/ugit) - 🚨️ ugit helps undo git commands. Your damage control git buddy. Undo from 20&#43; git scenarios.
-- [JammUtkarsh/ace-website](https://github.com/JammUtkarsh/ace-website) - ACE(Another Community Experiment) Website
-- [JammUtkarsh/textedit](https://github.com/JammUtkarsh/textedit) - A simple text editor
-- [JammUtkarsh/babble](https://github.com/JammUtkarsh/babble) - A small utility to generate random words in #golang
-- [JammUtkarsh/spotify-cli-mac](https://github.com/JammUtkarsh/spotify-cli-mac) - 🎶 A nodejs app to control Spotify without leaving your terminal. 🎶
-
-## ⭐ Recent Stars
-
-- [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go (2 days ago)
-- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It&#39;s completely configurable and 100% cross-platform compatible. (3 days ago)
+- [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go (3 days ago)
+- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It&#39;s completely configurable and 100% cross-platform compatible. (4 days ago)
 - [qascade/yast](https://github.com/qascade/yast) - Yet Another Streaming Tool (2 weeks ago)
 - [harness/drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform (3 weeks ago)
 - [CoreyMSchafer/dotfiles](https://github.com/CoreyMSchafer/dotfiles) - My dotfiles and personal preferences (1 month ago)
 
 ## 👯 Check out some of my recent followers
 
+- [bavmar](https://github.com/bavmar)
+- [Kwynto](https://github.com/Kwynto)
+- [cumsoft](https://github.com/cumsoft)
+- [ValentineFernandes](https://github.com/ValentineFernandes)
 - [Basci0](https://github.com/Basci0)
-- [gamemann](https://github.com/gamemann)
-- [WilliamMajanja](https://github.com/WilliamMajanja)
-- [BELLAL-Khaled](https://github.com/BELLAL-Khaled)
-- [danielaltamirano1993](https://github.com/danielaltamirano1993)
 
 ## 💬 Feedback
 
