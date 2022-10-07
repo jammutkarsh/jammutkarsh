@@ -30,9 +30,9 @@
 
 - [Kwynto](https://github.com/Kwynto)
 - [cumsoft](https://github.com/cumsoft)
-- [ValentineFernandes](https://github.com/ValentineFernandes)
 - [Basci0](https://github.com/Basci0)
 - [gamemann](https://github.com/gamemann)
+- [WilliamMajanja](https://github.com/WilliamMajanja)
 
 ## 💬 Feedback
 
