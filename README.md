@@ -4,10 +4,10 @@
 
 ## 👷 Check out what I'm currently working on
 
-- [datacode-in/Hacktoberfest-Indore-2022](https://github.com/datacode-in/Hacktoberfest-Indore-2022) - Hacktoberfest Indore 2022 (today)
-- [JammUtkarsh/jammutkarsh](https://github.com/JammUtkarsh/jammutkarsh) -  (2 days ago)
-- [acetechcomm/website](https://github.com/acetechcomm/website) - Website for Ace (5 days ago)
-- [JammUtkarsh/grec](https://github.com/JammUtkarsh/grec) - A CLI application to insert records into json file. grec = go recorder (6 days ago)
+- [datacode-in/Hacktoberfest-Indore-2022](https://github.com/datacode-in/Hacktoberfest-Indore-2022) - Hacktoberfest Indore 2022 (1 day ago)
+- [JammUtkarsh/jammutkarsh](https://github.com/JammUtkarsh/jammutkarsh) -  (3 days ago)
+- [acetechcomm/website](https://github.com/acetechcomm/website) - Website for Ace (6 days ago)
+- [JammUtkarsh/grec](https://github.com/JammUtkarsh/grec) - A CLI application to insert records into json file. grec = go recorder (1 week ago)
 - [JammUtkarsh/cshare-server](https://github.com/JammUtkarsh/cshare-server) - Back-End of Cshare (2 weeks ago)
 
 ## 🌱 My latest projects
@@ -20,9 +20,9 @@
 
 # ⭐ Recent Stars
 
-- [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go (5 days ago)
-- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It&#39;s completely configurable and 100% cross-platform compatible. (6 days ago)
-- [qascade/yast](https://github.com/qascade/yast) - Yet Another Streaming Tool (2 weeks ago)
+- [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go (6 days ago)
+- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It&#39;s completely configurable and 100% cross-platform compatible. (1 week ago)
+- [qascade/yast](https://github.com/qascade/yast) - Yet Another Streaming Tool (3 weeks ago)
 - [harness/drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform (3 weeks ago)
 - [CoreyMSchafer/dotfiles](https://github.com/CoreyMSchafer/dotfiles) - My dotfiles and personal preferences (1 month ago)
 
