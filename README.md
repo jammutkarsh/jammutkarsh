@@ -4,9 +4,9 @@
 
 ## 👷 Check out what I'm currently working on
 
-- [datacode-in/Hacktoberfest-Indore-2022](https://github.com/datacode-in/Hacktoberfest-Indore-2022) - Hacktoberfest Indore 2022 (1 day ago)
-- [JammUtkarsh/jammutkarsh](https://github.com/JammUtkarsh/jammutkarsh) -  (3 days ago)
-- [acetechcomm/website](https://github.com/acetechcomm/website) - Website for Ace (6 days ago)
+- [datacode-in/Hacktoberfest-Indore-2022](https://github.com/datacode-in/Hacktoberfest-Indore-2022) - Hacktoberfest Indore 2022 (2 days ago)
+- [JammUtkarsh/jammutkarsh](https://github.com/JammUtkarsh/jammutkarsh) -  (4 days ago)
+- [acetechcomm/website](https://github.com/acetechcomm/website) - Website for Ace (1 week ago)
 - [JammUtkarsh/grec](https://github.com/JammUtkarsh/grec) - A CLI application to insert records into json file. grec = go recorder (1 week ago)
 - [JammUtkarsh/cshare-server](https://github.com/JammUtkarsh/cshare-server) - Back-End of Cshare (2 weeks ago)
 
@@ -20,9 +20,9 @@
 
 # ⭐ Recent Stars
 
-- [gavv/httpexpect](https://github.com/gavv/httpexpect) - End-to-end HTTP and REST API testing for Go. (today)
-- [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) - Source code and community space of 📖 100 Go Mistakes. (today)
-- [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go (6 days ago)
+- [gavv/httpexpect](https://github.com/gavv/httpexpect) - End-to-end HTTP and REST API testing for Go. (1 day ago)
+- [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) - Source code and community space of 📖 100 Go Mistakes. (1 day ago)
+- [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go (1 week ago)
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It&#39;s completely configurable and 100% cross-platform compatible. (1 week ago)
 - [qascade/yast](https://github.com/qascade/yast) - Yet Another Streaming Tool (3 weeks ago)
 
