@@ -28,11 +28,11 @@
 
 ## 👯 Check out some of my recent followers
 
+- [Kwynto](https://github.com/Kwynto)
 - [isyuricunha](https://github.com/isyuricunha)
 - [atharvagadkari05](https://github.com/atharvagadkari05)
 - [cumsoft](https://github.com/cumsoft)
 - [gamemann](https://github.com/gamemann)
-- [WilliamMajanja](https://github.com/WilliamMajanja)
 
 ## 💬 Feedback
 
