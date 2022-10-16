@@ -30,9 +30,9 @@
 
 - [Chamepp](https://github.com/Chamepp)
 - [Kwynto](https://github.com/Kwynto)
-- [isyuricunha](https://github.com/isyuricunha)
 - [atharvagadkari05](https://github.com/atharvagadkari05)
 - [cumsoft](https://github.com/cumsoft)
+- [gamemann](https://github.com/gamemann)
 
 ## 💬 Feedback
 
