@@ -28,11 +28,11 @@
 
 ## 👯 Check out some of my recent followers
 
+- [danielaltamirano1993](https://github.com/danielaltamirano1993)
 - [Chamepp](https://github.com/Chamepp)
 - [Kwynto](https://github.com/Kwynto)
 - [atharvagadkari05](https://github.com/atharvagadkari05)
 - [cumsoft](https://github.com/cumsoft)
-- [gamemann](https://github.com/gamemann)
 
 ## 💬 Feedback
 
