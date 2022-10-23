@@ -20,11 +20,11 @@
 
 # ⭐ Recent Stars
 
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd (today)
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service (1 week ago)
 - [gavv/httpexpect](https://github.com/gavv/httpexpect) - End-to-end HTTP and REST API testing for Go. (2 weeks ago)
 - [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) - Source code and community space of 📖 100 Go Mistakes. (2 weeks ago)
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go (2 weeks ago)
-- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It&#39;s completely configurable and 100% cross-platform compatible. (3 weeks ago)
 
 ## 👯 Check out some of my recent followers
 
