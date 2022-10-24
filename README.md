@@ -7,7 +7,7 @@
 - [JammUtkarsh/cshare-server](https://github.com/JammUtkarsh/cshare-server) - Back-End of Cshare (1 week ago)
 - [datacode-in/Hacktoberfest-Indore-2022](https://github.com/datacode-in/Hacktoberfest-Indore-2022) - Hacktoberfest Indore 2022 (2 weeks ago)
 - [JammUtkarsh/jammutkarsh](https://github.com/JammUtkarsh/jammutkarsh) -  (2 weeks ago)
-- [acetechcomm/website](https://github.com/acetechcomm/website) - Website for Ace (2 weeks ago)
+- [acetechcomm/website](https://github.com/acetechcomm/website) - Website for Ace (3 weeks ago)
 - [JammUtkarsh/grec](https://github.com/JammUtkarsh/grec) - A CLI application to insert records into json file. grec = go recorder (3 weeks ago)
 
 ## 🌱 My latest projects
@@ -20,11 +20,11 @@
 
 # ⭐ Recent Stars
 
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd (today)
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service (1 week ago)
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd (1 day ago)
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service (2 weeks ago)
 - [gavv/httpexpect](https://github.com/gavv/httpexpect) - End-to-end HTTP and REST API testing for Go. (2 weeks ago)
 - [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) - Source code and community space of 📖 100 Go Mistakes. (2 weeks ago)
-- [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go (2 weeks ago)
+- [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go (3 weeks ago)
 
 ## 👯 Check out some of my recent followers
 
