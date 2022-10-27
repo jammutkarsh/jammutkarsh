@@ -12,11 +12,11 @@
 
 ## 🌱 My latest projects
 
+- [JammUtkarsh/blog.utkarschourasia.in](https://github.com/JammUtkarsh/blog.utkarschourasia.in) - Markdown Blogs
 - [JammUtkarsh/dotfiles](https://github.com/JammUtkarsh/dotfiles) - Scripts and alias commonly used
 - [JammUtkarsh/cypherDecipher](https://github.com/JammUtkarsh/cypherDecipher) - A Go library for salting and un-salting strings of text(passwords).
 - [JammUtkarsh/cshare-server](https://github.com/JammUtkarsh/cshare-server) - Back-End of Cshare
 - [JammUtkarsh/cshare](https://github.com/JammUtkarsh/cshare) - A CLI utility to share clips across devices.
-- [JammUtkarsh/terminal-website](https://github.com/JammUtkarsh/terminal-website) - A portfolio website with terminal like theme
 
 # ⭐ Recent Stars
 
