@@ -4,9 +4,9 @@
 
 ## 👷 Check out what I'm currently working on
 
-- [JammUtkarsh/terminal-website](https://github.com/JammUtkarsh/terminal-website) - A portfolio website with terminal like theme (today)
+- [JammUtkarsh/terminal-website](https://github.com/JammUtkarsh/terminal-website) - A portfolio website with terminal like theme (1 day ago)
 - [JammUtkarsh/cshare-server](https://github.com/JammUtkarsh/cshare-server) - Back-End of Cshare (1 week ago)
-- [datacode-in/Hacktoberfest-Indore-2022](https://github.com/datacode-in/Hacktoberfest-Indore-2022) - Hacktoberfest Indore 2022 (2 weeks ago)
+- [datacode-in/Hacktoberfest-Indore-2022](https://github.com/datacode-in/Hacktoberfest-Indore-2022) - Hacktoberfest Indore 2022 (3 weeks ago)
 - [JammUtkarsh/jammutkarsh](https://github.com/JammUtkarsh/jammutkarsh) -  (3 weeks ago)
 - [acetechcomm/website](https://github.com/acetechcomm/website) - Website for Ace (3 weeks ago)
 
@@ -20,9 +20,9 @@
 
 # ⭐ Recent Stars
 
-- [earthly/earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere (today)
-- [jaredpalmer/jaredpalmer.github.io](https://github.com/jaredpalmer/jaredpalmer.github.io) -  (1 day ago)
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd (5 days ago)
+- [earthly/earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere (1 day ago)
+- [jaredpalmer/jaredpalmer.github.io](https://github.com/jaredpalmer/jaredpalmer.github.io) -  (2 days ago)
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd (6 days ago)
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service (2 weeks ago)
 - [gavv/httpexpect](https://github.com/gavv/httpexpect) - End-to-end HTTP and REST API testing for Go. (2 weeks ago)
 
