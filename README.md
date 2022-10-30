@@ -20,11 +20,11 @@
 
 # ⭐ Recent Stars
 
+- [ignite/cli](https://github.com/ignite/cli) - Ignite CLI is the all-in-one platform to build, launch, and maintain any crypto application on a sovereign and secured blockchain (today)
 - [earthly/earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere (2 days ago)
 - [jaredpalmer/jaredpalmer.github.io](https://github.com/jaredpalmer/jaredpalmer.github.io) -  (3 days ago)
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd (1 week ago)
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service (2 weeks ago)
-- [gavv/httpexpect](https://github.com/gavv/httpexpect) - End-to-end HTTP and REST API testing for Go. (3 weeks ago)
 
 ## 👯 Check out some of my recent followers
 
