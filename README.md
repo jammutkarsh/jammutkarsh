@@ -20,11 +20,11 @@
 
 # ⭐ Recent Stars
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
 - [ignite/cli](https://github.com/ignite/cli) - Ignite CLI is the all-in-one platform to build, launch, and maintain any crypto application on a sovereign and secured blockchain (1 day ago)
 - [earthly/earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere (3 days ago)
 - [jaredpalmer/jaredpalmer.github.io](https://github.com/jaredpalmer/jaredpalmer.github.io) -  (4 days ago)
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd (1 week ago)
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service (3 weeks ago)
 
 ## 👯 Check out some of my recent followers
 
