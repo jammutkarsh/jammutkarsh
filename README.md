@@ -4,11 +4,11 @@
 
 ## 👷 Check out what I'm currently working on
 
-- [JammUtkarsh/terminal-website](https://github.com/JammUtkarsh/terminal-website) - A portfolio website with terminal like theme (2 days ago)
+- [JammUtkarsh/terminal-website](https://github.com/JammUtkarsh/terminal-website) - A portfolio website with terminal like theme (3 days ago)
 - [JammUtkarsh/cshare-server](https://github.com/JammUtkarsh/cshare-server) - Back-End of Cshare (2 weeks ago)
 - [datacode-in/Hacktoberfest-Indore-2022](https://github.com/datacode-in/Hacktoberfest-Indore-2022) - Hacktoberfest Indore 2022 (3 weeks ago)
 - [JammUtkarsh/jammutkarsh](https://github.com/JammUtkarsh/jammutkarsh) -  (3 weeks ago)
-- [acetechcomm/website](https://github.com/acetechcomm/website) - Website for Ace (3 weeks ago)
+- [acetechcomm/website](https://github.com/acetechcomm/website) - Website for Ace (4 weeks ago)
 
 ## 🌱 My latest projects
 
@@ -20,11 +20,11 @@
 
 # ⭐ Recent Stars
 
-- [ignite/cli](https://github.com/ignite/cli) - Ignite CLI is the all-in-one platform to build, launch, and maintain any crypto application on a sovereign and secured blockchain (today)
-- [earthly/earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere (2 days ago)
-- [jaredpalmer/jaredpalmer.github.io](https://github.com/jaredpalmer/jaredpalmer.github.io) -  (3 days ago)
+- [ignite/cli](https://github.com/ignite/cli) - Ignite CLI is the all-in-one platform to build, launch, and maintain any crypto application on a sovereign and secured blockchain (1 day ago)
+- [earthly/earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere (3 days ago)
+- [jaredpalmer/jaredpalmer.github.io](https://github.com/jaredpalmer/jaredpalmer.github.io) -  (4 days ago)
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd (1 week ago)
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service (2 weeks ago)
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service (3 weeks ago)
 
 ## 👯 Check out some of my recent followers
 
