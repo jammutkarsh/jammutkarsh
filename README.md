@@ -20,11 +20,11 @@
 
 # ⭐ Recent Stars
 
+- [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind, Prisma, and Vercel. (today)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
 - [ignite/cli](https://github.com/ignite/cli) - Ignite CLI is the all-in-one platform to build, launch, and maintain any crypto application on a sovereign and secured blockchain (2 days ago)
 - [earthly/earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere (4 days ago)
 - [jaredpalmer/jaredpalmer.github.io](https://github.com/jaredpalmer/jaredpalmer.github.io) -  (5 days ago)
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd (1 week ago)
 
 ## 👯 Check out some of my recent followers
 
