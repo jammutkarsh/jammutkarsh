@@ -28,11 +28,11 @@
 
 ## 👯 Check out some of my recent followers
 
+- [Basci0](https://github.com/Basci0)
 - [mbahomaid](https://github.com/mbahomaid)
 - [danielaltamirano1993](https://github.com/danielaltamirano1993)
 - [Chamepp](https://github.com/Chamepp)
 - [Kwynto](https://github.com/Kwynto)
-- [atharvagadkari05](https://github.com/atharvagadkari05)
 
 ## 💬 Feedback
 
