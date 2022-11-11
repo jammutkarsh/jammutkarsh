@@ -29,10 +29,10 @@
 ## 👯 Check out some of my recent followers
 
 - [Kwynto](https://github.com/Kwynto)
-- [Basci0](https://github.com/Basci0)
 - [mbahomaid](https://github.com/mbahomaid)
 - [danielaltamirano1993](https://github.com/danielaltamirano1993)
 - [atharvagadkari05](https://github.com/atharvagadkari05)
+- [cumsoft](https://github.com/cumsoft)
 
 ## 💬 Feedback
 
