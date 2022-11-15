@@ -29,10 +29,10 @@
 ## 👯 Check out some of my recent followers
 
 - [frankfanslc](https://github.com/frankfanslc)
-- [isyuricunha](https://github.com/isyuricunha)
 - [Kwynto](https://github.com/Kwynto)
 - [mbahomaid](https://github.com/mbahomaid)
 - [danielaltamirano1993](https://github.com/danielaltamirano1993)
+- [atharvagadkari05](https://github.com/atharvagadkari05)
 
 ## 💬 Feedback
 
