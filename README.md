@@ -30,7 +30,7 @@
 
 - [frankfanslc](https://github.com/frankfanslc)
 - [Kwynto](https://github.com/Kwynto)
-- [mbahomaid](https://github.com/mbahomaid)
+- [Kise-Ryouta](https://github.com/Kise-Ryouta)
 - [danielaltamirano1993](https://github.com/danielaltamirano1993)
 - [atharvagadkari05](https://github.com/atharvagadkari05)
 
