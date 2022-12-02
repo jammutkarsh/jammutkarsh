@@ -4,7 +4,7 @@
 
 ## 👷 Check out what I'm currently working on
 
-- [JammUtkarsh/cshare-server](https://github.com/JammUtkarsh/cshare-server) - Back-End of Cshare (today)
+- [JammUtkarsh/cshare-server](https://github.com/JammUtkarsh/cshare-server) - backend server of cShare. (today)
 - [JammUtkarsh/cypherDecipher](https://github.com/JammUtkarsh/cypherDecipher) - A Go library for salting and un-salting strings of text(passwords). (2 days ago)
 - [JammUtkarsh/terminal-website](https://github.com/JammUtkarsh/terminal-website) - A portfolio website with terminal like theme (1 month ago)
 - [datacode-in/Hacktoberfest-Indore-2022](https://github.com/datacode-in/Hacktoberfest-Indore-2022) - Hacktoberfest Indore 2022 (1 month ago)
@@ -15,7 +15,7 @@
 - [JammUtkarsh/blog.utkarschourasia.in](https://github.com/JammUtkarsh/blog.utkarschourasia.in) - Markdown Blogs
 - [JammUtkarsh/dotfiles](https://github.com/JammUtkarsh/dotfiles) - Scripts and alias commonly used
 - [JammUtkarsh/cypherDecipher](https://github.com/JammUtkarsh/cypherDecipher) - A Go library for salting and un-salting strings of text(passwords).
-- [JammUtkarsh/cshare-server](https://github.com/JammUtkarsh/cshare-server) - Back-End of Cshare
+- [JammUtkarsh/cshare-server](https://github.com/JammUtkarsh/cshare-server) - backend server of cShare.
 - [JammUtkarsh/cshare](https://github.com/JammUtkarsh/cshare) - A CLI utility to share clips across devices.
 
 # ⭐ Recent Stars
