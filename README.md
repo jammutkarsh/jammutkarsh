@@ -20,11 +20,11 @@
 
 # ⭐ Recent Stars
 
+- [stretchr/gorc](https://github.com/stretchr/gorc) - Recursive go testing, done better. (today)
+- [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library (today)
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries (2 days ago)
 - [golang-templates/seed](https://github.com/golang-templates/seed) - Go application GitHub repository template. (4 days ago)
 - [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind, Prisma, and Vercel. (1 month ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 month ago)
-- [ignite/cli](https://github.com/ignite/cli) - Ignite CLI is the all-in-one platform to build, launch, and maintain any crypto application on a sovereign and secured blockchain (1 month ago)
 
 ## 👯 Check out some of my recent followers
 
