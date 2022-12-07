@@ -4,10 +4,10 @@
 
 ## 👷 Check out what I'm currently working on
 
-- [JammUtkarsh/cshare-server](https://github.com/JammUtkarsh/cshare-server) - backend server of cShare. (3 days ago)
-- [JammUtkarsh/cypherDecipher](https://github.com/JammUtkarsh/cypherDecipher) - A Go library for salting and un-salting strings of text(passwords). (6 days ago)
+- [JammUtkarsh/cshare-server](https://github.com/JammUtkarsh/cshare-server) - backend server of cShare. (4 days ago)
+- [JammUtkarsh/cypherDecipher](https://github.com/JammUtkarsh/cypherDecipher) - A Go library for salting and un-salting strings of text(passwords). (1 week ago)
 - [JammUtkarsh/terminal-website](https://github.com/JammUtkarsh/terminal-website) - A portfolio website with terminal like theme (1 month ago)
-- [datacode-in/Hacktoberfest-Indore-2022](https://github.com/datacode-in/Hacktoberfest-Indore-2022) - Hacktoberfest Indore 2022 (1 month ago)
+- [datacode-in/Hacktoberfest-Indore-2022](https://github.com/datacode-in/Hacktoberfest-Indore-2022) - Hacktoberfest Indore 2022 (2 months ago)
 - [JammUtkarsh/jammutkarsh](https://github.com/JammUtkarsh/jammutkarsh) -  (2 months ago)
 
 ## 🌱 My latest projects
@@ -20,10 +20,10 @@
 
 # ⭐ Recent Stars
 
-- [stretchr/gorc](https://github.com/stretchr/gorc) - Recursive go testing, done better. (2 days ago)
-- [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library (2 days ago)
-- [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries (4 days ago)
-- [golang-templates/seed](https://github.com/golang-templates/seed) - Go application GitHub repository template. (6 days ago)
+- [stretchr/gorc](https://github.com/stretchr/gorc) - Recursive go testing, done better. (3 days ago)
+- [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library (3 days ago)
+- [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries (5 days ago)
+- [golang-templates/seed](https://github.com/golang-templates/seed) - Go application GitHub repository template. (1 week ago)
 - [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind, Prisma, and Vercel. (1 month ago)
 
 ## 👯 Check out some of my recent followers
