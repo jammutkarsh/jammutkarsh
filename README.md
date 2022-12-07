@@ -20,11 +20,11 @@
 
 # ⭐ Recent Stars
 
+- [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles (today)
 - [stretchr/gorc](https://github.com/stretchr/gorc) - Recursive go testing, done better. (3 days ago)
 - [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library (3 days ago)
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries (5 days ago)
 - [golang-templates/seed](https://github.com/golang-templates/seed) - Go application GitHub repository template. (1 week ago)
-- [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind, Prisma, and Vercel. (1 month ago)
 
 ## 👯 Check out some of my recent followers
 
