@@ -20,11 +20,11 @@
 
 # ⭐ Recent Stars
 
+- [laurent22/rsync-time-backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync. (today)
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data (2 days ago)
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles (2 days ago)
 - [stretchr/gorc](https://github.com/stretchr/gorc) - Recursive go testing, done better. (5 days ago)
 - [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library (5 days ago)
-- [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries (1 week ago)
 
 ## 👯 Check out some of my recent followers
 
