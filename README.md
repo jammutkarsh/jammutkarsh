@@ -20,11 +20,11 @@
 
 # ⭐ Recent Stars
 
-- [laurent22/rsync-time-backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync. (1 day ago)
-- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data (3 days ago)
-- [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles (3 days ago)
-- [stretchr/gorc](https://github.com/stretchr/gorc) - Recursive go testing, done better. (6 days ago)
-- [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library (6 days ago)
+- [laurent22/rsync-time-backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync. (2 days ago)
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data (4 days ago)
+- [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles (4 days ago)
+- [stretchr/gorc](https://github.com/stretchr/gorc) - Recursive go testing, done better. (1 week ago)
+- [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library (1 week ago)
 
 ## 👯 Check out some of my recent followers
 
