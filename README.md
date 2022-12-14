@@ -5,7 +5,7 @@
 ## 👷 Check out what I'm currently working on
 
 - [JammUtkarsh/cshare-server](https://github.com/JammUtkarsh/cshare-server) - backend server of cShare. (1 week ago)
-- [JammUtkarsh/cypherDecipher](https://github.com/JammUtkarsh/cypherDecipher) - A Go library for salting and un-salting strings of text(passwords). (1 week ago)
+- [JammUtkarsh/cypherDecipher](https://github.com/JammUtkarsh/cypherDecipher) - A Go library for salting and un-salting strings of text(passwords). (2 weeks ago)
 - [JammUtkarsh/terminal-website](https://github.com/JammUtkarsh/terminal-website) - A portfolio website with terminal like theme (1 month ago)
 - [datacode-in/Hacktoberfest-Indore-2022](https://github.com/datacode-in/Hacktoberfest-Indore-2022) - Hacktoberfest Indore 2022 (2 months ago)
 - [JammUtkarsh/jammutkarsh](https://github.com/JammUtkarsh/jammutkarsh) -  (2 months ago)
@@ -20,9 +20,9 @@
 
 # ⭐ Recent Stars
 
-- [laurent22/rsync-time-backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync. (4 days ago)
-- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data (6 days ago)
-- [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles (6 days ago)
+- [laurent22/rsync-time-backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync. (5 days ago)
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data (1 week ago)
+- [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles (1 week ago)
 - [stretchr/gorc](https://github.com/stretchr/gorc) - Recursive go testing, done better. (1 week ago)
 - [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library (1 week ago)
 
