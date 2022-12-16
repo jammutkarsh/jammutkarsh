@@ -20,7 +20,7 @@
 
 # ⭐ Recent Stars
 
-- [laurent22/rsync-time-backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync. (6 days ago)
+- [laurent22/rsync-time-backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync. (1 week ago)
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data (1 week ago)
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles (1 week ago)
 - [stretchr/gorc](https://github.com/stretchr/gorc) - Recursive go testing, done better. (1 week ago)
