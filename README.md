@@ -30,9 +30,9 @@
 
 - [AbdeenM](https://github.com/AbdeenM)
 - [frankfanslc](https://github.com/frankfanslc)
-- [Kwynto](https://github.com/Kwynto)
 - [danielaltamirano1993](https://github.com/danielaltamirano1993)
 - [atharvagadkari05](https://github.com/atharvagadkari05)
+- [cumsoft](https://github.com/cumsoft)
 
 ## 💬 Feedback
 
