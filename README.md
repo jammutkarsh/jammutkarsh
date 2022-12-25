@@ -23,8 +23,8 @@
 - [laurent22/rsync-time-backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync. (2 weeks ago)
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data (2 weeks ago)
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles (2 weeks ago)
-- [stretchr/gorc](https://github.com/stretchr/gorc) - Recursive go testing, done better. (2 weeks ago)
-- [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library (2 weeks ago)
+- [stretchr/gorc](https://github.com/stretchr/gorc) - Recursive go testing, done better. (3 weeks ago)
+- [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library (3 weeks ago)
 
 ## 👯 Check out some of my recent followers
 
