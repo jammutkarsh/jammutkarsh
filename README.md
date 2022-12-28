@@ -5,7 +5,7 @@
 ## 👷 Check out what I'm currently working on
 
 - [JammUtkarsh/cshare-server](https://github.com/JammUtkarsh/cshare-server) - backend server of cShare. (3 weeks ago)
-- [JammUtkarsh/cypherDecipher](https://github.com/JammUtkarsh/cypherDecipher) - A Go library for salting and un-salting strings of text(passwords). (3 weeks ago)
+- [JammUtkarsh/cypherDecipher](https://github.com/JammUtkarsh/cypherDecipher) - A Go library for salting and un-salting strings of text(passwords). (4 weeks ago)
 - [JammUtkarsh/terminal-website](https://github.com/JammUtkarsh/terminal-website) - A portfolio website with terminal like theme (2 months ago)
 - [datacode-in/Hacktoberfest-Indore-2022](https://github.com/datacode-in/Hacktoberfest-Indore-2022) - Hacktoberfest Indore 2022 (2 months ago)
 - [JammUtkarsh/jammutkarsh](https://github.com/JammUtkarsh/jammutkarsh) -  (2 months ago)
@@ -20,11 +20,11 @@
 
 # ⭐ Recent Stars
 
-- [tamagui/tamagui](https://github.com/tamagui/tamagui) - Universal UI kit and style system for React Native &#43; Web - with an optimizing compiler 🚄 (1 day ago)
-- [mum4k/termdash](https://github.com/mum4k/termdash) - Terminal based dashboard. (1 day ago)
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - Universal UI kit and style system for React Native &#43; Web - with an optimizing compiler 🚄 (2 days ago)
+- [mum4k/termdash](https://github.com/mum4k/termdash) - Terminal based dashboard. (2 days ago)
 - [laurent22/rsync-time-backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync. (2 weeks ago)
-- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data (2 weeks ago)
-- [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles (2 weeks ago)
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data (3 weeks ago)
+- [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles (3 weeks ago)
 
 ## 👯 Check out some of my recent followers
 
