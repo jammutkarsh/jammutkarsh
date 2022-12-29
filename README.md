@@ -20,8 +20,8 @@
 
 # ⭐ Recent Stars
 
-- [tamagui/tamagui](https://github.com/tamagui/tamagui) - Universal UI kit and style system for React Native &#43; Web - with an optimizing compiler 🚄 (2 days ago)
-- [mum4k/termdash](https://github.com/mum4k/termdash) - Terminal based dashboard. (2 days ago)
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - Universal UI kit and style system for React Native &#43; Web - with an optimizing compiler 🚄 (3 days ago)
+- [mum4k/termdash](https://github.com/mum4k/termdash) - Terminal based dashboard. (3 days ago)
 - [laurent22/rsync-time-backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync. (2 weeks ago)
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data (3 weeks ago)
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles (3 weeks ago)
