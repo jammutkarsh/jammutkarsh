@@ -4,8 +4,8 @@
 
 ## 👷 Check out what I'm currently working on
 
-- [JammUtkarsh/cshare-server](https://github.com/JammUtkarsh/cshare-server) - backend server of cShare. (today)
-- [questdb/go-questdb-client](https://github.com/questdb/go-questdb-client) - Golang client for QuestDB&#39;s Influx Line Protocol over TCP (5 days ago)
+- [JammUtkarsh/cshare-server](https://github.com/JammUtkarsh/cshare-server) - backend server of cShare. (1 day ago)
+- [questdb/go-questdb-client](https://github.com/questdb/go-questdb-client) - Golang client for QuestDB&#39;s Influx Line Protocol over TCP (6 days ago)
 - [JammUtkarsh/cypherDecipher](https://github.com/JammUtkarsh/cypherDecipher) - A Go library for salting and un-salting strings of text(passwords). (1 month ago)
 - [JammUtkarsh/terminal-website](https://github.com/JammUtkarsh/terminal-website) - A portfolio website with terminal like theme (2 months ago)
 - [datacode-in/Hacktoberfest-Indore-2022](https://github.com/datacode-in/Hacktoberfest-Indore-2022) - Hacktoberfest Indore 2022 (2 months ago)
@@ -20,11 +20,11 @@
 
 # ⭐ Recent Stars
 
-- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go. (today)
+- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go. (1 day ago)
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Universal UI kit and style system for React Native &#43; Web - with an optimizing compiler 🚄 (1 week ago)
 - [mum4k/termdash](https://github.com/mum4k/termdash) - Terminal based dashboard. (1 week ago)
 - [laurent22/rsync-time-backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync. (3 weeks ago)
-- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data (3 weeks ago)
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data (4 weeks ago)
 
 ## 👯 Check out some of my recent followers
 
