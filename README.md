@@ -31,8 +31,8 @@
 - [frankfanslc](https://github.com/frankfanslc)
 - [danielaltamirano1993](https://github.com/danielaltamirano1993)
 - [atharvagadkari05](https://github.com/atharvagadkari05)
+- [cumsoft](https://github.com/cumsoft)
 - [gamemann](https://github.com/gamemann)
-- [WilliamMajanja](https://github.com/WilliamMajanja)
 
 ## 💬 Feedback
 
