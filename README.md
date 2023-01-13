@@ -20,11 +20,11 @@
 
 # ⭐ Recent Stars
 
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go (today)
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go. (1 week ago)
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Universal UI kit and style system for React Native &#43; Web - with an optimizing compiler 🚄 (2 weeks ago)
 - [mum4k/termdash](https://github.com/mum4k/termdash) - Terminal based dashboard. (2 weeks ago)
 - [laurent22/rsync-time-backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync. (1 month ago)
-- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data (1 month ago)
 
 ## 👯 Check out some of my recent followers
 
