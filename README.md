@@ -4,7 +4,7 @@
 
 ## 👷 Check out what I'm currently working on
 
-- [JammUtkarsh/cshare-server](https://github.com/JammUtkarsh/cshare-server) - backend server of cShare. (2 days ago)
+- [JammUtkarsh/cshare-server](https://github.com/JammUtkarsh/cshare-server) - backend server of cShare. (3 days ago)
 - [questdb/go-questdb-client](https://github.com/questdb/go-questdb-client) - Golang client for QuestDB&#39;s Influx Line Protocol over TCP (1 week ago)
 - [JammUtkarsh/cypherDecipher](https://github.com/JammUtkarsh/cypherDecipher) - A Go library for salting and un-salting strings of text(passwords). (1 month ago)
 - [JammUtkarsh/terminal-website](https://github.com/JammUtkarsh/terminal-website) - A portfolio website with terminal like theme (2 months ago)
@@ -20,7 +20,7 @@
 
 # ⭐ Recent Stars
 
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go (today)
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go (1 day ago)
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go. (1 week ago)
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Universal UI kit and style system for React Native &#43; Web - with an optimizing compiler 🚄 (2 weeks ago)
 - [mum4k/termdash](https://github.com/mum4k/termdash) - Terminal based dashboard. (2 weeks ago)
