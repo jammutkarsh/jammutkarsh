@@ -28,11 +28,11 @@
 
 ## 👯 Check out some of my recent followers
 
+- [BEPb](https://github.com/BEPb)
 - [frankfanslc](https://github.com/frankfanslc)
 - [danielaltamirano1993](https://github.com/danielaltamirano1993)
 - [atharvagadkari05](https://github.com/atharvagadkari05)
 - [cumsoft](https://github.com/cumsoft)
-- [gamemann](https://github.com/gamemann)
 
 ## 💬 Feedback
 
