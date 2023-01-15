@@ -2,6 +2,12 @@
 
 ![Image](https://github.com/JammUtkarsh/jammutkarsh/blob/main/github-banner.png?raw=true)
 
+Learn More about me in your terminal:
+
+```bash
+docker run --rm -it jammutkarsh/intro:jan2022
+```
+
 ## 👷 Check out what I'm currently working on
 
 - [JammUtkarsh/cshare-server](https://github.com/JammUtkarsh/cshare-server) - backend server of cShare. (1 day ago)
@@ -18,7 +24,7 @@
 - [JammUtkarsh/cshare-server](https://github.com/JammUtkarsh/cshare-server) - backend server of cShare.
 - [JammUtkarsh/cshare](https://github.com/JammUtkarsh/cshare) - A CLI utility to share clips across devices.
 
-# ⭐ Recent Stars
+## ⭐ Recent Stars
 
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go (2 days ago)
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go. (1 week ago)

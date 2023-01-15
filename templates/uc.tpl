@@ -2,6 +2,12 @@
 
 ![Image](https://github.com/JammUtkarsh/jammutkarsh/blob/main/github-banner.png?raw=true)
 
+Learn More about me in your terminal:
+
+```bash
+docker run --rm -it jammutkarsh/intro:jan2022
+```
+
 ## 👷 Check out what I'm currently working on
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
@@ -12,7 +18,7 @@
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
-# ⭐ Recent Stars
+## ⭐ Recent Stars
 {{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
