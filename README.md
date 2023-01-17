@@ -34,11 +34,11 @@ docker run --rm -it jammutkarsh/intro:jan2022
 
 ## 👯 Check out some of my recent followers
 
+- [wunderkind2k1](https://github.com/wunderkind2k1)
 - [frankfanslc](https://github.com/frankfanslc)
 - [danielaltamirano1993](https://github.com/danielaltamirano1993)
 - [atharvagadkari05](https://github.com/atharvagadkari05)
 - [cumsoft](https://github.com/cumsoft)
-- [gamemann](https://github.com/gamemann)
 
 ## 💬 Feedback
 
