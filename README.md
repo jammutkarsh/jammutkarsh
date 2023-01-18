@@ -26,11 +26,11 @@ docker run --rm -it jammutkarsh/intro:jan2022
 
 ## ⭐ Recent Stars
 
+- [noborus/trdsql](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN. Can output to various formats. (today)
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go (5 days ago)
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go. (2 weeks ago)
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Universal UI kit and style system for React Native &#43; Web - with an optimizing compiler 🚄 (3 weeks ago)
 - [mum4k/termdash](https://github.com/mum4k/termdash) - Terminal based dashboard. (3 weeks ago)
-- [laurent22/rsync-time-backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync. (1 month ago)
 
 ## 👯 Check out some of my recent followers
 
