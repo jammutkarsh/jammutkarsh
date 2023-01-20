@@ -18,11 +18,11 @@ docker run --rm -it jammutkarsh/intro:jan2022
 
 ## 🌱 My latest projects
 
+- [JammUtkarsh/cshare](https://github.com/JammUtkarsh/cshare) - 
 - [JammUtkarsh/blog.utkarschourasia.in](https://github.com/JammUtkarsh/blog.utkarschourasia.in) - Markdown Blogs
 - [JammUtkarsh/dotfiles](https://github.com/JammUtkarsh/dotfiles) - Scripts and alias commonly used
 - [JammUtkarsh/cypherDecipher](https://github.com/JammUtkarsh/cypherDecipher) - A Go library for salting and un-salting strings of text(passwords).
 - [JammUtkarsh/cshare-server](https://github.com/JammUtkarsh/cshare-server) - backend server of cShare.
-- [JammUtkarsh/cshare](https://github.com/JammUtkarsh/cshare) - A CLI utility to share clips across devices.
 
 ## ⭐ Recent Stars
 
