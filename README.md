@@ -10,10 +10,10 @@ docker run --rm -it jammutkarsh/intro:jan2022
 
 ## 👷 Check out what I'm currently working on
 
-- [JammUtkarsh/cshare-server](https://github.com/JammUtkarsh/cshare-server) - backend server of cShare. (2 days ago)
-- [JammUtkarsh/cshare](https://github.com/JammUtkarsh/cshare) - A command-line tool to share sensitive text data across devices owned by you. (6 days ago)
+- [JammUtkarsh/cshare-server](https://github.com/JammUtkarsh/cshare-server) - backend server of cShare. (3 days ago)
+- [JammUtkarsh/cshare](https://github.com/JammUtkarsh/cshare) - A command-line tool to share sensitive text data across devices owned by you. (1 week ago)
 - [JammUtkarsh/jammutkarsh](https://github.com/JammUtkarsh/jammutkarsh) -  (1 week ago)
-- [questdb/go-questdb-client](https://github.com/questdb/go-questdb-client) - Golang client for QuestDB&#39;s Influx Line Protocol over TCP (2 weeks ago)
+- [questdb/go-questdb-client](https://github.com/questdb/go-questdb-client) - Golang client for QuestDB&#39;s Influx Line Protocol over TCP (3 weeks ago)
 - [JammUtkarsh/cypherDecipher](https://github.com/JammUtkarsh/cypherDecipher) - A Go library for salting and un-salting strings of text(passwords). (1 month ago)
 
 ## 🌱 My latest projects
@@ -26,11 +26,11 @@ docker run --rm -it jammutkarsh/intro:jan2022
 
 ## ⭐ Recent Stars
 
-- [gnolang/gno](https://github.com/gnolang/gno) - Gno language &amp; gno.land chain (1 day ago)
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (1 day ago)
-- [datastack-net/dockerized](https://github.com/datastack-net/dockerized) - Run popular commandline tools within docker (5 days ago)
+- [gnolang/gno](https://github.com/gnolang/gno) - Gno language &amp; gno.land chain (2 days ago)
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (2 days ago)
+- [datastack-net/dockerized](https://github.com/datastack-net/dockerized) - Run popular commandline tools within docker (6 days ago)
 - [noborus/trdsql](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN. Can output to various formats. (1 week ago)
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go (1 week ago)
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go (2 weeks ago)
 
 ## 👯 Check out some of my recent followers
 
