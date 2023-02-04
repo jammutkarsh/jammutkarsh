@@ -28,7 +28,7 @@ docker run --rm -it jammutkarsh/intro:jan2022
 
 - [gnolang/gno](https://github.com/gnolang/gno) - Gno language &amp; gno.land chain (1 week ago)
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (1 week ago)
-- [datastack-net/dockerized](https://github.com/datastack-net/dockerized) - Run popular commandline tools within docker (1 week ago)
+- [datastack-net/dockerized](https://github.com/datastack-net/dockerized) - Run popular commandline tools within docker (2 weeks ago)
 - [noborus/trdsql](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN. Can output to various formats. (2 weeks ago)
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go (3 weeks ago)
 
