@@ -1,5 +1,5 @@
 FROM golang:alpine as builder
-LABEL maintainer="Utkarsh Chourasia <5.utkarshchourasia@gmail.com"
+LABEL maintainer="Utkarsh Chourasia <5.utkarshchourasia@gmail.com>"
 RUN apk update && apk add --no-cache git
 WORKDIR /app
 RUN git clone https://github.com/charmbracelet/glow

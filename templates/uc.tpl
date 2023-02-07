@@ -5,7 +5,7 @@
 Learn more about me in your terminal:
 
 ```bash
-docker run --rm -it jammutkarsh/intro:jan2022
+docker run --rm -it jammutkarsh/intro
 ```
 
 ## 👷 Check out what I'm currently working on

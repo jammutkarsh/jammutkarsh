@@ -1,19 +1,18 @@
 # Meet Utkarsh Chourasia
 
-A highly organized and detail-oriented student and software developer. He is **deeply passionate** about **technology**.
-Though *"technology"* would be a very broad term!
+A highly organized and detail-oriented student and a software engineer. He is **deeply passionate** about **technology**.
 
-He loves to **play**/**work** with
+*"Technology"* would be a very broad term! He loves to **play**/**work** with
 
 ```go
-[ "Terminals", "Containers", "Automation", "Backend-infra", "Cloud", "Networking" ]
+[ "Terminals", "Containers", "Automation", "Backend-Infrastructure", "Cloud", "Networking" ]
 ```
 
 He is a young lad who is still exploring, so the array might grow!
 
-Utkarsh is a **modern magician**, except I transform `complicated technical ideas` into `executable code`. He is currently pursuing a *B.Tech*. in *Computer Science*.
+Utkarsh is a **modern magician**, except he transforms `technical ideas` into `executable code`. He is currently pursuing *B.Tech*. in *Computer Science Engineering*.
 
-He is an advocate for `Linux`, `Docker`, and `Go`. But he has worked with a variety of scripting languages, like:
+He advocates for `Linux`, `Docker`, and `Go`. But he has worked with a variety of scripting languages, like:
 
 ```go
 [ "JavaScript", "TypeScript", "AppScript", "Python", "Bash" ]
