@@ -5,14 +5,14 @@
 Learn more about me in your terminal:
 
 ```bash
-docker run --rm -it jammutkarsh/intro:jan2022
+docker run --rm -it jammutkarsh/intro
 ```
 
 ## 👷 Check out what I'm currently working on
 
+- [JammUtkarsh/jammutkarsh](https://github.com/JammUtkarsh/jammutkarsh) -  (today)
 - [JammUtkarsh/cshare-server](https://github.com/JammUtkarsh/cshare-server) - backend server of cShare. (1 day ago)
 - [JammUtkarsh/cshare](https://github.com/JammUtkarsh/cshare) - A command-line tool to share sensitive text data across devices owned by you. (2 weeks ago)
-- [JammUtkarsh/jammutkarsh](https://github.com/JammUtkarsh/jammutkarsh) -  (3 weeks ago)
 - [questdb/go-questdb-client](https://github.com/questdb/go-questdb-client) - Golang client for QuestDB&#39;s Influx Line Protocol over TCP (1 month ago)
 - [JammUtkarsh/cypherDecipher](https://github.com/JammUtkarsh/cypherDecipher) - A Go library for salting and un-salting strings of text(passwords). (2 months ago)
 
