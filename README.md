@@ -10,7 +10,7 @@ docker run --rm -it jammutkarsh/intro
 
 ## 👷 Check out what I'm currently working on
 
-- [JammUtkarsh/jammutkarsh](https://github.com/JammUtkarsh/jammutkarsh) -  (6 days ago)
+- [JammUtkarsh/jammutkarsh](https://github.com/JammUtkarsh/jammutkarsh) -  (1 week ago)
 - [JammUtkarsh/cshare-server](https://github.com/JammUtkarsh/cshare-server) - backend server of cShare. (1 week ago)
 - [JammUtkarsh/cshare](https://github.com/JammUtkarsh/cshare) - A command-line tool to share sensitive text data across devices owned by you. (3 weeks ago)
 - [questdb/go-questdb-client](https://github.com/questdb/go-questdb-client) - Golang client for QuestDB&#39;s Influx Line Protocol over TCP (1 month ago)
@@ -26,7 +26,7 @@ docker run --rm -it jammutkarsh/intro
 
 ## ⭐ Recent Stars
 
-- [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever. (today)
+- [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever. (1 day ago)
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (1 week ago)
 - [gnolang/gno](https://github.com/gnolang/gno) - Gno language &amp; gno.land chain (2 weeks ago)
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (2 weeks ago)
