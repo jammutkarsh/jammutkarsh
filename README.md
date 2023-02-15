@@ -26,10 +26,10 @@ docker run --rm -it jammutkarsh/intro
 
 ## ⭐ Recent Stars
 
-- [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever. (1 day ago)
+- [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever. (2 days ago)
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (1 week ago)
-- [gnolang/gno](https://github.com/gnolang/gno) - Gno language &amp; gno.land chain (2 weeks ago)
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (2 weeks ago)
+- [gnolang/gno](https://github.com/gnolang/gno) - Gno language &amp; gno.land chain (3 weeks ago)
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (3 weeks ago)
 - [datastack-net/dockerized](https://github.com/datastack-net/dockerized) - Run popular commandline tools within docker (3 weeks ago)
 
 ## 👯 Check out some of my recent followers
