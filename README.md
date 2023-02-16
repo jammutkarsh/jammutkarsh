@@ -26,8 +26,8 @@ docker run --rm -it jammutkarsh/intro
 
 ## ⭐ Recent Stars
 
-- [pypa/virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder (today)
-- [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever. (2 days ago)
+- [pypa/virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder (1 day ago)
+- [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever. (3 days ago)
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (1 week ago)
 - [gnolang/gno](https://github.com/gnolang/gno) - Gno language &amp; gno.land chain (3 weeks ago)
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (3 weeks ago)
