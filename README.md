@@ -26,9 +26,9 @@ docker run --rm -it jammutkarsh/intro
 
 ## ⭐ Recent Stars
 
-- [dominikbraun/graph](https://github.com/dominikbraun/graph) - A library for creating generic graph data structures and modifying, analyzing, and visualizing them. (1 day ago)
-- [pypa/virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder (2 days ago)
-- [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever. (4 days ago)
+- [dominikbraun/graph](https://github.com/dominikbraun/graph) - A library for creating generic graph data structures and modifying, analyzing, and visualizing them. (2 days ago)
+- [pypa/virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder (3 days ago)
+- [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever. (5 days ago)
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (1 week ago)
 - [gnolang/gno](https://github.com/gnolang/gno) - Gno language &amp; gno.land chain (3 weeks ago)
 
