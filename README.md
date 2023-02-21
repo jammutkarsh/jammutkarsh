@@ -10,7 +10,7 @@ docker run --rm -it jammutkarsh/intro
 
 ## 👷 Check out what I'm currently working on
 
-- [JammUtkarsh/jammutkarsh](https://github.com/JammUtkarsh/jammutkarsh) -  (1 week ago)
+- [JammUtkarsh/jammutkarsh](https://github.com/JammUtkarsh/jammutkarsh) -  (2 weeks ago)
 - [JammUtkarsh/cshare-server](https://github.com/JammUtkarsh/cshare-server) - backend server of cShare. (2 weeks ago)
 - [JammUtkarsh/cshare](https://github.com/JammUtkarsh/cshare) - A command-line tool to share sensitive text data across devices owned by you. (1 month ago)
 - [questdb/go-questdb-client](https://github.com/questdb/go-questdb-client) - Golang client for QuestDB&#39;s Influx Line Protocol over TCP (1 month ago)
@@ -26,8 +26,8 @@ docker run --rm -it jammutkarsh/intro
 
 ## ⭐ Recent Stars
 
-- [dominikbraun/graph](https://github.com/dominikbraun/graph) - A library for creating generic graph data structures and modifying, analyzing, and visualizing them. (4 days ago)
-- [pypa/virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder (5 days ago)
+- [dominikbraun/graph](https://github.com/dominikbraun/graph) - A library for creating generic graph data structures and modifying, analyzing, and visualizing them. (5 days ago)
+- [pypa/virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder (6 days ago)
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever. (1 week ago)
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (2 weeks ago)
 - [gnolang/gno](https://github.com/gnolang/gno) - Gno language &amp; gno.land chain (3 weeks ago)
