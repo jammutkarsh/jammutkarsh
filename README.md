@@ -26,11 +26,11 @@ docker run --rm -it jammutkarsh/intro
 
 ## ⭐ Recent Stars
 
+- [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity. (today)
 - [dominikbraun/graph](https://github.com/dominikbraun/graph) - A library for creating generic graph data structures and modifying, analyzing, and visualizing them. (6 days ago)
 - [pypa/virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder (1 week ago)
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever. (1 week ago)
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (2 weeks ago)
-- [gnolang/gno](https://github.com/gnolang/gno) - Gno language &amp; gno.land chain (4 weeks ago)
 
 ## 👯 Check out some of my recent followers
 
