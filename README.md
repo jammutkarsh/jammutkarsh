@@ -26,10 +26,10 @@ docker run --rm -it jammutkarsh/intro
 
 ## ⭐ Recent Stars
 
-- [apache/trafficcontrol](https://github.com/apache/trafficcontrol) - Apache Traffic Control is an Open Source implementation of a Content Delivery Network (1 day ago)
-- [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity. (6 days ago)
+- [apache/trafficcontrol](https://github.com/apache/trafficcontrol) - Apache Traffic Control is an Open Source implementation of a Content Delivery Network (2 days ago)
+- [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity. (1 week ago)
 - [dominikbraun/graph](https://github.com/dominikbraun/graph) - A library for creating generic graph data structures and modifying, analyzing, and visualizing them. (1 week ago)
-- [pypa/virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder (1 week ago)
+- [pypa/virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder (2 weeks ago)
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever. (2 weeks ago)
 
 ## 👯 Check out some of my recent followers
