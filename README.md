@@ -10,7 +10,7 @@ docker run --rm -it jammutkarsh/intro
 
 ## 👷 Check out what I'm currently working on
 
-- [JammUtkarsh/cshare-server](https://github.com/JammUtkarsh/cshare-server) - backend server of cShare. (2 days ago)
+- [JammUtkarsh/cshare-server](https://github.com/JammUtkarsh/cshare-server) - backend server of cShare. (3 days ago)
 - [JammUtkarsh/jammutkarsh](https://github.com/JammUtkarsh/jammutkarsh) -  (4 weeks ago)
 - [JammUtkarsh/cshare](https://github.com/JammUtkarsh/cshare) - A command-line tool to share sensitive text data across devices owned by you. (1 month ago)
 - [questdb/go-questdb-client](https://github.com/questdb/go-questdb-client) - Golang client for QuestDB&#39;s Influx Line Protocol over TCP (2 months ago)
@@ -27,9 +27,9 @@ docker run --rm -it jammutkarsh/intro
 ## ⭐ Recent Stars
 
 - [apache/trafficcontrol](https://github.com/apache/trafficcontrol) - Apache Traffic Control is an Open Source implementation of a Content Delivery Network (1 week ago)
-- [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity. (1 week ago)
+- [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity. (2 weeks ago)
 - [dominikbraun/graph](https://github.com/dominikbraun/graph) - A library for creating generic graph data structures and modifying, analyzing, and visualizing them. (2 weeks ago)
-- [pypa/virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder (2 weeks ago)
+- [pypa/virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder (3 weeks ago)
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever. (3 weeks ago)
 
 ## 👯 Check out some of my recent followers
