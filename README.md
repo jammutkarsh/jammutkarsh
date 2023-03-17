@@ -26,11 +26,11 @@ docker run --rm -it jammutkarsh/intro
 
 ## ⭐ Recent Stars
 
+- [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes (today)
+- [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go (today)
 - [mrinalwahal/portfolio](https://github.com/mrinalwahal/portfolio) - My personal website (2 days ago)
 - [nhost/cli](https://github.com/nhost/cli) - Nhost CLI (2 days ago)
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser (3 days ago)
-- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases &amp; files to warehouses &amp; lakes. (1 week ago)
-- [apache/trafficcontrol](https://github.com/apache/trafficcontrol) - Apache Traffic Control is an Open Source implementation of a Content Delivery Network (2 weeks ago)
 
 ## 👯 Check out some of my recent followers
 
