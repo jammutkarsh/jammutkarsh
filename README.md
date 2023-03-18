@@ -26,11 +26,11 @@ docker run --rm -it jammutkarsh/intro
 
 ## ⭐ Recent Stars
 
-- [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes (today)
-- [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go (today)
-- [mrinalwahal/portfolio](https://github.com/mrinalwahal/portfolio) - My personal website (2 days ago)
-- [nhost/cli](https://github.com/nhost/cli) - Nhost CLI (2 days ago)
-- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser (3 days ago)
+- [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes (1 day ago)
+- [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go (1 day ago)
+- [mrinalwahal/portfolio](https://github.com/mrinalwahal/portfolio) - My personal website (3 days ago)
+- [nhost/cli](https://github.com/nhost/cli) - Nhost CLI (3 days ago)
+- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser (4 days ago)
 
 ## 👯 Check out some of my recent followers
 
