@@ -26,11 +26,11 @@ docker run --rm -it jammutkarsh/intro
 
 ## ⭐ Recent Stars
 
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io (today)
-- [ent/ent](https://github.com/ent/ent) - An entity framework for Go (today)
-- [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes (2 days ago)
-- [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go (2 days ago)
-- [mrinalwahal/portfolio](https://github.com/mrinalwahal/portfolio) - My personal website (4 days ago)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io (1 day ago)
+- [ent/ent](https://github.com/ent/ent) - An entity framework for Go (1 day ago)
+- [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes (3 days ago)
+- [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go (3 days ago)
+- [mrinalwahal/portfolio](https://github.com/mrinalwahal/portfolio) - My personal website (5 days ago)
 
 ## 👯 Check out some of my recent followers
 
