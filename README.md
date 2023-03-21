@@ -12,7 +12,7 @@ docker run --rm -it jammutkarsh/intro
 
 - [JammUtkarsh/cshare-server](https://github.com/JammUtkarsh/cshare-server) - backend server of cShare. (1 week ago)
 - [JammUtkarsh/jammutkarsh](https://github.com/JammUtkarsh/jammutkarsh) -  (1 month ago)
-- [JammUtkarsh/cshare](https://github.com/JammUtkarsh/cshare) - A command-line tool to share sensitive text data across devices owned by you. (1 month ago)
+- [JammUtkarsh/cshare](https://github.com/JammUtkarsh/cshare) - A command-line tool to share sensitive text data across devices owned by you. (2 months ago)
 - [questdb/go-questdb-client](https://github.com/questdb/go-questdb-client) - Golang client for QuestDB&#39;s Influx Line Protocol over TCP (2 months ago)
 - [JammUtkarsh/cypherDecipher](https://github.com/JammUtkarsh/cypherDecipher) - A Go library for salting and un-salting strings of text(passwords). (3 months ago)
 
@@ -26,11 +26,11 @@ docker run --rm -it jammutkarsh/intro
 
 ## ⭐ Recent Stars
 
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io (1 day ago)
-- [ent/ent](https://github.com/ent/ent) - An entity framework for Go (1 day ago)
-- [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes (3 days ago)
-- [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go (3 days ago)
-- [mrinalwahal/portfolio](https://github.com/mrinalwahal/portfolio) - My personal website (5 days ago)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io (2 days ago)
+- [ent/ent](https://github.com/ent/ent) - An entity framework for Go (2 days ago)
+- [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes (4 days ago)
+- [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go (4 days ago)
+- [mrinalwahal/portfolio](https://github.com/mrinalwahal/portfolio) - My personal website (6 days ago)
 
 ## 👯 Check out some of my recent followers
 
