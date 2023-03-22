@@ -26,11 +26,11 @@ docker run --rm -it jammutkarsh/intro
 
 ## ⭐ Recent Stars
 
+- [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library (today)
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io (3 days ago)
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go (3 days ago)
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes (5 days ago)
 - [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go (5 days ago)
-- [mrinalwahal/portfolio](https://github.com/mrinalwahal/portfolio) - My personal website (1 week ago)
 
 ## 👯 Check out some of my recent followers
 
