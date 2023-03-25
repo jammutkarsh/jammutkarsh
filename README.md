@@ -26,10 +26,10 @@ docker run --rm -it jammutkarsh/intro
 
 ## ⭐ Recent Stars
 
-- [dagger/dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers (1 day ago)
-- [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library (2 days ago)
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io (5 days ago)
-- [ent/ent](https://github.com/ent/ent) - An entity framework for Go (5 days ago)
+- [dagger/dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers (2 days ago)
+- [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library (3 days ago)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io (6 days ago)
+- [ent/ent](https://github.com/ent/ent) - An entity framework for Go (6 days ago)
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes (1 week ago)
 
 ## 👯 Check out some of my recent followers
