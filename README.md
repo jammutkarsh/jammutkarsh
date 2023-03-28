@@ -10,7 +10,7 @@ docker run --rm -it jammutkarsh/intro
 
 ## 👷 Check out what I'm currently working on
 
-- [keploy/go-sdk](https://github.com/keploy/go-sdk) - Official Keploy Go SDK 🔵 (2 days ago)
+- [keploy/go-sdk](https://github.com/keploy/go-sdk) - Official Keploy Go SDK 🔵 (3 days ago)
 - [JammUtkarsh/cshare-server](https://github.com/JammUtkarsh/cshare-server) - backend server of cShare. (2 weeks ago)
 - [JammUtkarsh/jammutkarsh](https://github.com/JammUtkarsh/jammutkarsh) -  (1 month ago)
 - [JammUtkarsh/cshare](https://github.com/JammUtkarsh/cshare) - A command-line tool to share sensitive text data across devices owned by you. (2 months ago)
@@ -26,9 +26,9 @@ docker run --rm -it jammutkarsh/intro
 
 ## ⭐ Recent Stars
 
-- [golang/go](https://github.com/golang/go) - The Go programming language (today)
-- [dagger/dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers (4 days ago)
-- [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library (5 days ago)
+- [golang/go](https://github.com/golang/go) - The Go programming language (1 day ago)
+- [dagger/dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers (5 days ago)
+- [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library (6 days ago)
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io (1 week ago)
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go (1 week ago)
 
