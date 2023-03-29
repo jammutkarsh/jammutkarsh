@@ -26,11 +26,11 @@ docker run --rm -it jammutkarsh/intro
 
 ## ⭐ Recent Stars
 
+- [FuzzyMonkeyCo/monkey](https://github.com/FuzzyMonkeyCo/monkey) - @FuzzyMonkeyCo&#39;s minion (today)
 - [golang/go](https://github.com/golang/go) - The Go programming language (2 days ago)
 - [dagger/dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers (6 days ago)
 - [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library (1 week ago)
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io (1 week ago)
-- [ent/ent](https://github.com/ent/ent) - An entity framework for Go (1 week ago)
 
 ## 👯 Check out some of my recent followers
 
