@@ -26,11 +26,11 @@ docker run --rm -it jammutkarsh/intro
 
 ## ⭐ Recent Stars
 
+- [getkin/kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more) (today)
 - [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy) - Speakeasy CLI makes validating API specs and generating idiomatic SDKs easy ! (1 day ago)
 - [pb33f/libopenapi](https://github.com/pb33f/libopenapi) - libopenapi is a fully featured, high performance, enterprise grade OpenAPI 3.1, 3.0 and Swagger 2.0 parser, library and toolkit for golang applications. (1 day ago)
 - [FuzzyMonkeyCo/monkey](https://github.com/FuzzyMonkeyCo/monkey) - @FuzzyMonkeyCo&#39;s minion (1 day ago)
 - [golang/go](https://github.com/golang/go) - The Go programming language (3 days ago)
-- [dagger/dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers (1 week ago)
 
 ## 👯 Check out some of my recent followers
 
