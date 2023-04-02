@@ -26,11 +26,11 @@ docker run --rm -it jammutkarsh/intro
 
 ## ⭐ Recent Stars
 
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (today)
-- [dvyukov/go-fuzz](https://github.com/dvyukov/go-fuzz) - Randomized testing for Go (2 days ago)
-- [getkin/kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more) (2 days ago)
-- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy) - Speakeasy CLI makes validating API specs and generating idiomatic SDKs easy ! (3 days ago)
-- [pb33f/libopenapi](https://github.com/pb33f/libopenapi) - libopenapi is a fully featured, high performance, enterprise grade OpenAPI 3.1, 3.0 and Swagger 2.0 parser, library and toolkit for golang applications. (3 days ago)
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (1 day ago)
+- [dvyukov/go-fuzz](https://github.com/dvyukov/go-fuzz) - Randomized testing for Go (3 days ago)
+- [getkin/kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more) (3 days ago)
+- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy) - Speakeasy CLI makes validating API specs and generating idiomatic SDKs easy ! (4 days ago)
+- [pb33f/libopenapi](https://github.com/pb33f/libopenapi) - libopenapi is a fully featured, high performance, enterprise grade OpenAPI 3.1, 3.0 and Swagger 2.0 parser, library and toolkit for golang applications. (4 days ago)
 
 ## 👯 Check out some of my recent followers
 
