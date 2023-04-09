@@ -12,7 +12,7 @@ docker run --rm -it jammutkarsh/intro
 
 - [JammUtkarsh/playground](https://github.com/JammUtkarsh/playground) - A repo to reproduce and test different environments. (1 week ago)
 - [keploy/go-sdk](https://github.com/keploy/go-sdk) - Official Keploy Go SDK 🔵 (2 weeks ago)
-- [JammUtkarsh/cshare-server](https://github.com/JammUtkarsh/cshare-server) - backend server of cShare. (4 weeks ago)
+- [JammUtkarsh/cshare-server](https://github.com/JammUtkarsh/cshare-server) - backend server of cShare. (1 month ago)
 - [JammUtkarsh/jammutkarsh](https://github.com/JammUtkarsh/jammutkarsh) -  (2 months ago)
 - [JammUtkarsh/cshare](https://github.com/JammUtkarsh/cshare) - A command-line tool to share sensitive text data across devices owned by you. (2 months ago)
 
@@ -26,11 +26,11 @@ docker run --rm -it jammutkarsh/intro
 
 ## ⭐ Recent Stars
 
-- [princjef/gomarkdoc](https://github.com/princjef/gomarkdoc) - Generate markdown documentation for Go (golang) code (today)
-- [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools (4 days ago)
-- [google/go-cmp](https://github.com/google/go-cmp) - Package for comparing Go values in tests (5 days ago)
-- [google/gofuzz](https://github.com/google/gofuzz) - Fuzz testing for go. (5 days ago)
-- [dominikh/go-tools](https://github.com/dominikh/go-tools) - Staticcheck - The advanced Go linter (5 days ago)
+- [princjef/gomarkdoc](https://github.com/princjef/gomarkdoc) - Generate markdown documentation for Go (golang) code (1 day ago)
+- [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools (5 days ago)
+- [google/go-cmp](https://github.com/google/go-cmp) - Package for comparing Go values in tests (6 days ago)
+- [google/gofuzz](https://github.com/google/gofuzz) - Fuzz testing for go. (6 days ago)
+- [dominikh/go-tools](https://github.com/dominikh/go-tools) - Staticcheck - The advanced Go linter (6 days ago)
 
 ## 👯 Check out some of my recent followers
 
