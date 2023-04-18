@@ -27,7 +27,7 @@ docker run --rm -it jammutkarsh/intro
 ## ⭐ Recent Stars
 
 - [princjef/gomarkdoc](https://github.com/princjef/gomarkdoc) - Generate markdown documentation for Go (golang) code (1 week ago)
-- [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools (1 week ago)
+- [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools (2 weeks ago)
 - [google/go-cmp](https://github.com/google/go-cmp) - Package for comparing Go values in tests (2 weeks ago)
 - [google/gofuzz](https://github.com/google/gofuzz) - Fuzz testing for go. (2 weeks ago)
 - [dominikh/go-tools](https://github.com/dominikh/go-tools) - Staticcheck - The advanced Go linter (2 weeks ago)
