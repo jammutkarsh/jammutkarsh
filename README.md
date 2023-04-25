@@ -26,9 +26,9 @@ docker run --rm -it jammutkarsh/intro
 
 ## ⭐ Recent Stars
 
-- [gokulkrishh/expense.fyi](https://github.com/gokulkrishh/expense.fyi) - Effortlessly Track and Manage Expenses. (2 days ago)
+- [gokulkrishh/expense.fyi](https://github.com/gokulkrishh/expense.fyi) - Effortlessly Track and Manage Expenses. (3 days ago)
 - [princjef/gomarkdoc](https://github.com/princjef/gomarkdoc) - Generate markdown documentation for Go (golang) code (2 weeks ago)
-- [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools (2 weeks ago)
+- [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools (3 weeks ago)
 - [google/go-cmp](https://github.com/google/go-cmp) - Package for comparing Go values in tests (3 weeks ago)
 - [google/gofuzz](https://github.com/google/gofuzz) - Fuzz testing for go. (3 weeks ago)
 
