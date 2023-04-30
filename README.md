@@ -26,11 +26,11 @@ docker run --rm -it jammutkarsh/intro
 
 ## ⭐ Recent Stars
 
+- [saschagrunert/demystifying-containers](https://github.com/saschagrunert/demystifying-containers) - A series of blog posts and talks about the world of containers 📦 (today)
 - [gokulkrishh/expense.fyi](https://github.com/gokulkrishh/expense.fyi) - Effortlessly Track and Manage Expenses. (1 week ago)
 - [princjef/gomarkdoc](https://github.com/princjef/gomarkdoc) - Generate markdown documentation for Go (golang) code (3 weeks ago)
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools (3 weeks ago)
 - [google/go-cmp](https://github.com/google/go-cmp) - Package for comparing Go values in tests (3 weeks ago)
-- [google/gofuzz](https://github.com/google/gofuzz) - Fuzz testing for go. (3 weeks ago)
 
 ## 👯 Check out some of my recent followers
 
