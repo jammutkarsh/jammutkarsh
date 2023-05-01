@@ -10,7 +10,7 @@ docker run --rm -it jammutkarsh/intro
 
 ## 👷 Check out what I'm currently working on
 
-- [JammUtkarsh/playground](https://github.com/JammUtkarsh/playground) - A repo to reproduce and test different environments. (4 weeks ago)
+- [JammUtkarsh/playground](https://github.com/JammUtkarsh/playground) - A repo to reproduce and test different environments. (1 month ago)
 - [keploy/go-sdk](https://github.com/keploy/go-sdk) - Official Keploy Go SDK 🔵 (1 month ago)
 - [JammUtkarsh/cshare-server](https://github.com/JammUtkarsh/cshare-server) - backend server of cShare. (1 month ago)
 - [JammUtkarsh/jammutkarsh](https://github.com/JammUtkarsh/jammutkarsh) -  (2 months ago)
@@ -26,11 +26,11 @@ docker run --rm -it jammutkarsh/intro
 
 ## ⭐ Recent Stars
 
-- [saschagrunert/demystifying-containers](https://github.com/saschagrunert/demystifying-containers) - A series of blog posts and talks about the world of containers 📦 (today)
+- [saschagrunert/demystifying-containers](https://github.com/saschagrunert/demystifying-containers) - A series of blog posts and talks about the world of containers 📦 (1 day ago)
 - [gokulkrishh/expense.fyi](https://github.com/gokulkrishh/expense.fyi) - Effortlessly Track and Manage Expenses. (1 week ago)
 - [princjef/gomarkdoc](https://github.com/princjef/gomarkdoc) - Generate markdown documentation for Go (golang) code (3 weeks ago)
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools (3 weeks ago)
-- [google/go-cmp](https://github.com/google/go-cmp) - Package for comparing Go values in tests (3 weeks ago)
+- [google/go-cmp](https://github.com/google/go-cmp) - Package for comparing Go values in tests (4 weeks ago)
 
 ## 👯 Check out some of my recent followers
 
