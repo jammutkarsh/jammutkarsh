@@ -10,7 +10,7 @@ docker run --rm -it jammutkarsh/intro
 
 ## 👷 Check out what I'm currently working on
 
-- [JammUtkarsh/TextDiff](https://github.com/JammUtkarsh/TextDiff) - `git diff` but for text (today)
+- [JammUtkarsh/TextDiff](https://github.com/JammUtkarsh/TextDiff) - `git diff` but for text (1 day ago)
 - [JammUtkarsh/playground](https://github.com/JammUtkarsh/playground) - A repo to reproduce and test different environments. (1 month ago)
 - [keploy/go-sdk](https://github.com/keploy/go-sdk) - Official Keploy Go SDK 🔵 (1 month ago)
 - [JammUtkarsh/cshare-server](https://github.com/JammUtkarsh/cshare-server) - backend server of cShare. (1 month ago)
@@ -26,9 +26,9 @@ docker run --rm -it jammutkarsh/intro
 
 ## ⭐ Recent Stars
 
-- [dragonflyoss/Dragonfly2](https://github.com/dragonflyoss/Dragonfly2) - Dragonfly is an open source P2P-based file distribution and image acceleration system. It is hosted by the Cloud Native Computing Foundation (CNCF) as an Incubating Level Project. (today)
-- [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime (1 day ago)
-- [saschagrunert/demystifying-containers](https://github.com/saschagrunert/demystifying-containers) - A series of blog posts and talks about the world of containers 📦 (4 days ago)
+- [dragonflyoss/Dragonfly2](https://github.com/dragonflyoss/Dragonfly2) - Dragonfly is an open source P2P-based file distribution and image acceleration system. It is hosted by the Cloud Native Computing Foundation (CNCF) as an Incubating Level Project. (1 day ago)
+- [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime (2 days ago)
+- [saschagrunert/demystifying-containers](https://github.com/saschagrunert/demystifying-containers) - A series of blog posts and talks about the world of containers 📦 (5 days ago)
 - [gokulkrishh/expense.fyi](https://github.com/gokulkrishh/expense.fyi) - Effortlessly Track and Manage Expenses. (1 week ago)
 - [princjef/gomarkdoc](https://github.com/princjef/gomarkdoc) - Generate markdown documentation for Go (golang) code (3 weeks ago)
 
