@@ -26,11 +26,11 @@ docker run --rm -it jammutkarsh/intro
 
 ## ⭐ Recent Stars
 
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - A low-code Machine Learning platform to help developers build #AI solutions (today)
+- [loopholelabs/frpc-go](https://github.com/loopholelabs/frpc-go) - fRPC-go is a lightweight, fast, and secure RPC framework implemented for Go that uses Frisbee under the hood (today)
 - [tusharsadhwani/recv](https://github.com/tusharsadhwani/recv) - A super simple, super fast way to share files, links and text between devices. (1 day ago)
 - [dragonflyoss/Dragonfly2](https://github.com/dragonflyoss/Dragonfly2) - Dragonfly is an open source P2P-based file distribution and image acceleration system. It is hosted by the Cloud Native Computing Foundation (CNCF) as an Incubating Level Project. (2 days ago)
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime (3 days ago)
-- [saschagrunert/demystifying-containers](https://github.com/saschagrunert/demystifying-containers) - A series of blog posts and talks about the world of containers 📦 (6 days ago)
-- [gokulkrishh/expense.fyi](https://github.com/gokulkrishh/expense.fyi) - Effortlessly Track and Manage Expenses. (2 weeks ago)
 
 ## 👯 Check out some of my recent followers
 
