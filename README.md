@@ -10,10 +10,10 @@ docker run --rm -it jammutkarsh/intro
 
 ## 👷 Check out what I'm currently working on
 
-- [JammUtkarsh/TextDiff](https://github.com/JammUtkarsh/TextDiff) - `git diff` but for text (4 days ago)
+- [JammUtkarsh/TextDiff](https://github.com/JammUtkarsh/TextDiff) - `git diff` but for text (5 days ago)
 - [JammUtkarsh/playground](https://github.com/JammUtkarsh/playground) - A repo to reproduce and test different environments. (1 month ago)
 - [keploy/go-sdk](https://github.com/keploy/go-sdk) - Official Keploy Go SDK 🔵 (1 month ago)
-- [JammUtkarsh/cshare-server](https://github.com/JammUtkarsh/cshare-server) - backend server of cShare. (1 month ago)
+- [JammUtkarsh/cshare-server](https://github.com/JammUtkarsh/cshare-server) - backend server of cShare. (2 months ago)
 - [JammUtkarsh/jammutkarsh](https://github.com/JammUtkarsh/jammutkarsh) -  (3 months ago)
 
 ## 🌱 My latest projects
@@ -26,11 +26,11 @@ docker run --rm -it jammutkarsh/intro
 
 ## ⭐ Recent Stars
 
-- [koki-develop/clive](https://github.com/koki-develop/clive) - ⚡ Automates terminal operations and lets you view them live via a browser. (1 day ago)
-- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (1 day ago)
-- [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history (1 day ago)
-- [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!) (1 day ago)
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - A low-code Machine Learning platform to help developers build #AI solutions (2 days ago)
+- [koki-develop/clive](https://github.com/koki-develop/clive) - ⚡ Automates terminal operations and lets you view them live via a browser. (2 days ago)
+- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (2 days ago)
+- [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history (2 days ago)
+- [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!) (2 days ago)
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - A low-code Machine Learning platform to help developers build #AI solutions (3 days ago)
 
 ## 👯 Check out some of my recent followers
 
