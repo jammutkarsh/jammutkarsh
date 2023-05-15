@@ -26,11 +26,11 @@ docker run --rm -it jammutkarsh/intro
 
 ## ⭐ Recent Stars
 
+- [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code. (today)
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question &#34;What happens when you type google.com into your browser and press enter?&#34; (1 day ago)
 - [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid. (1 day ago)
 - [ory/keto](https://github.com/ory/keto) - Open Source (Go) implementation of &#34;Zanzibar: Google&#39;s Consistent, Global Authorization System&#34;. Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models. (1 day ago)
 - [pilinux/gorest](https://github.com/pilinux/gorest) - Go RESTful API starter kit with Gin, JWT, GORM (MySQL, PostgreSQL, SQLite), Redis, Mongo, 2FA, email verification, password recovery (2 days ago)
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive. (4 days ago)
 
 ## 👯 Check out some of my recent followers
 
