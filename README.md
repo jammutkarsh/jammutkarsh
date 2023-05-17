@@ -26,11 +26,11 @@ docker run --rm -it jammutkarsh/intro
 
 ## ⭐ Recent Stars
 
-- [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code. (today)
-- [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code. (1 day ago)
-- [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question &#34;What happens when you type google.com into your browser and press enter?&#34; (2 days ago)
-- [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid. (2 days ago)
-- [ory/keto](https://github.com/ory/keto) - Open Source (Go) implementation of &#34;Zanzibar: Google&#39;s Consistent, Global Authorization System&#34;. Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models. (2 days ago)
+- [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code. (1 day ago)
+- [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code. (2 days ago)
+- [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question &#34;What happens when you type google.com into your browser and press enter?&#34; (3 days ago)
+- [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid. (3 days ago)
+- [ory/keto](https://github.com/ory/keto) - Open Source (Go) implementation of &#34;Zanzibar: Google&#39;s Consistent, Global Authorization System&#34;. Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models. (3 days ago)
 
 ## 👯 Check out some of my recent followers
 
