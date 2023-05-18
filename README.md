@@ -26,11 +26,11 @@ docker run --rm -it jammutkarsh/intro
 
 ## ⭐ Recent Stars
 
+- [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool (today)
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (1 day ago)
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy (1 day ago)
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code. (2 days ago)
 - [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code. (3 days ago)
-- [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question &#34;What happens when you type google.com into your browser and press enter?&#34; (4 days ago)
 
 ## 👯 Check out some of my recent followers
 
