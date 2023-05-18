@@ -10,7 +10,7 @@ docker run --rm -it jammutkarsh/intro
 
 ## 👷 Check out what I'm currently working on
 
-- [JammUtkarsh/TextDiff](https://github.com/JammUtkarsh/TextDiff) - `git diff` but for text (1 week ago)
+- [JammUtkarsh/TextDiff](https://github.com/JammUtkarsh/TextDiff) - `git diff` but for text (2 weeks ago)
 - [JammUtkarsh/playground](https://github.com/JammUtkarsh/playground) - A repo to reproduce and test different environments. (1 month ago)
 - [keploy/go-sdk](https://github.com/keploy/go-sdk) - Official Keploy Go SDK 🔵 (1 month ago)
 - [JammUtkarsh/cshare-server](https://github.com/JammUtkarsh/cshare-server) - backend server of cShare. (2 months ago)
@@ -26,11 +26,11 @@ docker run --rm -it jammutkarsh/intro
 
 ## ⭐ Recent Stars
 
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (today)
-- [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy (today)
-- [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code. (1 day ago)
-- [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code. (2 days ago)
-- [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question &#34;What happens when you type google.com into your browser and press enter?&#34; (3 days ago)
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (1 day ago)
+- [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy (1 day ago)
+- [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code. (2 days ago)
+- [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code. (3 days ago)
+- [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question &#34;What happens when you type google.com into your browser and press enter?&#34; (4 days ago)
 
 ## 👯 Check out some of my recent followers
 
