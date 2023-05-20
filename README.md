@@ -26,11 +26,11 @@ docker run --rm -it jammutkarsh/intro
 
 ## ⭐ Recent Stars
 
-- [liamg/comet](https://github.com/liamg/comet) - :comet: Command line tool to help you use conventional commit messages (https://www.conventionalcommits.org) (1 day ago)
-- [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner) - Quickly clean up unused forks on your github account. (1 day ago)
-- [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go. (1 day ago)
-- [maaslalani/typer](https://github.com/maaslalani/typer) - Typing test in your terminal (1 day ago)
-- [oz/tz](https://github.com/oz/tz) - 🌐 A time zone helper (1 day ago)
+- [liamg/comet](https://github.com/liamg/comet) - :comet: Command line tool to help you use conventional commit messages (https://www.conventionalcommits.org) (2 days ago)
+- [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner) - Quickly clean up unused forks on your github account. (2 days ago)
+- [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go. (2 days ago)
+- [maaslalani/typer](https://github.com/maaslalani/typer) - Typing test in your terminal (2 days ago)
+- [oz/tz](https://github.com/oz/tz) - 🌐 A time zone helper (2 days ago)
 
 ## 👯 Check out some of my recent followers
 
