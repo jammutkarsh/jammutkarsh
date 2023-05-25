@@ -26,11 +26,11 @@ docker run --rm -it jammutkarsh/intro
 
 ## ⭐ Recent Stars
 
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (today)
 - [liamg/comet](https://github.com/liamg/comet) - :comet: Command line tool to help you use conventional commit messages (https://www.conventionalcommits.org) (1 week ago)
 - [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner) - Quickly clean up unused forks on your github account. (1 week ago)
 - [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go. (1 week ago)
 - [maaslalani/typer](https://github.com/maaslalani/typer) - Typing test in your terminal (1 week ago)
-- [oz/tz](https://github.com/oz/tz) - 🌐 A time zone helper (1 week ago)
 
 ## 👯 Check out some of my recent followers
 
