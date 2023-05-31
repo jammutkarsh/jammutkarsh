@@ -10,19 +10,19 @@ docker run --rm -it jammutkarsh/intro
 
 ## 👷 Check out what I'm currently working on
 
+- [JammUtkarsh/blog](https://github.com/JammUtkarsh/blog) - My ultimate blogging website (today)
 - [JammUtkarsh/pms](https://github.com/JammUtkarsh/pms) - Project Management  S̶y̶s̶t̶e̶m̶ Sucks - A CLI tool to manage all your project.  (1 day ago)
 - [JammUtkarsh/TextDiff](https://github.com/JammUtkarsh/TextDiff) - `git diff` but for text (3 weeks ago)
 - [JammUtkarsh/playground](https://github.com/JammUtkarsh/playground) - A repo to reproduce and test different environments. (2 months ago)
 - [keploy/go-sdk](https://github.com/keploy/go-sdk) - Official Keploy Go SDK 🔵 (2 months ago)
-- [JammUtkarsh/cshare-server](https://github.com/JammUtkarsh/cshare-server) - backend server of cShare. (2 months ago)
 
 ## 🌱 My latest projects
 
+- [JammUtkarsh/blog](https://github.com/JammUtkarsh/blog) - My ultimate blogging website
 - [JammUtkarsh/pms](https://github.com/JammUtkarsh/pms) - Project Management  S̶y̶s̶t̶e̶m̶ Sucks - A CLI tool to manage all your project. 
 - [JammUtkarsh/TextDiff](https://github.com/JammUtkarsh/TextDiff) - `git diff` but for text
 - [JammUtkarsh/playground](https://github.com/JammUtkarsh/playground) - A repo to reproduce and test different environments.
 - [JammUtkarsh/cshare](https://github.com/JammUtkarsh/cshare) - A command-line tool to share sensitive text data across devices owned by you.
-- [JammUtkarsh/blog.utkarschourasia.in](https://github.com/JammUtkarsh/blog.utkarschourasia.in) - Markdown Blogs
 
 ## ⭐ Recent Stars
 
