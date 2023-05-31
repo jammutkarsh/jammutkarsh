@@ -26,11 +26,11 @@ docker run --rm -it jammutkarsh/intro
 
 ## ⭐ Recent Stars
 
+- [Phineas/phineas.io](https://github.com/Phineas/phineas.io) - 👨‍💻 React app for my personal website (today)
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. (today)
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit (6 days ago)
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints. (6 days ago)
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (6 days ago)
-- [liamg/comet](https://github.com/liamg/comet) - :comet: Command line tool to help you use conventional commit messages (https://www.conventionalcommits.org) (1 week ago)
-- [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner) - Quickly clean up unused forks on your github account. (1 week ago)
 
 ## 👯 Check out some of my recent followers
 
