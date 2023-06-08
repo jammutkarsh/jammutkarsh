@@ -26,11 +26,11 @@ docker run --rm -it jammutkarsh/intro
 
 ## ⭐ Recent Stars
 
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management (today)
 - [Phineas/phineas.io](https://github.com/Phineas/phineas.io) - 👨‍💻 React app for my personal website (1 week ago)
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. (1 week ago)
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit (2 weeks ago)
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints. (2 weeks ago)
-- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (2 weeks ago)
 
 ## 👯 Check out some of my recent followers
 
