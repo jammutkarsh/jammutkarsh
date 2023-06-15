@@ -10,7 +10,7 @@ docker run --rm -it jammutkarsh/intro
 
 ## 👷 Check out what I'm currently working on
 
-- [JammUtkarsh/fastn-hands-on](https://github.com/JammUtkarsh/fastn-hands-on) -  (4 days ago)
+- [JammUtkarsh/fastn-hands-on](https://github.com/JammUtkarsh/fastn-hands-on) -  (5 days ago)
 - [JammUtkarsh/blog](https://github.com/JammUtkarsh/blog) - My ultimate blogging website (1 week ago)
 - [JammUtkarsh/pms](https://github.com/JammUtkarsh/pms) - Project Management  S̶y̶s̶t̶e̶m̶ Sucks - A CLI tool to manage all your project.  (1 week ago)
 - [JammUtkarsh/terminal-website](https://github.com/JammUtkarsh/terminal-website) - A portfolio website with terminal like theme (2 weeks ago)
@@ -26,11 +26,11 @@ docker run --rm -it jammutkarsh/intro
 
 ## ⭐ Recent Stars
 
-- [fastn-stack/fastn](https://github.com/fastn-stack/fastn) - 🚧 (Alpha stage software) fastn - Full-stack Web Development Made Easy 🚧 (2 days ago)
-- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management (6 days ago)
+- [fastn-stack/fastn](https://github.com/fastn-stack/fastn) - 🚧 (Alpha stage software) fastn - Full-stack Web Development Made Easy 🚧 (3 days ago)
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management (1 week ago)
 - [Phineas/phineas.io](https://github.com/Phineas/phineas.io) - 👨‍💻 React app for my personal website (2 weeks ago)
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. (2 weeks ago)
-- [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit (2 weeks ago)
+- [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit (3 weeks ago)
 
 ## 👯 Check out some of my recent followers
 
