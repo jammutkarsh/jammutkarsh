@@ -22,7 +22,7 @@ docker run --rm -it jammutkarsh/intro
 - [JammUtkarsh/blog](https://github.com/JammUtkarsh/blog) - My ultimate blogging website
 - [JammUtkarsh/pms](https://github.com/JammUtkarsh/pms) - Project Management  S̶y̶s̶t̶e̶m̶ Sucks - A CLI tool to manage all your project. 
 - [JammUtkarsh/TextDiff](https://github.com/JammUtkarsh/TextDiff) - `git diff` but for text
-- [JammUtkarsh/playground](https://github.com/JammUtkarsh/playground) - A repo to reproduce and test different environments.
+- [JammUtkarsh/cshare](https://github.com/JammUtkarsh/cshare) - A command-line tool to share sensitive text data across devices owned by you.
 
 ## ⭐ Recent Stars
 
