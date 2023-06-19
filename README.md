@@ -26,11 +26,11 @@ docker run --rm -it jammutkarsh/intro
 
 ## ⭐ Recent Stars
 
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (today)
 - [KyleBanks/depth](https://github.com/KyleBanks/depth) - Visualize Go Dependency Trees (2 days ago)
 - [rsc/diff](https://github.com/rsc/diff) - Diff(1) (2 days ago)
 - [fastn-stack/fastn](https://github.com/fastn-stack/fastn) - 🚧 (Alpha stage software) fastn - Full-stack Web Development Made Easy 🚧 (1 week ago)
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management (1 week ago)
-- [Phineas/phineas.io](https://github.com/Phineas/phineas.io) - 👨‍💻 React app for my personal website (2 weeks ago)
 
 ## 👯 Check out some of my recent followers
 
