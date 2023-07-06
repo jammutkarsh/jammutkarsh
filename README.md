@@ -30,7 +30,7 @@ docker run --rm -it jammutkarsh/intro
 - [KyleBanks/depth](https://github.com/KyleBanks/depth) - Visualize Go Dependency Trees (2 weeks ago)
 - [rsc/diff](https://github.com/rsc/diff) - Diff(1) (2 weeks ago)
 - [fastn-stack/fastn](https://github.com/fastn-stack/fastn) - 🚧 (Alpha stage software) fastn - Full-stack Web Development Made Easy 🚧 (3 weeks ago)
-- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management (3 weeks ago)
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management (4 weeks ago)
 
 ## 👯 Check out some of my recent followers
 
