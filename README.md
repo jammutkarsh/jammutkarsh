@@ -10,9 +10,9 @@ docker run --rm -it jammutkarsh/intro
 
 ## 👷 Check out what I'm currently working on
 
-- [JammUtkarsh/blog](https://github.com/JammUtkarsh/blog) - `docker run --rm -it jammutkarsh/blog` or 👇  (1 week ago)
+- [JammUtkarsh/blog](https://github.com/JammUtkarsh/blog) - `docker run --rm -it jammutkarsh/blog` or 👇  (2 weeks ago)
 - [JammUtkarsh/pms](https://github.com/JammUtkarsh/pms) - Project Management  S̶y̶s̶t̶e̶m̶ Sucks - A CLI tool to manage all your project.  (2 weeks ago)
-- [JammUtkarsh/fastn-hands-on](https://github.com/JammUtkarsh/fastn-hands-on) -  (3 weeks ago)
+- [JammUtkarsh/fastn-hands-on](https://github.com/JammUtkarsh/fastn-hands-on) -  (4 weeks ago)
 - [JammUtkarsh/terminal-website](https://github.com/JammUtkarsh/terminal-website) - A portfolio website with terminal like theme (1 month ago)
 - [JammUtkarsh/TextDiff](https://github.com/JammUtkarsh/TextDiff) - `git diff` but for text (2 months ago)
 
@@ -27,10 +27,10 @@ docker run --rm -it jammutkarsh/intro
 ## ⭐ Recent Stars
 
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (2 weeks ago)
-- [KyleBanks/depth](https://github.com/KyleBanks/depth) - Visualize Go Dependency Trees (2 weeks ago)
-- [rsc/diff](https://github.com/rsc/diff) - Diff(1) (2 weeks ago)
+- [KyleBanks/depth](https://github.com/KyleBanks/depth) - Visualize Go Dependency Trees (3 weeks ago)
+- [rsc/diff](https://github.com/rsc/diff) - Diff(1) (3 weeks ago)
 - [fastn-stack/fastn](https://github.com/fastn-stack/fastn) - 🚧 (Alpha stage software) fastn - Full-stack Web Development Made Easy 🚧 (3 weeks ago)
-- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management (4 weeks ago)
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management (1 month ago)
 
 ## 👯 Check out some of my recent followers
 
