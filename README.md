@@ -26,11 +26,11 @@ docker run --rm -it jammutkarsh/intro
 
 ## ⭐ Recent Stars
 
+- [Vincenius/workout-lol](https://github.com/Vincenius/workout-lol) - A simple way to create a workout plan (today)
+- [uber-go/gopatch](https://github.com/uber-go/gopatch) - Refactoring and code transformation tool for Go. (today)
+- [smarty/assertions](https://github.com/smarty/assertions) - Fluent assertion-style functions used by goconvey and gunit. Can also be used in any test or application. (today)
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (3 weeks ago)
 - [KyleBanks/depth](https://github.com/KyleBanks/depth) - Visualize Go Dependency Trees (3 weeks ago)
-- [rsc/diff](https://github.com/rsc/diff) - Diff(1) (3 weeks ago)
-- [fastn-stack/fastn](https://github.com/fastn-stack/fastn) - 🚧 (Alpha stage software) fastn - Full-stack Web Development Made Easy 🚧 (4 weeks ago)
-- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management (1 month ago)
 
 ## 👯 Check out some of my recent followers
 
