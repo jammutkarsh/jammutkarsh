@@ -11,7 +11,7 @@ docker run --rm -it jammutkarsh/intro
 ## 👷 Check out what I'm currently working on
 
 - [JammUtkarsh/blog](https://github.com/JammUtkarsh/blog) - `docker run --rm -it jammutkarsh/blog` or 👇  (2 weeks ago)
-- [JammUtkarsh/pms](https://github.com/JammUtkarsh/pms) - Project Management  S̶y̶s̶t̶e̶m̶ Sucks - A CLI tool to manage all your project.  (2 weeks ago)
+- [JammUtkarsh/pms](https://github.com/JammUtkarsh/pms) - Project Management  S̶y̶s̶t̶e̶m̶ Sucks - A CLI tool to manage all your project.  (3 weeks ago)
 - [JammUtkarsh/fastn-hands-on](https://github.com/JammUtkarsh/fastn-hands-on) -  (1 month ago)
 - [JammUtkarsh/terminal-website](https://github.com/JammUtkarsh/terminal-website) - A portfolio website with terminal like theme (1 month ago)
 - [JammUtkarsh/TextDiff](https://github.com/JammUtkarsh/TextDiff) - `git diff` but for text (2 months ago)
@@ -26,9 +26,9 @@ docker run --rm -it jammutkarsh/intro
 
 ## ⭐ Recent Stars
 
-- [Vincenius/workout-lol](https://github.com/Vincenius/workout-lol) - A simple way to create a workout plan (1 day ago)
-- [uber-go/gopatch](https://github.com/uber-go/gopatch) - Refactoring and code transformation tool for Go. (1 day ago)
-- [smarty/assertions](https://github.com/smarty/assertions) - Fluent assertion-style functions used by goconvey and gunit. Can also be used in any test or application. (1 day ago)
+- [Vincenius/workout-lol](https://github.com/Vincenius/workout-lol) - A simple way to create a workout plan (2 days ago)
+- [uber-go/gopatch](https://github.com/uber-go/gopatch) - Refactoring and code transformation tool for Go. (2 days ago)
+- [smarty/assertions](https://github.com/smarty/assertions) - Fluent assertion-style functions used by goconvey and gunit. Can also be used in any test or application. (2 days ago)
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (3 weeks ago)
 - [KyleBanks/depth](https://github.com/KyleBanks/depth) - Visualize Go Dependency Trees (3 weeks ago)
 
