@@ -26,10 +26,10 @@ docker run --rm -it jammutkarsh/intro
 
 ## ⭐ Recent Stars
 
-- [percona/pmm](https://github.com/percona/pmm) - Percona Monitoring and Management: an open source database monitoring, observability and management tool (today)
-- [Vincenius/workout-lol](https://github.com/Vincenius/workout-lol) - A simple way to create a workout plan (3 days ago)
-- [uber-go/gopatch](https://github.com/uber-go/gopatch) - Refactoring and code transformation tool for Go. (3 days ago)
-- [smarty/assertions](https://github.com/smarty/assertions) - Fluent assertion-style functions used by goconvey and gunit. Can also be used in any test or application. (3 days ago)
+- [percona/pmm](https://github.com/percona/pmm) - Percona Monitoring and Management: an open source database monitoring, observability and management tool (1 day ago)
+- [Vincenius/workout-lol](https://github.com/Vincenius/workout-lol) - A simple way to create a workout plan (4 days ago)
+- [uber-go/gopatch](https://github.com/uber-go/gopatch) - Refactoring and code transformation tool for Go. (4 days ago)
+- [smarty/assertions](https://github.com/smarty/assertions) - Fluent assertion-style functions used by goconvey and gunit. Can also be used in any test or application. (4 days ago)
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (3 weeks ago)
 
 ## 👯 Check out some of my recent followers
