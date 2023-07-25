@@ -34,11 +34,11 @@ docker run --rm -it jammutkarsh/intro
 
 ## 👯 Check out some of my recent followers
 
+- [Mohamed988o](https://github.com/Mohamed988o)
 - [rjkrm](https://github.com/rjkrm)
 - [abhikalparya](https://github.com/abhikalparya)
 - [Asbaharoon](https://github.com/Asbaharoon)
 - [kybuivan](https://github.com/kybuivan)
-- [nikita-1910](https://github.com/nikita-1910)
 
 ## 💬 Feedback
 
