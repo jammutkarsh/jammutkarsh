@@ -10,8 +10,8 @@ docker run --rm -it jammutkarsh/intro
 
 ## 👷 Check out what I'm currently working on
 
+- [JammUtkarsh/pms](https://github.com/JammUtkarsh/pms) - Project Management  S̶y̶s̶t̶e̶m̶ Sucks - A CLI tool to manage all your project.  (today)
 - [JammUtkarsh/blog](https://github.com/JammUtkarsh/blog) - `docker run --rm -it jammutkarsh/blog` or 👇  (1 month ago)
-- [JammUtkarsh/pms](https://github.com/JammUtkarsh/pms) - Project Management  S̶y̶s̶t̶e̶m̶ Sucks - A CLI tool to manage all your project.  (1 month ago)
 - [JammUtkarsh/fastn-hands-on](https://github.com/JammUtkarsh/fastn-hands-on) -  (1 month ago)
 - [JammUtkarsh/terminal-website](https://github.com/JammUtkarsh/terminal-website) - A portfolio website with terminal like theme (2 months ago)
 - [JammUtkarsh/TextDiff](https://github.com/JammUtkarsh/TextDiff) - `git diff` but for text (2 months ago)
