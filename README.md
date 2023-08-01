@@ -10,7 +10,7 @@ docker run --rm -it jammutkarsh/intro
 
 ## 👷 Check out what I'm currently working on
 
-- [JammUtkarsh/pms](https://github.com/JammUtkarsh/pms) - Project Management  S̶y̶s̶t̶e̶m̶ Sucks - A CLI tool to manage all your project.  (2 days ago)
+- [JammUtkarsh/pms](https://github.com/JammUtkarsh/pms) - Project Management  S̶y̶s̶t̶e̶m̶ Sucks - A CLI tool to manage all your project.  (today)
 - [JammUtkarsh/blog](https://github.com/JammUtkarsh/blog) - `docker run --rm -it jammutkarsh/blog` or 👇  (1 month ago)
 - [JammUtkarsh/fastn-hands-on](https://github.com/JammUtkarsh/fastn-hands-on) -  (1 month ago)
 - [JammUtkarsh/terminal-website](https://github.com/JammUtkarsh/terminal-website) - A portfolio website with terminal like theme (2 months ago)
@@ -26,11 +26,11 @@ docker run --rm -it jammutkarsh/intro
 
 ## ⭐ Recent Stars
 
+- [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system. (today)
 - [spurin/KCNA-Study-Group](https://github.com/spurin/KCNA-Study-Group) - Kubernetes and Cloud Native Associate - Study Group (1 week ago)
 - [opencontainers/runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification (1 week ago)
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics (1 week ago)
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code (2 weeks ago)
-- [percona/pmm](https://github.com/percona/pmm) - Percona Monitoring and Management: an open source database monitoring, observability and management tool (2 weeks ago)
 
 ## 👯 Check out some of my recent followers
 
