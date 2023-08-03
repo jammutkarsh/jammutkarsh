@@ -7,6 +7,6 @@ then
         echo -e "${RED}error:${NC} needs a C/C++ file"
         exit 1
 else
-        g++ $file -o ${file%.*} && ./${file%.*}
+        g++ -std=c++20 $file -o ${file%.*} && ./${file%.*}
         rm ${file%.*}
 fi

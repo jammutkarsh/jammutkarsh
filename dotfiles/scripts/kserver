@@ -1,4 +1,0 @@
-#/bin/bash
-
-cd ~/code/review/kubernetes.io
-make container-serve
