@@ -10,10 +10,10 @@ docker run --rm -it jammutkarsh/intro
 
 ## 👷 Check out what I'm currently working on
 
-- [JammUtkarsh/pms](https://github.com/JammUtkarsh/pms) - Project Management  S̶y̶s̶t̶e̶m̶ Sucks - A CLI tool to manage all your project.  (1 week ago)
-- [JammUtkarsh/dotfiles](https://github.com/JammUtkarsh/dotfiles) - Scripts and alias commonly used (3 weeks ago)
-- [dagger/dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers (3 weeks ago)
-- [JammUtkarsh/jammutkarsh](https://github.com/JammUtkarsh/jammutkarsh) -  (3 weeks ago)
+- [JammUtkarsh/pms](https://github.com/JammUtkarsh/pms) - Project Management  S̶y̶s̶t̶e̶m̶ Sucks - A CLI tool to manage all your project.  (2 weeks ago)
+- [JammUtkarsh/dotfiles](https://github.com/JammUtkarsh/dotfiles) - Scripts and alias commonly used (1 month ago)
+- [dagger/dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers (1 month ago)
+- [JammUtkarsh/jammutkarsh](https://github.com/JammUtkarsh/jammutkarsh) -  (1 month ago)
 - [JammUtkarsh/blog](https://github.com/JammUtkarsh/blog) - `docker run --rm -it jammutkarsh/blog` or 👇  (2 months ago)
 
 ## 🌱 My latest projects
@@ -26,11 +26,11 @@ docker run --rm -it jammutkarsh/intro
 
 ## ⭐ Recent Stars
 
-- [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind. (1 day ago)
-- [aweris/gale](https://github.com/aweris/gale) - GitHub Action Local Executor (1 day ago)
-- [d0c-s4vage/lookatme](https://github.com/d0c-s4vage/lookatme) - An interactive, terminal-based markdown presenter (1 day ago)
-- [maaslalani/maaslalani.github.io](https://github.com/maaslalani/maaslalani.github.io) - My personal website. (1 day ago)
-- [samalba/dagger-chatbot](https://github.com/samalba/dagger-chatbot) - AI Chatbot that helps you learn how to use Dagger (3 days ago)
+- [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers. (2 days ago)
+- [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind. (1 week ago)
+- [aweris/gale](https://github.com/aweris/gale) - GitHub Action Local Executor (1 week ago)
+- [d0c-s4vage/lookatme](https://github.com/d0c-s4vage/lookatme) - An interactive, terminal-based markdown presenter (1 week ago)
+- [maaslalani/maaslalani.github.io](https://github.com/maaslalani/maaslalani.github.io) - My personal website. (1 week ago)
 
 ## 👯 Check out some of my recent followers
 
