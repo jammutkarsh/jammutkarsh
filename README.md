@@ -10,9 +10,9 @@ docker run --rm -it jammutkarsh/intro
 
 ## 👷 Check out what I'm currently working on
 
-- [JammUtkarsh/pms](https://github.com/JammUtkarsh/pms) - Project Management  S̶y̶s̶t̶e̶m̶ Sucks - A CLI tool to manage all your project.  (2 weeks ago)
-- [JammUtkarsh/dotfiles](https://github.com/JammUtkarsh/dotfiles) - Scripts and alias commonly used (1 month ago)
+- [JammUtkarsh/pms](https://github.com/JammUtkarsh/pms) - Project Management  S̶y̶s̶t̶e̶m̶ Sucks - A CLI tool to manage all your project.  (3 weeks ago)
 - [dagger/dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers (1 month ago)
+- [JammUtkarsh/dotfiles](https://github.com/JammUtkarsh/dotfiles) - Scripts and alias commonly used (1 month ago)
 - [JammUtkarsh/jammutkarsh](https://github.com/JammUtkarsh/jammutkarsh) -  (1 month ago)
 - [JammUtkarsh/blog](https://github.com/JammUtkarsh/blog) - `docker run --rm -it jammutkarsh/blog` or 👇  (2 months ago)
 
@@ -26,19 +26,19 @@ docker run --rm -it jammutkarsh/intro
 
 ## ⭐ Recent Stars
 
-- [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers. (2 days ago)
-- [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind. (1 week ago)
-- [aweris/gale](https://github.com/aweris/gale) - GitHub Action Local Executor (1 week ago)
-- [d0c-s4vage/lookatme](https://github.com/d0c-s4vage/lookatme) - An interactive, terminal-based markdown presenter (1 week ago)
-- [maaslalani/maaslalani.github.io](https://github.com/maaslalani/maaslalani.github.io) - My personal website. (1 week ago)
+- [taniarascia/taniarascia.com](https://github.com/taniarascia/taniarascia.com) - 💾 ‎  Personal website running on Gatsby, React, and Node.js. (2 days ago)
+- [partykit/partykit](https://github.com/partykit/partykit) - Everything&#39;s better with friends.  (3 days ago)
+- [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers (5 days ago)
+- [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo. (1 week ago)
+- [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers. (1 week ago)
 
 ## 👯 Check out some of my recent followers
 
+- [anaselgarhy](https://github.com/anaselgarhy)
 - [khyatisharma09](https://github.com/khyatisharma09)
 - [OmJavia](https://github.com/OmJavia)
 - [Mohamed988o](https://github.com/Mohamed988o)
 - [rjkrm](https://github.com/rjkrm)
-- [abhikalparya](https://github.com/abhikalparya)
 
 ## 💬 Feedback
 
