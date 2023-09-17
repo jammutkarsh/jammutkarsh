@@ -10,7 +10,7 @@ docker run --rm -it jammutkarsh/intro
 
 ## 👷 Check out what I'm currently working on
 
-- [JammUtkarsh/pms](https://github.com/JammUtkarsh/pms) - Project Management  S̶y̶s̶t̶e̶m̶ Sucks - A CLI tool to manage all your project.  (3 weeks ago)
+- [JammUtkarsh/pms](https://github.com/JammUtkarsh/pms) - Project Management  S̶y̶s̶t̶e̶m̶ Sucks - A CLI tool to manage all your project.  (1 month ago)
 - [dagger/dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers (1 month ago)
 - [JammUtkarsh/dotfiles](https://github.com/JammUtkarsh/dotfiles) - Scripts and alias commonly used (1 month ago)
 - [JammUtkarsh/jammutkarsh](https://github.com/JammUtkarsh/jammutkarsh) -  (1 month ago)
@@ -26,19 +26,19 @@ docker run --rm -it jammutkarsh/intro
 
 ## ⭐ Recent Stars
 
-- [taniarascia/taniarascia.com](https://github.com/taniarascia/taniarascia.com) - 💾 ‎  Personal website running on Gatsby, React, and Node.js. (2 days ago)
-- [partykit/partykit](https://github.com/partykit/partykit) - Everything&#39;s better with friends.  (3 days ago)
-- [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers (5 days ago)
-- [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo. (1 week ago)
-- [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers. (1 week ago)
+- [The-CodingSloth/haha-funny-leetcode-extension](https://github.com/The-CodingSloth/haha-funny-leetcode-extension) -  (2 days ago)
+- [egonelbre/gophers](https://github.com/egonelbre/gophers) - Free gophers (3 days ago)
+- [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit (3 days ago)
+- [WeMakeDevs/roadmaps](https://github.com/WeMakeDevs/roadmaps) - This repository contains the list of communities and job portals you can join and apply to. (5 days ago)
+- [davecheney/httpstat](https://github.com/davecheney/httpstat) - It&#39;s like curl -v, with colours.  (6 days ago)
 
 ## 👯 Check out some of my recent followers
 
+- [Ag-Utkarsh](https://github.com/Ag-Utkarsh)
+- [animeshbarole](https://github.com/animeshbarole)
 - [anaselgarhy](https://github.com/anaselgarhy)
 - [khyatisharma09](https://github.com/khyatisharma09)
 - [OmJavia](https://github.com/OmJavia)
-- [Mohamed988o](https://github.com/Mohamed988o)
-- [rjkrm](https://github.com/rjkrm)
 
 ## 💬 Feedback
 
