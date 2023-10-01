@@ -10,11 +10,11 @@ docker run --rm -it jammutkarsh/intro
 
 ## 👷 Check out what I'm currently working on
 
-- [JammUtkarsh/gfstat](https://github.com/JammUtkarsh/gfstat) - GitHub Follow Statistics in CLI and Web! (1 day ago)
+- [JammUtkarsh/gfstat](https://github.com/JammUtkarsh/gfstat) - GitHub Follow Statistics in CLI and Web! (1 week ago)
 - [JammUtkarsh/pms](https://github.com/JammUtkarsh/pms) - Project Management  S̶y̶s̶t̶e̶m̶ Sucks - A CLI tool to manage all your project.  (1 month ago)
 - [JammUtkarsh/dotfiles](https://github.com/JammUtkarsh/dotfiles) - Scripts and alias commonly used (1 month ago)
 - [dagger/dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers (1 month ago)
-- [JammUtkarsh/jammutkarsh](https://github.com/JammUtkarsh/jammutkarsh) -  (1 month ago)
+- [JammUtkarsh/jammutkarsh](https://github.com/JammUtkarsh/jammutkarsh) -  (2 months ago)
 
 ## 🌱 My latest projects
 
@@ -26,11 +26,11 @@ docker run --rm -it jammutkarsh/intro
 
 ## ⭐ Recent Stars
 
-- [epicweb-dev/epic-stack](https://github.com/epicweb-dev/epic-stack) - This is a Full Stack app starter with the foundational things setup and configured for you to hit the ground running on your next EPIC idea. (1 day ago)
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (1 day ago)
-- [joomcode/errorx](https://github.com/joomcode/errorx) - A comprehensive error handling library for Go (1 day ago)
-- [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs) - Generate documentation from Terraform modules in various output formats (1 day ago)
-- [soygul/QuanticDev](https://github.com/soygul/QuanticDev) - QuanticDev&#39;s Engineering and Software Development Resources (2 days ago)
+- [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing &amp; development tools (6 days ago)
+- [epicweb-dev/epic-stack](https://github.com/epicweb-dev/epic-stack) - This is a Full Stack app starter with the foundational things setup and configured for you to hit the ground running on your next EPIC idea. (1 week ago)
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (1 week ago)
+- [joomcode/errorx](https://github.com/joomcode/errorx) - A comprehensive error handling library for Go (1 week ago)
+- [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs) - Generate documentation from Terraform modules in various output formats (1 week ago)
 
 ## 👯 Check out some of my recent followers
 
