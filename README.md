@@ -10,11 +10,11 @@ docker run --rm -it jammutkarsh/intro
 
 ## 👷 Check out what I'm currently working on
 
+- [JammUtkarsh/jammutkarsh](https://github.com/JammUtkarsh/jammutkarsh) -  (today)
 - [JammUtkarsh/gfstat](https://github.com/JammUtkarsh/gfstat) - GitHub Follow Statistics in CLI and Web! (1 week ago)
 - [JammUtkarsh/pms](https://github.com/JammUtkarsh/pms) - Project Management  S̶y̶s̶t̶e̶m̶ Sucks - A CLI tool to manage all your project.  (1 month ago)
-- [JammUtkarsh/dotfiles](https://github.com/JammUtkarsh/dotfiles) - Scripts and alias commonly used (1 month ago)
-- [dagger/dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers (1 month ago)
-- [JammUtkarsh/jammutkarsh](https://github.com/JammUtkarsh/jammutkarsh) -  (2 months ago)
+- [JammUtkarsh/dotfiles](https://github.com/JammUtkarsh/dotfiles) - Scripts and alias commonly used (2 months ago)
+- [dagger/dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers (2 months ago)
 
 ## 🌱 My latest projects
 
@@ -26,7 +26,7 @@ docker run --rm -it jammutkarsh/intro
 
 ## ⭐ Recent Stars
 
-- [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing &amp; development tools (6 days ago)
+- [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing &amp; development tools (1 week ago)
 - [epicweb-dev/epic-stack](https://github.com/epicweb-dev/epic-stack) - This is a Full Stack app starter with the foundational things setup and configured for you to hit the ground running on your next EPIC idea. (1 week ago)
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (1 week ago)
 - [joomcode/errorx](https://github.com/joomcode/errorx) - A comprehensive error handling library for Go (1 week ago)
@@ -46,10 +46,11 @@ Let's talk, connect, chat, build, test, deploy, architect, design, code, debug, 
 
 ## 📫 How to reach me
 
+  &bullet; [Resume](https://links.utkarshchourasia.in/resume)
+  &bullet; [Mail](mailto:mail@utkarshchourasia.in)
+  &bullet; [Website / Portfolio](https://utkarshchourasia.in/)
   &bullet; [LinkedIn](https://www.linkedin.com/in/5utkarshc/)
   &bullet; [Twitter](https://twitter.com/JammUtkarsh)
   &bullet; [GitHub Memory](https://githubmemory.com/@JammUtkarsh)
-  &bullet; [Website / Portfolio](https://utkarshchourasia.in/)
-  &bullet; [Resume & General Cover Letter](https://drive.google.com/drive/folders/1ci7ngCK4trDgoGHongJxUamzC4hm0AqE?usp=sharing)
 
 Checkout the cool project [readme-scribe](https://github.com/muesli/readme-scribe) which I used to generate my README.md
