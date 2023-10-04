@@ -34,10 +34,11 @@ Let's talk, connect, chat, build, test, deploy, architect, design, code, debug, 
 
 ## 📫 How to reach me
 
+  &bullet; [Resume](https://links.utkarshchourasia.in/resume)
+  &bullet; [Mail](mailto:mail@utkarshchourasia.in)
+  &bullet; [Website / Portfolio](https://utkarshchourasia.in/)
   &bullet; [LinkedIn](https://www.linkedin.com/in/5utkarshc/)
   &bullet; [Twitter](https://twitter.com/JammUtkarsh)
   &bullet; [GitHub Memory](https://githubmemory.com/@JammUtkarsh)
-  &bullet; [Website / Portfolio](https://utkarshchourasia.in/)
-  &bullet; [Resume & General Cover Letter](https://drive.google.com/drive/folders/1ci7ngCK4trDgoGHongJxUamzC4hm0AqE?usp=sharing)
 
 Checkout the cool project [readme-scribe](https://github.com/muesli/readme-scribe) which I used to generate my README.md

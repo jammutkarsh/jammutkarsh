@@ -30,4 +30,4 @@ There is a lot you can learn about him. Also, please give him an opportunity to 
 
 - [Blog](https://blog.utkarshchourasia.in/)
 
-or email him at 5.utkarshc **[at]** gmail.com.
+or email him at mail **[at]** utkarshchourasia.in
