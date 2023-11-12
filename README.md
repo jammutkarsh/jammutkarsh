@@ -11,9 +11,9 @@ docker run --rm -it jammutkarsh/intro
 ## 🛠️ Currently working on
 
 
-- [JammUtkarsh/jammutkarsh](https://github.com/JammUtkarsh/jammutkarsh) -  (today)
-- [JammUtkarsh/gfstat](https://github.com/JammUtkarsh/gfstat) - GitHub Follow Statistics in Web and CLI(coming soon)! (5 days ago)
-- [JammUtkarsh/pms](https://github.com/JammUtkarsh/pms) - Project Management  S̶y̶s̶t̶e̶m̶ Sucks - A CLI tool to manage all your project.  (1 week ago)
+- [JammUtkarsh/pms](https://github.com/JammUtkarsh/pms) - Project Management  S̶y̶s̶t̶e̶m̶ Sucks - A CLI tool to manage all your project.  (2 days ago)
+- [JammUtkarsh/uplimit-devops-crashcourse](https://github.com/JammUtkarsh/uplimit-devops-crashcourse) - https://uplimit.com/course/devops-crash-course/ (4 days ago)
+- [JammUtkarsh/jammutkarsh](https://github.com/JammUtkarsh/jammutkarsh) -  (4 days ago)
 
 ## 🔗 Links
 
