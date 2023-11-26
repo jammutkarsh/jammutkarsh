@@ -11,9 +11,9 @@ docker run --rm -it jammutkarsh/intro
 ## 🛠️ Currently working on
 
 
-- [JammUtkarsh/cdls](https://github.com/JammUtkarsh/cdls) - CLI tool to create simple script that changes directories. (4 days ago)
-- [JammUtkarsh/pms](https://github.com/JammUtkarsh/pms) - Project Management  S̶y̶s̶t̶e̶m̶ Sucks - A CLI tool to manage all your project.  (5 days ago)
-- [JammUtkarsh/uplimit-devops-crashcourse](https://github.com/JammUtkarsh/uplimit-devops-crashcourse) - Getting my fundamentals clear about DevOps (1 week ago)
+- [JammUtkarsh/cdls](https://github.com/JammUtkarsh/cdls) - CLI tool to create simple script that changes directories. (1 week ago)
+- [JammUtkarsh/pms](https://github.com/JammUtkarsh/pms) - Project Management  S̶y̶s̶t̶e̶m̶ Sucks - A CLI tool to manage all your project.  (1 week ago)
+- [JammUtkarsh/uplimit-devops-crashcourse](https://github.com/JammUtkarsh/uplimit-devops-crashcourse) - Getting my fundamentals clear about DevOps (2 weeks ago)
 
 ## 🔗 Links
 
