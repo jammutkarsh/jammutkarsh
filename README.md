@@ -11,9 +11,9 @@ docker run --rm -it jammutkarsh/intro
 ## 🛠️ Currently working on
 
 
-- [JammUtkarsh/logIngestor](https://github.com/JammUtkarsh/logIngestor) - This was the open challenge assignment given by dyte.io (1 day ago)
-- [JammUtkarsh/cdls](https://github.com/JammUtkarsh/cdls) - CLI tool to create simple script that changes directories. (2 weeks ago)
-- [JammUtkarsh/pms](https://github.com/JammUtkarsh/pms) - Project Management  S̶y̶s̶t̶e̶m̶ Sucks - A CLI tool to manage all your project.  (2 weeks ago)
+- [JammUtkarsh/logIngestor](https://github.com/JammUtkarsh/logIngestor) - This was the open challenge assignment given by dyte.io (1 week ago)
+- [JammUtkarsh/cdls](https://github.com/JammUtkarsh/cdls) - CLI tool to create simple script that changes directories. (3 weeks ago)
+- [JammUtkarsh/pms](https://github.com/JammUtkarsh/pms) - Project Management  S̶y̶s̶t̶e̶m̶ Sucks - A CLI tool to manage all your project.  (3 weeks ago)
 
 ## 🔗 Links
 
