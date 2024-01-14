@@ -11,9 +11,9 @@ docker run --rm -it jammutkarsh/intro
 ## 🛠️ Currently working on
 
 
-- [JammUtkarsh/gfstat](https://github.com/JammUtkarsh/gfstat) - GitHub Follow Statistics in Web and CLI(coming soon)! (1 day ago)
-- [JammUtkarsh/image-compressor-api](https://github.com/JammUtkarsh/image-compressor-api) -  (3 days ago)
-- [JammUtkarsh/blog](https://github.com/JammUtkarsh/blog) - `docker run --rm -it jammutkarsh/blog` or 👇  (1 week ago)
+- [JammUtkarsh/gfstat](https://github.com/JammUtkarsh/gfstat) - GitHub Follow Statistics in Web and CLI(coming soon)! (5 days ago)
+- [JammUtkarsh/pms](https://github.com/JammUtkarsh/pms) - Project Management  S̶y̶s̶t̶e̶m̶ Sucks - A CLI tool to manage all your project.  (1 week ago)
+- [JammUtkarsh/image-compressor-api](https://github.com/JammUtkarsh/image-compressor-api) -  (1 week ago)
 
 ## 🔗 Links
 
