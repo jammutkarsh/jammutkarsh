@@ -1,0 +1,21 @@
+#!/bin/bash
+
+# Check if the two arguments are provided
+if [ $# -ne 2 ]; then
+  echo "Usage: godsa <folder_name> <package_name>"
+  exit 1
+fi
+
+# Convert the package name to lowercase
+package_name=$(echo "$2" | tr '[:upper:]' '[:lower:]')
+
+# Create the folder
+mkdir -p "$1"
+
+# Create the file
+touch "$1/$1.go"
+
+# Add the package name to the file
+echo "package ${package_name}" >> "$1/$1.go"
+
+echo "Successfully created the folder '$1' and the file '$1/$1.go' with the package name '$package_name'."

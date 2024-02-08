@@ -4,17 +4,17 @@ alias hrun='bash -c "$(pbpaste)"'
 alias keygen="openssl rand -hex $1"
 
 alias cp="ditto"
+alias ls=lsd
 alias cls="clear"
 alias rmf="rm -rf"
 alias p3='python3'
 alias down="cd ~/Downloads"
-alias dsa='cd ~/code/dsa/c++'
+alias dsa='cd ~/code/dsa/'
 alias cobra=cobra-cli
-alias ark=arkade 
 
 # Docker Shortcut Commands
-alias dcd="docker-compose down"
-alias dcu="docker-compose up -d"
+alias dcd="docker compose down"
+alias dcu="docker compose up -d"
 alias dps="docker ps"
 alias dpa="docker ps -a"
 alias drm="docker rm -f"

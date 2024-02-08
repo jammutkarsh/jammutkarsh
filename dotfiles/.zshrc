@@ -16,18 +16,17 @@ plugins=(
         docker
         zsh-autosuggestions
         zsh-syntax-highlighting
-	multipass
-	npm
-	node
-	)        
+        multipass
+        npm
+        node
+)
 
 source $ZSH/oh-my-zsh.sh
 source $HOME/dotfiles/alias
 
-#CMD: tz
-#COX: DB to display timezones
-export TZ_LIST="Europe/Berlin"
+# CMD -> command
+# COX -> command explanation
 
 #CMD: atuin or ctrl + r
-#COX: replacement for custom hst command 
+#COX: replacement for custom hst command
 eval "$(atuin init zsh --disable-up-arrow)"
