@@ -11,9 +11,9 @@ docker run --rm -it jammutkarsh/intro
 ## 🛠️ Currently working on
 
 
-- [MadhaviGupta/GitShow](https://github.com/MadhaviGupta/GitShow) -  (5 days ago)
-- [JammUtkarsh/gfstat](https://github.com/JammUtkarsh/gfstat) - GitHub Follow Statistics in Web and CLI(coming soon)! (3 weeks ago)
-- [JammUtkarsh/pms](https://github.com/JammUtkarsh/pms) - Project Management  S̶y̶s̶t̶e̶m̶ Sucks - A CLI tool to manage all your project.  (4 weeks ago)
+- [JammUtkarsh/dotfiles](https://github.com/JammUtkarsh/dotfiles) - Scripts and alias commonly used (3 days ago)
+- [JammUtkarsh/depthsearch](https://github.com/JammUtkarsh/depthsearch) - A REST API wrapper around `depth` tool. (5 days ago)
+- [MadhaviGupta/GitShow](https://github.com/MadhaviGupta/GitShow) -  (1 week ago)
 
 ## 🔗 Links
 
