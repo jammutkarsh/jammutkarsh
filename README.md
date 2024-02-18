@@ -11,9 +11,9 @@ docker run --rm -it jammutkarsh/intro
 ## 🛠️ Currently working on
 
 
-- [JammUtkarsh/dotfiles](https://github.com/JammUtkarsh/dotfiles) - Scripts and alias commonly used (3 days ago)
 - [JammUtkarsh/depthsearch](https://github.com/JammUtkarsh/depthsearch) - A REST API wrapper around `depth` tool. (5 days ago)
-- [MadhaviGupta/GitShow](https://github.com/MadhaviGupta/GitShow) -  (1 week ago)
+- [JammUtkarsh/dotfiles](https://github.com/JammUtkarsh/dotfiles) - Scripts and alias commonly used (1 week ago)
+- [MadhaviGupta/GitShow](https://github.com/MadhaviGupta/GitShow) -  (2 weeks ago)
 
 ## 🔗 Links
 
