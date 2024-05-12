@@ -11,9 +11,9 @@ docker run --rm -it jammutkarsh/intro
 ## 🛠️ Currently working on
 
 
-- [jammutkarsh/depthsearch](https://github.com/jammutkarsh/depthsearch) - A REST API wrapper around `depth` tool. (4 weeks ago)
+- [jammutkarsh/depthsearch](https://github.com/jammutkarsh/depthsearch) - A REST API wrapper around `depth` tool. (1 month ago)
 - [unifiedbyx/.github](https://github.com/unifiedbyx/.github) -  (2 months ago)
-- [jammutkarsh/dotfiles](https://github.com/jammutkarsh/dotfiles) - Scripts and alias commonly used (2 months ago)
+- [jammutkarsh/dotfiles](https://github.com/jammutkarsh/dotfiles) - Scripts and alias commonly used (3 months ago)
 
 ## 🔗 Links
 
