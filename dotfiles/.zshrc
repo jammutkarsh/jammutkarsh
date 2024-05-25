@@ -1,17 +1,6 @@
 PATH="$PATH:/usr/local/bin:/usr/local/sbin:/usr/local/opt/curl/bin:/Users/utc/.local/bin:$HOME/go/bin:$HOME/Dotfiles/scripts"
 export PATH
 
-ZSH_THEME="uctheme"
-source $ZSH/oh-my-zsh.sh
-export ZSH="$HOME/.oh-my-zsh"
-export ZSH_COMPLETION="~/.oh-my-zsh/completions/"
-
-export GOPATH="$HOME/go"
-
-source $HOME/dotfiles/alias
-export HISTCONTROL="erasedupes:ignoredupes"
-export HISTIGNORE="ls*:history:code*"
-
 plugins=(
         git
         golang
@@ -22,6 +11,17 @@ plugins=(
         npm
         node
 )
+
+export ZSH="$HOME/.oh-my-zsh"
+export ZSH_COMPLETION="~/.oh-my-zsh/completions/"
+ZSH_THEME="uctheme"
+source $ZSH/oh-my-zsh.sh
+
+export GOPATH="$HOME/go"
+
+source $HOME/dotfiles/alias
+export HISTCONTROL="erasedupes:ignoredupes"
+export HISTIGNORE="ls*:history:code*"
 
 #CMD: atuin or ctrl + r
 #COX: replacement for custom hst command
