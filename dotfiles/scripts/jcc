@@ -1,0 +1,25 @@
+#!/bin/bash
+
+RED='\033[0;31m'
+NC='\033[0m' # No Color
+
+if [ $# -lt 1 ]; then
+    echo -e "${RED}error:${NC} needs one or more Java files"
+    exit 1
+fi
+
+# Compile all Java files
+javac "$@"
+if [ $? -ne 0 ]; then
+    echo -e "${RED}error:${NC} compilation failed"
+    exit 1
+fi
+
+# Extract the main class name from the first Java file (assuming the main class is in the first file)
+main_class=${1%.*}
+
+# Run the main class
+java $main_class
+
+# Clean up class files
+rm -f *.class

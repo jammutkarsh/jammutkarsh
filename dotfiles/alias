@@ -1,16 +1,10 @@
-result="history 1 -1 | cut -c 8- | uniq | fzf | pbcopy"
-alias hst="$result"
-alias hrun='bash -c "$(pbpaste)"'
-alias keygen="openssl rand -hex $1"
-
-alias cp="ditto"
-alias ls=lsd
-alias cls="clear"
-alias rmf="rm -rf"
+alias keygen="openssl rand -base64 $1"
+alias cp='ditto'
+alias ls='ls --color=always'
+alias cls='clear'
+alias rmf='rm -rf'
 alias p3='python3'
-alias down="cd ~/Downloads"
-alias dsa='cd ~/code/dsa/'
-alias cobra=cobra-cli
+alias down='cd ~/Downloads'
 
 # Docker Shortcut Commands
 alias dcd="docker compose down"
@@ -22,6 +16,6 @@ alias dvl="docker volume ls"
 alias dvrm="docker volume rm"
 alias dvc="docker volume create"
 
-# Run dockerized apps without installing dependencies 
+# Run dockerized apps without installing dependencies
 alias madness='docker run --rm -it -v $PWD:/docs -p 3000:3000 dannyben/madness'
 alias vimbgood="docker run -it --rm brandoncc/vim-be-good:stable"
