@@ -11,9 +11,9 @@ docker run --rm -it jammutkarsh/intro
 ## 🛠️ Currently working on
 
 
-- [jammutkarsh/dotfiles](https://github.com/jammutkarsh/dotfiles) - Scripts and alias commonly used (1 day ago)
-- [jammutkarsh/gfstat](https://github.com/jammutkarsh/gfstat) - GitHub Follow Statistics in Web and CLI(coming soon)! (2 days ago)
-- [jammutkarsh/depthsearch](https://github.com/jammutkarsh/depthsearch) - A REST API wrapper around `depth` tool. (1 week ago)
+- [jammutkarsh/dotfiles](https://github.com/jammutkarsh/dotfiles) - Scripts and alias commonly used (2 days ago)
+- [jammutkarsh/gfstat](https://github.com/jammutkarsh/gfstat) - GitHub Follow Statistics in Web and CLI(coming soon)! (1 week ago)
+- [jammutkarsh/depthsearch](https://github.com/jammutkarsh/depthsearch) - A REST API wrapper around `depth` tool. (2 weeks ago)
 
 ## 🔗 Links
 
