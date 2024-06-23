@@ -11,9 +11,9 @@ docker run --rm -it jammutkarsh/intro
 ## 🛠️ Currently working on
 
 
-- [jammutkarsh/terminal-website](https://github.com/jammutkarsh/terminal-website) - A portfolio website with terminal like theme (1 week ago)
-- [jammutkarsh/dotfiles](https://github.com/jammutkarsh/dotfiles) - Scripts and alias commonly used (2 weeks ago)
-- [jammutkarsh/gfstat](https://github.com/jammutkarsh/gfstat) - GitHub Follow Statistics in Web and CLI(coming soon)! (3 weeks ago)
+- [jammutkarsh/terminal-website](https://github.com/jammutkarsh/terminal-website) - A portfolio website with terminal like theme (2 weeks ago)
+- [jammutkarsh/dotfiles](https://github.com/jammutkarsh/dotfiles) - Scripts and alias commonly used (3 weeks ago)
+- [jammutkarsh/gfstat](https://github.com/jammutkarsh/gfstat) - GitHub Follow Statistics in Web and CLI(coming soon)! (1 month ago)
 
 ## 🔗 Links
 
