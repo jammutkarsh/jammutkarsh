@@ -13,7 +13,7 @@ docker run --rm -it jammutkarsh/intro
 
 - [questdb/go-questdb-client](https://github.com/questdb/go-questdb-client) - Golang client for QuestDB&#39;s Influx Line Protocol (1 month ago)
 - [jammutkarsh/terminal-website](https://github.com/jammutkarsh/terminal-website) - A portfolio website with terminal like theme (1 month ago)
-- [jammutkarsh/dotfiles](https://github.com/jammutkarsh/dotfiles) - Scripts and alias commonly used (1 month ago)
+- [jammutkarsh/dotfiles](https://github.com/jammutkarsh/dotfiles) - Scripts and alias commonly used (2 months ago)
 
 ## 🔗 Links
 
