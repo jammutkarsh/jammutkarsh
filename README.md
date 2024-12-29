@@ -11,9 +11,9 @@ docker run --rm -it jammutkarsh/intro
 ## 🛠️ Currently working on
 
 
-- [questdb/go-questdb-client](https://github.com/questdb/go-questdb-client) - Golang client for QuestDB&#39;s Influx Line Protocol (5 months ago)
+- [questdb/go-questdb-client](https://github.com/questdb/go-questdb-client) - Golang client for QuestDB&#39;s Influx Line Protocol (6 months ago)
 - [jammutkarsh/terminal-website](https://github.com/jammutkarsh/terminal-website) - A portfolio website with terminal like theme (6 months ago)
-- [jammutkarsh/dotfiles](https://github.com/jammutkarsh/dotfiles) - Scripts and alias commonly used (6 months ago)
+- [jammutkarsh/dotfiles](https://github.com/jammutkarsh/dotfiles) - Scripts and alias commonly used (7 months ago)
 
 ## 🔗 Links
 
