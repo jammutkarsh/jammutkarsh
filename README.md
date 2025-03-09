@@ -11,9 +11,9 @@ docker run --rm -it jammutkarsh/intro
 ## 🛠️ Currently working on
 
 
-- [jammutkarsh/AdventOfCode2024](https://github.com/jammutkarsh/AdventOfCode2024) - Solving Advent Of Code 2024 Challenges (4 days ago)
+- [jammutkarsh/AdventOfCode2024](https://github.com/jammutkarsh/AdventOfCode2024) - Solving Advent Of Code 2024 Challenges (1 week ago)
 - [questdb/go-questdb-client](https://github.com/questdb/go-questdb-client) - Golang client for QuestDB&#39;s Influx Line Protocol (8 months ago)
-- [jammutkarsh/terminal-website](https://github.com/jammutkarsh/terminal-website) - A portfolio website with terminal like theme (8 months ago)
+- [jammutkarsh/terminal-website](https://github.com/jammutkarsh/terminal-website) - A portfolio website with terminal like theme (9 months ago)
 
 ## 🔗 Links
 
