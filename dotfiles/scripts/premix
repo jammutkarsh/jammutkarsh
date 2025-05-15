@@ -1,0 +1,14 @@
+#!/bin/bash
+
+# Use environment variables if set, otherwise use defaults
+CONTAINER_NAME="${CONTAINER_NAME:-astrozop-service-postgres}"
+COMPOSE_FILE="${COMPOSE_FILE:-docker-compose-ci.yaml}"
+
+# Check if the container is running
+if ! docker ps --format '{{.Names}}' | grep -q "^${CONTAINER_NAME}$"; then
+	echo "Container ${CONTAINER_NAME} is not running. Starting services in detached mode..."
+	docker compose -f "$COMPOSE_FILE" up -d
+fi
+
+
+nix develop --command bash -c "mix format && mix credo && mix compile && mix test"

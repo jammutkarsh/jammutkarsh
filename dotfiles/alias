@@ -1,21 +1,28 @@
+#!/bin/bash
 alias keygen="openssl rand -base64 $1"
-alias cp='ditto'
 alias ls='ls --color=always'
 alias cls='clear'
 alias rmf='rm -rf'
 alias p3='python3'
 alias down='cd ~/Downloads'
+alias gz='cd ~/gamezop'
+alias gctl='gmailctl'
+alias vim='nvim'
+alias vi='nvim'
+alias el='elixir'
+alias elc='elixirc'
 
 # Docker Shortcut Commands
 alias dcd="docker compose down"
-alias dcu="docker compose up -d"
+alias dcu="docker compose up"
 alias dps="docker ps"
 alias dpa="docker ps -a"
 alias drm="docker rm -f"
 alias dvl="docker volume ls"
 alias dvrm="docker volume rm"
 alias dvc="docker volume create"
+alias daggerprune="dagger -c 'engine | local-cache | prune'"
 
 # Run dockerized apps without installing dependencies
-alias madness='docker run --rm -it -v $PWD:/docs -p 3000:3000 dannyben/madness'
+alias madness='docker run --rm -it -v $PWD:/docs -p 3000:3000 dannyben/madness server'
 alias vimbgood="docker run -it --rm brandoncc/vim-be-good:stable"
