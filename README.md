@@ -11,8 +11,8 @@ docker run --rm -it jammutkarsh/intro
 ## 🛠️ Currently working on
 
 
-- [jammutkarsh/dotfiles](https://github.com/jammutkarsh/dotfiles) - Scripts and alias commonly used (1 week ago)
-- [jammutkarsh/AdventOfCode2024](https://github.com/jammutkarsh/AdventOfCode2024) - Solving Advent Of Code 2024 Challenges (2 months ago)
+- [jammutkarsh/dotfiles](https://github.com/jammutkarsh/dotfiles) - Scripts and alias commonly used (2 weeks ago)
+- [jammutkarsh/AdventOfCode2024](https://github.com/jammutkarsh/AdventOfCode2024) - Solving Advent Of Code 2024 Challenges (3 months ago)
 - [questdb/go-questdb-client](https://github.com/questdb/go-questdb-client) - Golang client for QuestDB&#39;s Influx Line Protocol (11 months ago)
 
 ## 🔗 Links
