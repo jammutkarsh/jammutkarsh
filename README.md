@@ -1,12 +1,15 @@
-# 👋 Hey People Of The Internet
+# Why do I have a GitHub Profile
 
-![Image](https://github.com/JammUtkarsh/jammutkarsh/blob/main/github-banner.png?raw=true)
+![This only attracts attention, doesn't add any real value.](https://github.com/JammUtkarsh/jammutkarsh/blob/main/github-banner.png?raw=true)
 
-Inside Terminal:
+I mostly build stuff to solve *my own problems*. Sorry world, you're on your own (unless you're planning to *hire me*, then I'm suddenly a global visionary).
 
-```bash
-docker run --rm -it jammutkarsh/intro
-```
+Everything’s public because **I genuinely believe knowledge/code should be free and open**, not locked behind a paywall or someone's ego.
+
+I love Docker — **most projects have a Dockerfile** so you can run them yourself.
+Host it, Break it, Raise an issue, I'll fix it! Just don’t send me your bill.
+
+I’m not chasing stars or watchers—this isn't Instagram. But if you find something cool here and want to collaborate, maybe **we can build something together** that helps more than just... *me*.
 
 ## 🛠️ Currently working on
 
@@ -19,9 +22,8 @@ docker run --rm -it jammutkarsh/intro
 
   &bullet; [Resume](https://links.utkarshchourasia.in/resume)
   &bullet; [Mail](mailto:mail@utkarshchourasia.in)
-  &bullet; [Website / Portfolio](https://utkarshchourasia.in/)
+  &bullet; [Website / Blog](https://utkarshchourasia.in/)
+  &bullet; [Blog](https://utkarshchourasia.in/blog)
   &bullet; [LinkedIn](https://www.linkedin.com/in/5utkarshc/)
-  &bullet; [Twitter](https://twitter.com/JammUtkarsh)
-  &bullet; [GitHub Memory](https://githubmemory.com/@JammUtkarsh)
 
-Made with [readme-scribe](https://github.com/muesli/readme-scribe)
+Automated using [readme-scribe](https://github.com/muesli/readme-scribe)
