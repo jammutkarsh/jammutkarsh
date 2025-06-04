@@ -2,7 +2,7 @@
 
 ![This only attracts attention, doesn't add any real value.](https://github.com/JammUtkarsh/jammutkarsh/blob/main/github-banner.png?raw=true)
 
-I mostly build stuff to solve *my own problems*. Sorry world, you're on your own (unless you're planning to *hire me*, then I'm suddenly a global visionary).
+I mostly build stuff to solve **my own problems**. Sorry world, you're on your own (unless you're planning to *hire me*, then *I'm suddenly a global visionary*).
 
 Everything’s public because **I genuinely believe knowledge/code should be free and open**, not locked behind a paywall or someone's ego.
 
