@@ -9,7 +9,7 @@ Everything’s public because **I genuinely believe knowledge/code should be fre
 I love Docker — **most projects have a Dockerfile** so you can run them yourself.
 Host it, Break it, Raise an issue, I'll fix it! Just don’t send me your bill.
 
-I’m not chasing stars or watchers—this isn't Instagram. But if you find something cool here and want to collaborate, maybe **we can build something together** that helps more than just... *me*.
+If you find something cool here and want to collaborate, maybe **we can build something together** that helps more than just... *me*.
 
 ## 🛠️ Currently working on
 
