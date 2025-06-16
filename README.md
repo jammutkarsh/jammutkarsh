@@ -7,9 +7,9 @@ I mostly build stuff to solve **my own problems**. Sorry world, you're on your o
 Everything’s public because **I genuinely believe knowledge/code should be free and open**, not locked behind a paywall or someone's ego.
 
 I love Docker — **most projects have a Dockerfile** so you can run them yourself.
-Host it, Break it, Raise an issue, I'll fix it! Just don’t send me your bill.
+Host it, Break it, Raise an issue, I'll fix it for you! Just don’t send me your AWS bill.
 
-If you find something cool here and want to collaborate, maybe **we can build something together** that helps more than just... *me*.
+If you find something cool here and want to collaborate, hit me up! Maybe **we can build something together** that helps more than just... *me*.
 
 ## 🛠️ Currently working on
 
