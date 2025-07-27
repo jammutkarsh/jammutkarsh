@@ -15,7 +15,7 @@ If you find something cool here and want to collaborate, hit me up! Maybe **we c
 
 
 - [jammutkarsh/dotfiles](https://github.com/jammutkarsh/dotfiles) - Scripts and alias commonly used (2 months ago)
-- [jammutkarsh/AdventOfCode2024](https://github.com/jammutkarsh/AdventOfCode2024) - Solving Advent Of Code 2024 Challenges (4 months ago)
+- [jammutkarsh/AdventOfCode2024](https://github.com/jammutkarsh/AdventOfCode2024) - Solving Advent Of Code 2024 Challenges (5 months ago)
 
 ## 🔗 Links
 
