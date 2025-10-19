@@ -14,7 +14,7 @@ If you find something cool here and want to collaborate, hit me up! Maybe **we c
 ## 🛠️ Currently working on
 
 
-- [jammutkarsh/locationDB](https://github.com/jammutkarsh/locationDB) -  (3 weeks ago)
+- [jammutkarsh/locationDB](https://github.com/jammutkarsh/locationDB) -  (1 month ago)
 - [jammutkarsh/dotfiles](https://github.com/jammutkarsh/dotfiles) - Scripts and alias commonly used (5 months ago)
 - [jammutkarsh/AdventOfCode2024](https://github.com/jammutkarsh/AdventOfCode2024) - Solving Advent Of Code 2024 Challenges (7 months ago)
 
