@@ -1,6 +1,10 @@
-export PATH="/usr/local/sbin:$PATH"
+export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvmexport PATH="/usr/local/sbin:$PATH"
+
 export PATH="/usr/local/opt/curl/bin:$PATH"
 export PATH="$HOME/.local/bin:$PATH"
+export PATH=$HOME/.elixir-install/installs/otp/27.3.4.6/bin:$PATH
+export PATH=$HOME/.elixir-install/installs/elixir/1.19.3-otp-27/bin:$PATH
 
 
 if [[ -f "/opt/homebrew/bin/brew" ]] then
@@ -17,7 +21,6 @@ plugins=(
         docker
         zsh-autosuggestions
         zsh-syntax-highlighting
-        multipass
         npm
         node
 )
@@ -64,5 +67,13 @@ source <(atuin gen-completions --shell zsh)
 eval "$(atuin init zsh --disable-up-arrow)"
 test -e $HOME/.iterm2_shell_integration.zsh && source $HOME/.iterm2_shell_integration.zsh || true
 
-#CMD: glow  - markdown preview
-source <(glow completion zsh)
+gbdel() {
+  git branch --sort=-committerdate \
+    | sed 's/^\*//' \
+    | fzf --multi --header="Select branches to FORCE delete (TAB to mark, ENTER to confirm)" \
+    | xargs -r git branch -D
+}
+
+
+# Added by Antigravity
+export PATH="/Users/utc/.antigravity/antigravity/bin:$PATH"

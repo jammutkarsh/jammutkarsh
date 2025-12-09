@@ -5,12 +5,25 @@ alias cls='clear'
 alias rmf='rm -rf'
 alias p3='python3'
 alias down='cd ~/Downloads'
-alias gz='cd ~/gamezop'
 alias gctl='gmailctl'
-alias vim='nvim'
-alias vi='nvim'
-alias el='elixir'
-alias elc='elixirc'
+alias gp='git push'
+alias gs='git status'
+alias ga='git add'
+alias gst='git stash'
+alias gsta='git stash apply'
+alias gd='git diff'
+alias gpl='git pull'
+alias gc='git commit'
+alias gcap='git commit --amend --no-edit && git push -f'
+alias gco="git branch --sort=-committerdate | fzf --header Checkout | tr '*' ' ' | xargs git checkout"
+alias psql='psql-18'
+alias gf='gofmt -s -d -e -w .'
+
+
+# Misc
+alias b="ssh gz-bastion"
+alias nixd="/nix/var/nix/profiles/default/bin/nix develop"
+alias nixprune="/nix/var/nix/profiles/default/bin/nix-collect-garbage --delete-older-than 7d"
 
 # Docker Shortcut Commands
 alias dcd="docker compose down"
