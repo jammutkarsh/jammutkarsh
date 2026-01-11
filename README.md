@@ -14,8 +14,8 @@ If you find something cool here and want to collaborate, hit me up! Maybe **we c
 ## 🛠️ Currently working on
 
 
-- [jammutkarsh/dotfiles](https://github.com/jammutkarsh/dotfiles) - Scripts and alias commonly used (3 weeks ago)
-- [jammutkarsh/Spell-Ez-Python](https://github.com/jammutkarsh/Spell-Ez-Python) - A CLI-based TTS app to improve spellings. (1 month ago)
+- [jammutkarsh/dotfiles](https://github.com/jammutkarsh/dotfiles) - Scripts and alias commonly used (1 month ago)
+- [jammutkarsh/Spell-Ez-Python](https://github.com/jammutkarsh/Spell-Ez-Python) - A CLI-based TTS app to improve spellings. (2 months ago)
 - [jammutkarsh/AdventOfCode2024](https://github.com/jammutkarsh/AdventOfCode2024) - Solving Advent Of Code 2024 Challenges (10 months ago)
 
 ## 🔗 Links
