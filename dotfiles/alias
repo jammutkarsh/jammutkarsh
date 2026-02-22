@@ -1,4 +1,6 @@
 #!/bin/bash
+## Aliases for various commands and shortcuts
+
 alias keygen="openssl rand -base64 $1"
 alias ls='ls --color=always'
 alias cls='clear'
@@ -18,6 +20,7 @@ alias gcap='git commit --amend --no-edit && git push -f'
 alias gco="git branch --sort=-committerdate | fzf --header Checkout | tr '*' ' ' | xargs git checkout"
 alias psql='psql-18'
 alias gf='gofmt -s -d -e -w .'
+alias goupdate='brew install go'
 
 # Misc
 alias b="ssh gz-bastion"
@@ -36,7 +39,17 @@ alias dvl="docker volume ls"
 alias dvrm="docker volume rm"
 alias dvc="docker volume create"
 alias daggerprune="dagger -c 'engine | local-cache | prune'"
+alias dockerimagerm="docker rmi $(docker images -a -q)"
 
 # Run dockerized apps without installing dependencies
 alias madness='docker run --rm -it -v $PWD:/docs -p 3000:3000 dannyben/madness server'
 alias vimbgood="docker run -it --rm brandoncc/vim-be-good:stable"
+
+## Custom Functions
+
+gbdel() {
+  git branch --sort=-committerdate \
+    | sed 's/^\*//' \
+    | fzf --multi --header="Select branches to FORCE delete (TAB to mark, ENTER to confirm)" \
+    | xargs -r git branch -D
+}
