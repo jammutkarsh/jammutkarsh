@@ -3,11 +3,11 @@ current_time() {
   echo "%*"
 }
 
-PROMPT='%{$BG[128]%}%B %n %b%{$reset_color%}%{$FG[225]%} in %{$reset_color%}%{$BG[202]%}%B %0~ %b%{$reset_color%}$(git_prompt_info)%{$reset_color%}'
+PROMPT='%{$BG[128]%}%B %n %b%{$reset_color%}%{$FG[225]%} in %{$reset_color%}%{$BG[202]%}%B %0~ %b%{$reset_color%}$(git_prompt_info)%{$reset_color%} %{$FG[244]%}$(current_time)%{$reset_color%}'
 PROMPT+='
 %(?:%{$FG[153]%}ƛ%{$reset_color%}:%{$FG[196]%}ƛ%{$reset_color%}) '
 
-RPROMPT='$(current_time)%{$reset_color%}'
+RPROMPT=''
 
 ZSH_THEME_GIT_PROMPT_PREFIX=" on %{$fg_bold[blue]%}Branch:(%{$fg[red]%}"
 ZSH_THEME_GIT_PROMPT_SUFFIX="%{$reset_color%} "

@@ -39,7 +39,7 @@ alias dvl="docker volume ls"
 alias dvrm="docker volume rm"
 alias dvc="docker volume create"
 alias daggerprune="dagger -c 'engine | local-cache | prune'"
-alias dockerimagerm="docker rmi $(docker images -a -q)"
+alias dockerimagerm='docker rmi $(docker images -a -q)'
 
 # Run dockerized apps without installing dependencies
 alias madness='docker run --rm -it -v $PWD:/docs -p 3000:3000 dannyben/madness server'
