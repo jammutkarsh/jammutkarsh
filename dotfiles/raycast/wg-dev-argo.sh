@@ -1,0 +1,71 @@
+#!/bin/bash
+
+set -euo pipefail
+
+# Required parameters:
+# @raycast.schemaVersion 1
+# @raycast.title wg dev argo
+# @raycast.mode silent
+
+# Optional parameters:
+# @raycast.icon 🔒
+# @raycast.argument1 { "type": "dropdown", "placeholder": "Select Dev App", "data": [{ "title": "meteor-go-app", "value": "meteor-go-app" }, { "title": "dev2-meteor-go-app", "value": "dev2-meteor-go-app" }, { "title": "astrozop-service-app-new", "value": "astrozop-service-app-new" }, { "title": "dev1-puzzle-api-app", "value": "dev1-puzzle-api-app" }, { "title": "dev2-puzzle-api-app", "value": "dev2-puzzle-api-app" }, { "title": "dev2-gzp-ai-common-app", "value": "dev2-gzp-ai-common-app" }, { "title": "gzp-ai-common-app", "value": "gzp-ai-common-app" }, { "title": "dev-events-stream-processor-app", "value": "dev-events-stream-processor-app" }] }
+# @raycast.packageName WireGuard Switcher
+# @raycast.needsConfirmation false
+
+# Documentation:
+# @raycast.description Connect Dev VPN and open Argo app in Firefox
+# @raycast.author jammutkarsh
+# @raycast.authorURL https://raycast.com/jammutkarsh
+
+WG_BIN="wg-quick"
+DEV_IF="dev"
+PROD_IF="prod"
+UC_IF="uc"
+
+usage() {
+  echo "Usage: $0 <dev-app-name>"
+  exit 1
+}
+
+require_cmd() {
+  if ! command -v "$1" >/dev/null 2>&1; then
+    echo "Error: required command '$1' not found."
+    exit 1
+  fi
+}
+
+stop_all() {
+  sudo -n "$WG_BIN" down "$DEV_IF" 2>/dev/null || true
+  sudo -n "$WG_BIN" down "$PROD_IF" 2>/dev/null || true
+  sudo -n "$WG_BIN" down "$UC_IF" 2>/dev/null || true
+}
+
+require_cmd sudo
+require_cmd "$WG_BIN"
+require_cmd open
+
+if ! sudo -n true 2>/dev/null; then
+  echo "Error: this command requires passwordless sudo for '$WG_BIN'."
+  exit 1
+fi
+
+app_name="${1:-}"
+[[ -n "$app_name" ]] || usage
+
+case "$app_name" in
+  meteor-go-app|dev2-meteor-go-app|astrozop-service-app-new|dev1-puzzle-api-app|dev2-puzzle-api-app|dev2-gzp-ai-common-app|gzp-ai-common-app|dev-events-stream-processor-app)
+    ;;
+  *)
+    echo "Error: invalid dev app '$app_name'."
+    exit 1
+    ;;
+esac
+
+stop_all
+sudo -n "$WG_BIN" up "$DEV_IF"
+
+url="http://dev-argo.k8s.gamezop.io/applications/$app_name"
+open -a "Firefox" "$url"
+
+echo "Dev VPN is now active. Opened $app_name in Firefox."
