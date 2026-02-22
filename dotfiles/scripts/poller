@@ -5,7 +5,7 @@ start_time=$SECONDS
 
 TYPES=("daily" "monthly" "weekly" "yearly")
 PERIODS=("today" "previous" "next")
-RETRY_INTERVAL=1  # seconds to wait before retry
+RETRY_INTERVAL=1 # seconds to wait before retry
 MAX_RETRIES=5    # prevent infinite loop
 
 # Environment selection
@@ -16,53 +16,52 @@ echo "3. prod"
 read -r env_choice
 
 if [[ -z "$env_choice" || "$env_choice" == "1" ]]; then
-  ENV_PREFIX="dev"
-  echo "Using dev environment"
-  URL_BASE="dev-astrozop-service.k8s.gamezop.io/internal/v1/poll/horoscope"
+	ENV_PREFIX="dev"
+	echo "Using dev environment"
+	URL_BASE="dev-astrozop-service.k8s.gamezop.io/internal/v1/poll/horoscope"
 elif [[ "$env_choice" == "3" ]]; then
-  ENV_PREFIX="prod"
-  echo "Using prod environment"
-  URL_BASE="astrozop-service.k8s.gamezop.com/internal/v1/poll/horoscope"
+	ENV_PREFIX="prod"
+	echo "Using prod environment"
+	URL_BASE="astrozop-service.k8s.gamezop.com/internal/v1/poll/horoscope"
 elif [[ "$env_choice" == "2" ]]; then
-  ENV_PREFIX="staging"
-  echo "Using staging environment"
-  URL_BASE="astrozop-service.staging-k8s.gamezop.com/internal/v1/poll/horoscope"
+	ENV_PREFIX="staging"
+	echo "Using staging environment"
+	URL_BASE="astrozop-service.staging-k8s.gamezop.com/internal/v1/poll/horoscope"
 else
-    echo "Invalid Option"
-    exit 1
+	echo "Invalid Option"
+	exit 1
 fi
 
 for type in "${TYPES[@]}"; do
-  for period in "${PERIODS[@]}"; do
-    url="$URL_BASE?type=$type&period=$period"
-    echo "🔍 Checking: $url"
-    
-    attempt=1
-    while true; do
-      HTTP_STATUS=$(curl -k -s -o /dev/null -w "%{http_code}" "$url")
+	for period in "${PERIODS[@]}"; do
+		url="$URL_BASE?type=$type&period=$period"
+		echo "🔍 Checking: $url"
 
-      if [[ "$HTTP_STATUS" == "200" ]]; then
-        echo "✅ [$type][$period] Success: 200 OK"
-        break
-      elif [[ "$HTTP_STATUS" == "400" || "$HTTP_STATUS" == "504" || "$HTTP_STATUS" == "502" ]]; then
-        echo "⚠️  [$type][$period] Attempt $attempt: Got 504. Retrying in $RETRY_INTERVAL sec..."
-        if [[ "$attempt" -ge "$MAX_RETRIES" ]]; then
-          echo "❌ [$type][$period] Failed after $MAX_RETRIES retries with 504"
-          break
-        fi
-        attempt=$((attempt + 1))
-        sleep $RETRY_INTERVAL
-      else
-        echo "❌ [$type][$period] Failed with unexpected status: $HTTP_STATUS"
-        break
-      fi
-    done
-    echo
-  done
+		attempt=1
+		while true; do
+			HTTP_STATUS=$(curl -k -s -o /dev/null -w "%{http_code}" "$url")
+
+			if [[ "$HTTP_STATUS" == "200" ]]; then
+				echo "✅ [$type][$period] Success: 200 OK"
+				break
+			elif [[ "$HTTP_STATUS" == "400" || "$HTTP_STATUS" == "504" || "$HTTP_STATUS" == "502" ]]; then
+				echo "⚠️  [$type][$period] Attempt $attempt: Got 504. Retrying in $RETRY_INTERVAL sec..."
+				if [[ "$attempt" -ge "$MAX_RETRIES" ]]; then
+					echo "❌ [$type][$period] Failed after $MAX_RETRIES retries with 504"
+					break
+				fi
+				attempt=$((attempt + 1))
+				sleep $RETRY_INTERVAL
+			else
+				echo "❌ [$type][$period] Failed with unexpected status: $HTTP_STATUS"
+				break
+			fi
+		done
+		echo
+	done
 done
 
 # Calculate and print total execution time
 end_time=$SECONDS
 duration=$((end_time - start_time))
 echo "⏱️ Total execution time: $duration seconds"
-

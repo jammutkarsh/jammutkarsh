@@ -9,19 +9,19 @@ BLUEUTIL="/usr/local/bin/blueutil"
 # Log file (optional, for debugging)
 LOG_FILE="$HOME/.disconnect_bt.log"
 
-echo "$(date): Attempting to disconnect $MAC" >> "$LOG_FILE"
+echo "$(date): Attempting to disconnect $MAC" >>"$LOG_FILE"
 
 # Check if MAC is provided
 if [ -z "$MAC" ]; then
-    echo "No MAC address provided." >> "$LOG_FILE"
-    exit 1
+	echo "No MAC address provided." >>"$LOG_FILE"
+	exit 1
 fi
 
 # Disconnect
-$BLUEUTIL --disconnect "$MAC" >> "$LOG_FILE" 2>&1
+$BLUEUTIL --disconnect "$MAC" >>"$LOG_FILE" 2>&1
 
 if [ $? -eq 0 ]; then
-    echo "$(date): Successfully disconnected $MAC" >> "$LOG_FILE"
+	echo "$(date): Successfully disconnected $MAC" >>"$LOG_FILE"
 else
-    echo "$(date): Failed to disconnect $MAC" >> "$LOG_FILE"
+	echo "$(date): Failed to disconnect $MAC" >>"$LOG_FILE"
 fi

@@ -10,5 +10,4 @@ if ! docker ps --format '{{.Names}}' | grep -q "^${CONTAINER_NAME}$"; then
 	docker compose -f "$COMPOSE_FILE" up -d
 fi
 
-
 nix develop --command bash -c "mix format && mix credo && mix compile && mix test"

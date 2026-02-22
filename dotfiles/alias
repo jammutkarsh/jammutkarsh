@@ -19,7 +19,6 @@ alias gco="git branch --sort=-committerdate | fzf --header Checkout | tr '*' ' '
 alias psql='psql-18'
 alias gf='gofmt -s -d -e -w .'
 
-
 # Misc
 alias b="ssh gz-bastion"
 alias nixd="/nix/var/nix/profiles/default/bin/nix develop"

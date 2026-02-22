@@ -2,8 +2,8 @@
 set -euo pipefail
 
 if [[ $# -ne 1 ]]; then
-  echo "Usage: $0 <dev|dev1|dev2>"
-  exit 1
+	echo "Usage: $0 <dev|dev1|dev2>"
+	exit 1
 fi
 
 TARGET="$1"
@@ -12,12 +12,12 @@ CURRENT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
 # Find the workflow file: dev*.yml or dev*.yaml
 WORKFLOW_FILE=$(ls .github/workflows/${TARGET}-*.yml 2>/dev/null || true)
 if [[ -z "$WORKFLOW_FILE" ]]; then
-  WORKFLOW_FILE=$(ls .github/workflows/${TARGET}-*.yaml 2>/dev/null || true)
+	WORKFLOW_FILE=$(ls .github/workflows/${TARGET}-*.yaml 2>/dev/null || true)
 fi
 
 if [[ -z "$WORKFLOW_FILE" ]]; then
-  echo "❌ No workflow file found for: $TARGET"
-  exit 1
+	echo "❌ No workflow file found for: $TARGET"
+	exit 1
 fi
 
 echo "Found workflow: $WORKFLOW_FILE"
