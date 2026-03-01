@@ -14,9 +14,9 @@ If you find something cool here and want to collaborate, hit me up! Maybe **we c
 ## 🛠️ Currently working on
 
 
-- [jammutkarsh/pr-pulse](https://github.com/jammutkarsh/pr-pulse) - Keep your finger on the pulse of your PRs. Real-time GitHub monitoring that checks every minute. (1 week ago)
-- [gamezop/astrozop-firebase-example](https://github.com/gamezop/astrozop-firebase-example) -  (2 weeks ago)
-- [jammutkarsh/dotfiles](https://github.com/jammutkarsh/dotfiles) - Scripts and alias commonly used (2 months ago)
+- [gamezop/astrozop-firebase-extension](https://github.com/gamezop/astrozop-firebase-extension) -  (2 days ago)
+- [jammutkarsh/wandersort](https://github.com/jammutkarsh/wandersort) -  (4 days ago)
+- [jammutkarsh/pr-pulse](https://github.com/jammutkarsh/pr-pulse) - Keep your finger on the pulse of your PRs. Real-time GitHub monitoring that checks every minute. (6 days ago)
 
 ## 🔗 Links
 
