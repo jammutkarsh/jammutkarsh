@@ -14,9 +14,9 @@ If you find something cool here and want to collaborate, hit me up! Maybe **we c
 ## 🛠️ Currently working on
 
 
-- [gamezop/astrozop-firebase-extension](https://github.com/gamezop/astrozop-firebase-extension) -  (2 days ago)
-- [jammutkarsh/wandersort](https://github.com/jammutkarsh/wandersort) -  (4 days ago)
-- [jammutkarsh/pr-pulse](https://github.com/jammutkarsh/pr-pulse) - Keep your finger on the pulse of your PRs. Real-time GitHub monitoring that checks every minute. (6 days ago)
+- [jammutkarsh/wandersort](https://github.com/jammutkarsh/wandersort) - Media files deduplication and organising engine (1 day ago)
+- [gamezop/astrozop-firebase-extension](https://github.com/gamezop/astrozop-firebase-extension) -  (5 days ago)
+- [jammutkarsh/pr-pulse](https://github.com/jammutkarsh/pr-pulse) - Keep your finger on the pulse of your PRs. Real-time GitHub monitoring that checks every minute. (1 week ago)
 
 ## 🔗 Links
 
