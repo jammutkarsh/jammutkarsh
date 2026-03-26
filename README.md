@@ -14,16 +14,16 @@ If you find something cool here and want to collaborate, hit me up! Maybe **we c
 ## 🛠️ Currently working on
 
 
-- [jammutkarsh/wandersort](https://github.com/jammutkarsh/wandersort) - Media files deduplication and organising engine (6 days ago)
-- [gamezop/astrozop-firebase-extension](https://github.com/gamezop/astrozop-firebase-extension) - Send daily horoscope push notifications to your users based on their sun sign and local timezone, powered by Astrozop (2 weeks ago)
-- [jammutkarsh/pr-pulse](https://github.com/jammutkarsh/pr-pulse) - Keep your finger on the pulse of your PRs. Real-time GitHub monitoring that checks every minute. (3 weeks ago)
+- [jammutkarsh/pr-pulse](https://github.com/jammutkarsh/pr-pulse) - Keep your finger on the pulse of your PRs. Real-time GitHub monitoring that checks every minute. (3 days ago)
+- [jammutkarsh/wandersort](https://github.com/jammutkarsh/wandersort) - Media files deduplication and organising engine (4 days ago)
+- [gamezop/astrozop-firebase-extension](https://github.com/gamezop/astrozop-firebase-extension) - Send daily horoscope push notifications to your users based on their sun sign and local timezone, powered by Astrozop (3 weeks ago)
 
 ## 🔗 Links
 
   &bullet; [Resume](https://links.utkarshchourasia.in/resume)
   &bullet; [Mail](mailto:mail@utkarshchourasia.in)
-  &bullet; [Website / Blog](https://utkarshchourasia.in/)
+  &bullet; [Website / Blog](https://utkarshchourasia.in)
   &bullet; [Blog](https://utkarshchourasia.in/blog)
-  &bullet; [LinkedIn](https://www.linkedin.com/in/5utkarshc/)
+  &bullet; [LinkedIn](https://www.linkedin.com/in/jammutkarsh)
 
 Automated using [readme-scribe](https://github.com/muesli/readme-scribe)
