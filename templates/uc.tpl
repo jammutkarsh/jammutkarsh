@@ -21,8 +21,8 @@ If you find something cool here and want to collaborate, hit me up! Maybe **we c
 
   &bullet; [Resume](https://links.utkarshchourasia.in/resume)
   &bullet; [Mail](mailto:mail@utkarshchourasia.in)
-  &bullet; [Website / Blog](https://utkarshchourasia.in/)
+  &bullet; [Website / Blog](https://utkarshchourasia.in)
   &bullet; [Blog](https://utkarshchourasia.in/blog)
-  &bullet; [LinkedIn](https://www.linkedin.com/in/5utkarshc/)
+  &bullet; [LinkedIn](https://www.linkedin.com/in/jammutkarsh)
 
 Automated using [readme-scribe](https://github.com/muesli/readme-scribe)
