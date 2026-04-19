@@ -14,8 +14,8 @@ If you find something cool here and want to collaborate, hit me up! Maybe **we c
 ## 🛠️ Currently working on
 
 
-- [jammutkarsh/pr-pulse](https://github.com/jammutkarsh/pr-pulse) - Keep your finger on the pulse of your PRs. Real-time GitHub monitoring that checks every minute. (2 weeks ago)
-- [jammutkarsh/wandersort](https://github.com/jammutkarsh/wandersort) - Media files deduplication and organising engine (3 weeks ago)
+- [jammutkarsh/pr-pulse](https://github.com/jammutkarsh/pr-pulse) - PR Pulse is a Pull Request dashboard for GitHub, delivered as a Chrome extension. Say No to Navigation! (today)
+- [jammutkarsh/wandersort](https://github.com/jammutkarsh/wandersort) - Media files deduplication and organising engine (4 weeks ago)
 - [gamezop/astrozop-firebase-extension](https://github.com/gamezop/astrozop-firebase-extension) - Send daily horoscope push notifications to your users based on their sun sign and local timezone, powered by Astrozop (1 month ago)
 
 ## 🔗 Links
