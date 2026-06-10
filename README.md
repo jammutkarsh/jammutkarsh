@@ -14,19 +14,19 @@ If you find something cool here and want to collaborate, hit me up! Maybe **we c
 ## 🛠️ Currently working on
 
 
-- [jammutkarsh/wandersort](https://github.com/jammutkarsh/wandersort) - WanderSort is a local-first media organiser that scans your chaotic pile of photos and videos — scattered across hard drives, SD cards, and phone dumps — and structures them into a clean, human-readable folder tree you actually understand. (1 day ago)
-- [jammutkarsh/locationDB](https://github.com/jammutkarsh/locationDB) - A script that downloads the public GeoNames dataset and loads it into a local database — ready to query by city name, country, state, or geographic coordinates.  Supports PostgreSQL and SQLite out of the box. (2 days ago)
+- [jammutkarsh/wandersort](https://github.com/jammutkarsh/wandersort) - WanderSort is a local-first media organiser that scans your chaotic pile of photos and videos — scattered across hard drives, SD cards, and phone dumps — and structures them into a clean, human-readable folder tree you actually understand. (2 days ago)
+- [jammutkarsh/locationDB](https://github.com/jammutkarsh/locationDB) - A script that downloads the public GeoNames dataset and loads it into a local database — ready to query by city name, country, state, or geographic coordinates.  Supports PostgreSQL and SQLite out of the box. (3 days ago)
 - [gamezop/github-action-workflows](https://github.com/gamezop/github-action-workflows) -  (1 week ago)
 - [jammutkarsh/design-system](https://github.com/jammutkarsh/design-system) - A terminal/PlanetScale/Glow inspired design system for developer portfolios and project websites. (1 week ago)
 - [jammutkarsh/gfstat](https://github.com/jammutkarsh/gfstat) - GitHub Follow Statistics! (2 weeks ago)
 
 ## ⭐ Recent Stars
 
-- [charlie947/social-media-skills](https://github.com/charlie947/social-media-skills) -  (2 days ago)
-- [karanpratapsingh/portfolio](https://github.com/karanpratapsingh/portfolio) - My portfolio website with built-in blogs and courses support (5 days ago)
+- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer. (1 day ago)
+- [charlie947/social-media-skills](https://github.com/charlie947/social-media-skills) -  (3 days ago)
+- [karanpratapsingh/portfolio](https://github.com/karanpratapsingh/portfolio) - My portfolio website with built-in blogs and courses support (6 days ago)
 - [sunilband/thock-mania](https://github.com/sunilband/thock-mania) - Every key has a voice. A typing test with per-key mechanical audio, four modes, statistical anti-cheat, and a fully offline PWA — designed to make the act of typing feel tactile. (1 week ago)
 - [FullHuman/purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS (1 week ago)
-- [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web! (1 week ago)
 
 ## 🔗 Links
 
