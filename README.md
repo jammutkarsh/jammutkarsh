@@ -14,19 +14,19 @@ If you find something cool here and want to collaborate, hit me up! Maybe **we c
 ## 🛠️ Currently working on
 
 
-- [jammutkarsh/wandersort](https://github.com/jammutkarsh/wandersort) - WanderSort is a local-first media organiser that scans your chaotic pile of photos and videos — scattered across hard drives, SD cards, and phone dumps — and structures them into a clean, human-readable folder tree you actually understand. (4 days ago)
-- [jammutkarsh/locationDB](https://github.com/jammutkarsh/locationDB) - A script that downloads the public GeoNames dataset and loads it into a local database — ready to query by city name, country, state, or geographic coordinates.  Supports PostgreSQL and SQLite out of the box. (5 days ago)
+- [jammutkarsh/locationDB](https://github.com/jammutkarsh/locationDB) - A script that downloads the public GeoNames dataset and loads it into a local database — ready to query by city name, country, state, or geographic coordinates.  Supports PostgreSQL and SQLite out of the box. (1 day ago)
+- [jammutkarsh/wandersort](https://github.com/jammutkarsh/wandersort) - WanderSort is a local-first media organiser that scans your chaotic pile of photos and videos — scattered across hard drives, SD cards, and phone dumps — and structures them into a clean, human-readable folder tree you actually understand. (5 days ago)
 - [gamezop/github-action-workflows](https://github.com/gamezop/github-action-workflows) -  (1 week ago)
 - [jammutkarsh/design-system](https://github.com/jammutkarsh/design-system) - A terminal/PlanetScale/Glow inspired design system for developer portfolios and project websites. (1 week ago)
 - [jammutkarsh/gfstat](https://github.com/jammutkarsh/gfstat) - GitHub Follow Statistics! (2 weeks ago)
 
 ## ⭐ Recent Stars
 
-- [s-u/macosvm](https://github.com/s-u/macosvm) - Tool for running macOS guest virtual machines in macOS 12 host or higher on arm64 Macs (Apple Silicon) (1 day ago)
-- [WintrCat/wintrchess](https://github.com/WintrCat/wintrchess) - WintrChess ♟️ (1 day ago)
-- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer. (3 days ago)
-- [charlie947/social-media-skills](https://github.com/charlie947/social-media-skills) -  (5 days ago)
-- [karanpratapsingh/portfolio](https://github.com/karanpratapsingh/portfolio) - My portfolio website with built-in blogs and courses support (1 week ago)
+- [sixhobbits/technical-writing](https://github.com/sixhobbits/technical-writing) - A collection of materials relating to technical writing (1 day ago)
+- [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - Skeleton is an adaptive design system powered by Tailwind CSS. (1 day ago)
+- [s-u/macosvm](https://github.com/s-u/macosvm) - Tool for running macOS guest virtual machines in macOS 12 host or higher on arm64 Macs (Apple Silicon) (2 days ago)
+- [WintrCat/wintrchess](https://github.com/WintrCat/wintrchess) - WintrChess ♟️ (2 days ago)
+- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer. (4 days ago)
 
 ## 🔗 Links
 
