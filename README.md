@@ -14,19 +14,19 @@ If you find something cool here and want to collaborate, hit me up! Maybe **we c
 ## 🛠️ Currently working on
 
 
-- [jammutkarsh/locationDB](https://github.com/jammutkarsh/locationDB) - A script that downloads the public GeoNames dataset and loads it into a local database — ready to query by city name, country, state, or geographic coordinates.  Supports PostgreSQL and SQLite out of the box. (1 day ago)
-- [jammutkarsh/wandersort](https://github.com/jammutkarsh/wandersort) - WanderSort is a local-first media organiser that scans your chaotic pile of photos and videos — scattered across hard drives, SD cards, and phone dumps — and structures them into a clean, human-readable folder tree you actually understand. (1 week ago)
+- [jammutkarsh/wandersort](https://github.com/jammutkarsh/wandersort) - WanderSort is a local-first media organiser that scans your chaotic pile of photos and videos — scattered across hard drives, SD cards, and phone dumps — and structures them into a clean, human-readable folder tree you actually understand. (1 day ago)
+- [jammutkarsh/locationDB](https://github.com/jammutkarsh/locationDB) - A script that downloads the public GeoNames dataset and loads it into a local database — ready to query by city name, country, state, or geographic coordinates.  Supports PostgreSQL and SQLite out of the box. (2 days ago)
 - [gamezop/github-action-workflows](https://github.com/gamezop/github-action-workflows) -  (2 weeks ago)
-- [jammutkarsh/design-system](https://github.com/jammutkarsh/design-system) - A terminal/PlanetScale/Glow inspired design system for developer portfolios and project websites. (2 weeks ago)
+- [jammutkarsh/design-system](https://github.com/jammutkarsh/design-system) - A terminal/PlanetScale/Glow inspired design system for developer portfolios and project websites. (3 weeks ago)
 - [jammutkarsh/gfstat](https://github.com/jammutkarsh/gfstat) - GitHub Follow Statistics! (3 weeks ago)
 
 ## ⭐ Recent Stars
 
-- [ngrok/webernetes](https://github.com/ngrok/webernetes) - Kubernetes in the browser. (1 day ago)
-- [kenforthewin/atomic](https://github.com/kenforthewin/atomic) - Self-hosted, semantically-connected personal knowledge base (3 days ago)
-- [jammutkarsh/wandersort](https://github.com/jammutkarsh/wandersort) - WanderSort is a local-first media organiser that scans your chaotic pile of photos and videos — scattered across hard drives, SD cards, and phone dumps — and structures them into a clean, human-readable folder tree you actually understand. (4 days ago)
-- [nilbuild/git-standup](https://github.com/nilbuild/git-standup) - Recall what you or your team did on the last working day (4 days ago)
-- [tablething/tablething](https://github.com/tablething/tablething) - Database client to query any datasource with AI built in. (4 days ago)
+- [ngrok/webernetes](https://github.com/ngrok/webernetes) - Kubernetes in the browser. (2 days ago)
+- [kenforthewin/atomic](https://github.com/kenforthewin/atomic) - Self-hosted, semantically-connected personal knowledge base (4 days ago)
+- [jammutkarsh/wandersort](https://github.com/jammutkarsh/wandersort) - WanderSort is a local-first media organiser that scans your chaotic pile of photos and videos — scattered across hard drives, SD cards, and phone dumps — and structures them into a clean, human-readable folder tree you actually understand. (5 days ago)
+- [nilbuild/git-standup](https://github.com/nilbuild/git-standup) - Recall what you or your team did on the last working day (5 days ago)
+- [tablething/tablething](https://github.com/tablething/tablething) - Database client to query any datasource with AI built in. (5 days ago)
 
 ## 🔗 Links
 
