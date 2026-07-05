@@ -14,7 +14,7 @@ If you find something cool here and want to collaborate, hit me up! Maybe **we c
 ## 🛠️ Currently working on
 
 
-- [jammutkarsh/pr-pulse](https://github.com/jammutkarsh/pr-pulse) - PR Pulse is a Pull Request dashboard for GitHub, delivered as a Chrome extension. Say No to Navigation! (2 days ago)
+- [jammutkarsh/pr-pulse](https://github.com/jammutkarsh/pr-pulse) - PR Pulse is a Pull Request dashboard for GitHub, delivered as a Chrome extension. Say No to Navigation! (3 days ago)
 - [jammutkarsh/wandersort](https://github.com/jammutkarsh/wandersort) - WanderSort is a local-first media organiser that scans your chaotic pile of photos and videos — scattered across hard drives, SD cards, and phone dumps — and structures them into a clean, human-readable folder tree you actually understand. (1 week ago)
 - [jammutkarsh/locationDB](https://github.com/jammutkarsh/locationDB) - A script that downloads the public GeoNames dataset and loads it into a local database — ready to query by city name, country, state, or geographic coordinates.  Supports PostgreSQL and SQLite out of the box. (2 weeks ago)
 - [gamezop/github-action-workflows](https://github.com/gamezop/github-action-workflows) -  (1 month ago)
@@ -22,9 +22,9 @@ If you find something cool here and want to collaborate, hit me up! Maybe **we c
 
 ## ⭐ Recent Stars
 
-- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code &#43; database schema &#43; infrastructure in one graph. (1 day ago)
-- [zalando/skipper](https://github.com/zalando/skipper) - An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress (1 day ago)
-- [exiftool/exiftool](https://github.com/exiftool/exiftool) - ExifTool meta information reader/writer (3 days ago)
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code &#43; database schema &#43; infrastructure in one graph. (2 days ago)
+- [zalando/skipper](https://github.com/zalando/skipper) - An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress (2 days ago)
+- [exiftool/exiftool](https://github.com/exiftool/exiftool) - ExifTool meta information reader/writer (4 days ago)
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement) (1 week ago)
 - [ccfos/nightingale](https://github.com/ccfos/nightingale) - Nightingale is to monitoring and alerting what Grafana is to visualization. (1 week ago)
 
