@@ -14,19 +14,19 @@ If you find something cool here and want to collaborate, hit me up! Maybe **we c
 ## 🛠️ Currently working on
 
 
-- [jammutkarsh/wandersort](https://github.com/jammutkarsh/wandersort) - WanderSort is a local-first media organiser that scans your chaotic pile of photos and videos — scattered across hard drives, SD cards, and phone dumps — and structures them into a clean, human-readable folder tree you actually understand. (3 days ago)
-- [jammutkarsh/pr-pulse](https://github.com/jammutkarsh/pr-pulse) - PR Pulse is a Pull Request dashboard for GitHub, delivered as a Chrome extension. Say No to Navigation! (3 days ago)
-- [jammutkarsh/locationDB](https://github.com/jammutkarsh/locationDB) - A script that downloads the public GeoNames dataset and loads it into a local database — ready to query by city name, country, state, or geographic coordinates.  Supports PostgreSQL and SQLite out of the box. (2 weeks ago)
+- [jammutkarsh/wandersort](https://github.com/jammutkarsh/wandersort) - WanderSort is a local-first media organiser that scans your chaotic pile of photos and videos — scattered across hard drives, SD cards, and phone dumps — and structures them into a clean, human-readable folder tree you actually understand. (4 days ago)
+- [jammutkarsh/pr-pulse](https://github.com/jammutkarsh/pr-pulse) - PR Pulse is a Pull Request dashboard for GitHub, delivered as a Chrome extension. Say No to Navigation! (4 days ago)
+- [jammutkarsh/locationDB](https://github.com/jammutkarsh/locationDB) - A script that downloads the public GeoNames dataset and loads it into a local database — ready to query by city name, country, state, or geographic coordinates.  Supports PostgreSQL and SQLite out of the box. (3 weeks ago)
 - [gamezop/github-action-workflows](https://github.com/gamezop/github-action-workflows) -  (1 month ago)
 - [jammutkarsh/design-system](https://github.com/jammutkarsh/design-system) - A terminal/PlanetScale/Glow inspired design system for developer portfolios and project websites. (1 month ago)
 
 ## ⭐ Recent Stars
 
-- [mozilla-ai/cq](https://github.com/mozilla-ai/cq) - An open standard for shared agent learning. Agents persist, share, and query collective knowledge so they stop rediscovering the same failures independently. (1 day ago)
-- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell (1 day ago)
-- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite. (1 day ago)
-- [Automedon/ultimate-leetcode-patterns](https://github.com/Automedon/ultimate-leetcode-patterns) - LeetCode patterns guide for coding interviews — 41 patterns, 820 free problems (no Premium), sorted by real interview frequency and difficulty. Two Pointers, Sliding Window, DP, Graphs, Backtracking, and more. (4 days ago)
-- [tailscale/thundersnap](https://github.com/tailscale/thundersnap) - Thundering Herd replication and Thanos Snap durability, together at last (4 days ago)
+- [mozilla-ai/cq](https://github.com/mozilla-ai/cq) - An open standard for shared agent learning. Agents persist, share, and query collective knowledge so they stop rediscovering the same failures independently. (2 days ago)
+- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell (2 days ago)
+- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite. (2 days ago)
+- [Automedon/ultimate-leetcode-patterns](https://github.com/Automedon/ultimate-leetcode-patterns) - LeetCode patterns guide for coding interviews — 41 patterns, 820 free problems (no Premium), sorted by real interview frequency and difficulty. Two Pointers, Sliding Window, DP, Graphs, Backtracking, and more. (5 days ago)
+- [tailscale/thundersnap](https://github.com/tailscale/thundersnap) - Thundering Herd replication and Thanos Snap durability, together at last (5 days ago)
 
 ## 🔗 Links
 
