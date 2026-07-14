@@ -14,7 +14,7 @@ If you find something cool here and want to collaborate, hit me up! Maybe **we c
 ## 🛠️ Currently working on
 
 
-- [jammutkarsh/wandersort](https://github.com/jammutkarsh/wandersort) - WanderSort is a local-first media organiser that scans your chaotic pile of photos and videos — scattered across hard drives, SD cards, and phone dumps — and structures them into a clean, human-readable folder tree you actually understand. (2 days ago)
+- [jammutkarsh/wandersort](https://github.com/jammutkarsh/wandersort) - WanderSort is a local-first media organiser that scans your chaotic pile of photos and videos — scattered across hard drives, SD cards, and phone dumps — and structures them into a clean, human-readable folder tree you actually understand. (3 days ago)
 - [jammutkarsh/pr-pulse](https://github.com/jammutkarsh/pr-pulse) - PR Pulse is a Pull Request dashboard for GitHub, delivered as a Chrome extension. Say No to Navigation! (1 week ago)
 - [jammutkarsh/locationDB](https://github.com/jammutkarsh/locationDB) - A script that downloads the public GeoNames dataset and loads it into a local database — ready to query by city name, country, state, or geographic coordinates.  Supports PostgreSQL and SQLite out of the box. (3 weeks ago)
 - [gamezop/github-action-workflows](https://github.com/gamezop/github-action-workflows) -  (1 month ago)
@@ -22,11 +22,11 @@ If you find something cool here and want to collaborate, hit me up! Maybe **we c
 
 ## ⭐ Recent Stars
 
-- [mr-karan/stakeout](https://github.com/mr-karan/stakeout) - A stakeout on your home internet — probes LAN/WAN/DNS/HTTPS from inside your network, classifies outages into evidence-backed incidents, and keeps the proof for your ISP ticket. (1 day ago)
-- [RibbonFilter/ribbonGo](https://github.com/RibbonFilter/ribbonGo) - ribbon filter in golang(Go), practically smaller than Bloom and Xor (1 day ago)
-- [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt (3 days ago)
-- [yetone/kill-ai-slop](https://github.com/yetone/kill-ai-slop) - A field guide to the visual &amp; copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com (3 days ago)
-- [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders (3 days ago)
+- [mr-karan/stakeout](https://github.com/mr-karan/stakeout) - A stakeout on your home internet — probes LAN/WAN/DNS/HTTPS from inside your network, classifies outages into evidence-backed incidents, and keeps the proof for your ISP ticket. (2 days ago)
+- [RibbonFilter/ribbonGo](https://github.com/RibbonFilter/ribbonGo) - ribbon filter in golang(Go), practically smaller than Bloom and Xor (2 days ago)
+- [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt (4 days ago)
+- [yetone/kill-ai-slop](https://github.com/yetone/kill-ai-slop) - A field guide to the visual &amp; copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com (4 days ago)
+- [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders (4 days ago)
 
 ## 🔗 Links
 
