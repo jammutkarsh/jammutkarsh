@@ -25,7 +25,7 @@ If you find something cool here and want to collaborate, hit me up! Maybe **we c
 ## 🔗 Links
 
   &bullet; [Resume](https://links.utkarshchourasia.in/resume)
-  &bullet; [Mail](mailto:mail@utkarshchourasia.in)
+  &bullet; [Mail](mailto:5.utkarshc@gmail.com)
   &bullet; [Website / Blog](https://utkarshchourasia.in)
   &bullet; [Blog](https://utkarshchourasia.in/blog)
   &bullet; [LinkedIn](https://www.linkedin.com/in/jammutkarsh)
