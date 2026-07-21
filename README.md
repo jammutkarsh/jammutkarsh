@@ -14,19 +14,19 @@ If you find something cool here and want to collaborate, hit me up! Maybe **we c
 ## 🛠️ Currently working on
 
 
-- [jammutkarsh/wandersort](https://github.com/jammutkarsh/wandersort) - WanderSort is a local-first media organiser that scans your chaotic pile of photos and videos — scattered across hard drives, SD cards, and phone dumps — and structures them into a clean, human-readable folder tree you actually understand. (3 days ago)
-- [jammutkarsh/gfstat](https://github.com/jammutkarsh/gfstat) - GitHub Follow Statistics! (4 days ago)
-- [jammutkarsh/pr-pulse](https://github.com/jammutkarsh/pr-pulse) - PR Pulse is a Pull Request dashboard for GitHub, delivered as a Chrome extension. Say No to Navigation! (5 days ago)
-- [jammutkarsh/resume](https://github.com/jammutkarsh/resume) -  (5 days ago)
+- [jammutkarsh/wandersort](https://github.com/jammutkarsh/wandersort) - WanderSort is a local-first media organiser that scans your chaotic pile of photos and videos — scattered across hard drives, SD cards, and phone dumps — and structures them into a clean, human-readable folder tree you actually understand. (4 days ago)
+- [jammutkarsh/gfstat](https://github.com/jammutkarsh/gfstat) - GitHub Follow Statistics! (5 days ago)
+- [jammutkarsh/pr-pulse](https://github.com/jammutkarsh/pr-pulse) - PR Pulse is a Pull Request dashboard for GitHub, delivered as a Chrome extension. Say No to Navigation! (6 days ago)
+- [jammutkarsh/resume](https://github.com/jammutkarsh/resume) -  (6 days ago)
 - [jammutkarsh/locationDB](https://github.com/jammutkarsh/locationDB) - A script that downloads the public GeoNames dataset and loads it into a local database — ready to query by city name, country, state, or geographic coordinates.  Supports PostgreSQL and SQLite out of the box. (1 month ago)
 
 ## ⭐ Recent Stars
 
-- [oil-oil/beautify-github-readme](https://github.com/oil-oil/beautify-github-readme) - Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown (2 days ago)
-- [JustinGamer191/Holo](https://github.com/JustinGamer191/Holo) -  (2 days ago)
-- [tickernelz/opencode-mem](https://github.com/tickernelz/opencode-mem) - OpenCode plugin that gives coding agents persistent memory using local vector database (5 days ago)
-- [cultron/becoming-martin-fowler](https://github.com/cultron/becoming-martin-fowler) - A curated collection of Martin Fowler&#39;s software engineering and architecture wisdom, organized by topic. (6 days ago)
-- [mr-karan/stakeout](https://github.com/mr-karan/stakeout) - A stakeout on your home internet — probes LAN/WAN/DNS/HTTPS from inside your network, classifies outages into evidence-backed incidents, and keeps the proof for your ISP ticket. (1 week ago)
+- [rclone/rclone](https://github.com/rclone/rclone) - &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files (1 day ago)
+- [openwallet-foundation/architecture-sig](https://github.com/openwallet-foundation/architecture-sig) - This special interest group (SIG) is focused on conversations related to the architecture of digital wallet engines and is a sub-group reporting to the OpenWallet Foundation&#39;s Technical Advisory Committee. (1 day ago)
+- [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. (1 day ago)
+- [oil-oil/beautify-github-readme](https://github.com/oil-oil/beautify-github-readme) - Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown (3 days ago)
+- [JustinGamer191/Holo](https://github.com/JustinGamer191/Holo) -  (3 days ago)
 
 ## 🔗 Links
 
