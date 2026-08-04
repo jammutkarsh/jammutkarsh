@@ -22,11 +22,11 @@ If you find something cool here and want to collaborate, hit me up! Maybe **we c
 
 ## ⭐ Recent Stars
 
-- [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 (3 days ago)
-- [momenbasel/Phosphor](https://github.com/momenbasel/Phosphor) - Free and open-source iOS device manager for macOS. Browse backups, export messages, extract photos, manage apps - no subscriptions, no iCloud lock-in. (6 days ago)
+- [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) - Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook (1 day ago)
+- [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 (4 days ago)
+- [momenbasel/Phosphor](https://github.com/momenbasel/Phosphor) - Free and open-source iOS device manager for macOS. Browse backups, export messages, extract photos, manage apps - no subscriptions, no iCloud lock-in. (1 week ago)
 - [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple&#39;s macOS. (1 week ago)
 - [cloudflare/nimbus](https://github.com/cloudflare/nimbus) - Docs for humans and agents, built on Astro (1 week ago)
-- [mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty) - A Call of Duty-quality FPS in Three.js, built from a single prompt. (1 week ago)
 
 ## 🔗 Links
 
