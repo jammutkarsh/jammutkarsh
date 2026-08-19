@@ -22,9 +22,9 @@ If you find something cool here and want to collaborate, hit me up! Maybe **we c
 
 ## ⭐ Recent Stars
 
-- [validatedev/BrewServicesManager](https://github.com/validatedev/BrewServicesManager) - A macOS menu bar app for managing Homebrew services (2 days ago)
-- [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader (4 days ago)
-- [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 80&#43; databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 80&#43; 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。 (6 days ago)
+- [validatedev/BrewServicesManager](https://github.com/validatedev/BrewServicesManager) - A macOS menu bar app for managing Homebrew services (3 days ago)
+- [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader (5 days ago)
+- [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 80&#43; databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 80&#43; 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。 (1 week ago)
 - [klauspost/compress](https://github.com/klauspost/compress) - Optimized Go Compression Packages (1 week ago)
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (1 week ago)
 
