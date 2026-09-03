@@ -25,8 +25,8 @@ If you find something cool here and want to collaborate, hit me up! Maybe **we c
 - [validatedev/BrewServicesManager](https://github.com/validatedev/BrewServicesManager) - A macOS menu bar app for managing Homebrew services (2 weeks ago)
 - [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 90&#43; databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90&#43; 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。 (3 weeks ago)
 - [klauspost/compress](https://github.com/klauspost/compress) - Optimized Go Compression Packages (3 weeks ago)
-- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (3 weeks ago)
-- [boldsoftware/meat](https://github.com/boldsoftware/meat) - meat.dev (4 weeks ago)
+- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (4 weeks ago)
+- [boldsoftware/meat](https://github.com/boldsoftware/meat) - meat.dev (1 month ago)
 
 ## 🔗 Links
 
