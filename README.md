@@ -15,7 +15,7 @@ If you find something cool here and want to collaborate, hit me up! Maybe **we c
 
 
 - [jammutkarsh/wandersort](https://github.com/jammutkarsh/wandersort) - WanderSort is a local-first media organiser that scans your chaotic pile of photos and videos — scattered across hard drives, SD cards, and phone dumps — and structures them into a clean, human-readable folder tree you actually understand. (1 week ago)
-- [jammutkarsh/pr-pulse](https://github.com/jammutkarsh/pr-pulse) - PR Pulse is a Pull Request dashboard for GitHub, delivered as a Chrome extension. Say No to Navigation! (1 week ago)
+- [jammutkarsh/pr-pulse](https://github.com/jammutkarsh/pr-pulse) - PR Pulse is a Pull Request dashboard for GitHub, delivered as a Chrome extension. Say No to Navigation! (2 weeks ago)
 - [jammutkarsh/locationDB](https://github.com/jammutkarsh/locationDB) - A script that downloads the public GeoNames dataset and loads it into a local database — ready to query by city name, country, state, or geographic coordinates.  Supports PostgreSQL and SQLite out of the box. (4 weeks ago)
 - [jammutkarsh/gfstat](https://github.com/jammutkarsh/gfstat) - GitHub Follow Statistics! (1 month ago)
 - [gamezop/github-action-workflows](https://github.com/gamezop/github-action-workflows) -  (3 months ago)
@@ -25,7 +25,7 @@ If you find something cool here and want to collaborate, hit me up! Maybe **we c
 - [validatedev/BrewServicesManager](https://github.com/validatedev/BrewServicesManager) - A macOS menu bar app for managing Homebrew services (2 weeks ago)
 - [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 90&#43; databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90&#43; 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。 (3 weeks ago)
 - [klauspost/compress](https://github.com/klauspost/compress) - Optimized Go Compression Packages (4 weeks ago)
-- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (4 weeks ago)
+- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (1 month ago)
 - [boldsoftware/meat](https://github.com/boldsoftware/meat) - meat.dev (1 month ago)
 
 ## 🔗 Links
