@@ -22,11 +22,11 @@ If you find something cool here and want to collaborate, hit me up! Maybe **we c
 
 ## ⭐ Recent Stars
 
-- [johnousterhout/aposd-vs-clean-code](https://github.com/johnousterhout/aposd-vs-clean-code) - A discussion between John Ousterhout and Robert Martin about differences between John&#39;s book &#34;A Philosophy of Software Design&#34; and Bob&#39;s book &#34;Clean Code&#34;. (5 days ago)
-- [farzaa/clicky](https://github.com/farzaa/clicky) -  (3 weeks ago)
+- [greensock/GSAP](https://github.com/greensock/GSAP) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web (1 day ago)
+- [johnousterhout/aposd-vs-clean-code](https://github.com/johnousterhout/aposd-vs-clean-code) - A discussion between John Ousterhout and Robert Martin about differences between John&#39;s book &#34;A Philosophy of Software Design&#34; and Bob&#39;s book &#34;Clean Code&#34;. (6 days ago)
+- [farzaa/clicky](https://github.com/farzaa/clicky) -  (4 weeks ago)
 - [validatedev/BrewServicesManager](https://github.com/validatedev/BrewServicesManager) - A macOS menu bar app for managing Homebrew services (1 month ago)
 - [t8y2/dbx](https://github.com/t8y2/dbx) - 25 MB lightweight cross-platform database client for 100&#43; databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100&#43; 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。 (1 month ago)
-- [klauspost/compress](https://github.com/klauspost/compress) - Optimized Go Compression Packages (1 month ago)
 
 ## 🔗 Links
 
