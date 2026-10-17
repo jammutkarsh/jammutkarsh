@@ -59,6 +59,8 @@ export EDITOR=vim
 
 #CMD: atuin or ctrl + r
 # replacement for custom hst commanbd; https://github.com/atuinsh/atuin
-source <(atuin gen-completions --shell zsh)
-eval "$(atuin init zsh --disable-up-arrow)"
+if command -v atuin >/dev/null; then
+  source <(atuin gen-completions --shell zsh)
+  eval "$(atuin init zsh --disable-up-arrow)"
+fi
 test -e $HOME/.iterm2_shell_integration.zsh && source $HOME/.iterm2_shell_integration.zsh || true

@@ -9,29 +9,26 @@ fi
 TARGET="$1"
 CURRENT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
 
-# Find the workflow file: dev*.yml or dev*.yaml
-WORKFLOW_FILE=$(ls .github/workflows/${TARGET}-*.yml 2>/dev/null || true)
-if [[ -z "$WORKFLOW_FILE" ]]; then
-	WORKFLOW_FILE=$(ls .github/workflows/${TARGET}-*.yaml 2>/dev/null || true)
-fi
+# Find the workflow files: <target>-*.yml and <target>-*.yaml
+shopt -s nullglob
+FILES=(.github/workflows/"${TARGET}"-*.yml .github/workflows/"${TARGET}"-*.yaml)
 
-if [[ -z "$WORKFLOW_FILE" ]]; then
+if [[ ${#FILES[@]} -eq 0 ]]; then
 	echo "❌ No workflow file found for: $TARGET"
 	exit 1
 fi
 
-echo "Found workflow: $WORKFLOW_FILE"
+echo "Found workflow: ${FILES[*]}"
 echo "Updating branch → $CURRENT_BRANCH"
 
-# Replace with yq
-yq -i "
-  .on.push.branches = [\"$CURRENT_BRANCH\"]
-" "$WORKFLOW_FILE"
+for f in "${FILES[@]}"; do
+	yq -i ".on.push.branches = [\"$CURRENT_BRANCH\"]" "$f"
+done
 
 echo "✅ Workflow updated"
 
 # git add + commit + push
-git add "$WORKFLOW_FILE"
+git add "${FILES[@]}"
 
 COMMIT_MSG="ci: trigger ${TARGET}"
 echo "Committing: $COMMIT_MSG"

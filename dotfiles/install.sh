@@ -6,6 +6,8 @@ set -euo pipefail
 DOTFILES="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 OS="$(uname -s)"
 LINKS_ONLY=0
+SUDO=sudo
+[[ $EUID -eq 0 ]] && SUDO=
 [[ "${1:-}" == "--links-only" ]] && LINKS_ONLY=1
 
 log() { printf '\033[1;34m==>\033[0m %s\n' "$*"; }
@@ -31,16 +33,16 @@ install_packages() {
 			eval "$(/opt/homebrew/bin/brew shellenv 2>/dev/null || /usr/local/bin/brew shellenv)"
 		fi
 		log "Installing packages (brew)"
-		brew install git gh git-lfs fzf "${extras[@]}" blueutil wireguard-tools
+		brew install git gh git-lfs fzf "${extras[@]}"
 		;;
 	Linux)
 		log "Installing packages"
 		if command -v apt-get >/dev/null; then
-			sudo apt-get update && sudo apt-get install -y zsh git curl fzf gh git-lfs
+			$SUDO apt-get update && $SUDO apt-get install -y zsh git curl fzf gh git-lfs
 		elif command -v dnf >/dev/null; then
-			sudo dnf install -y zsh git curl fzf gh git-lfs
+			$SUDO dnf install -y zsh git curl fzf gh git-lfs
 		elif command -v pacman >/dev/null; then
-			sudo pacman -S --needed --noconfirm zsh git curl fzf github-cli git-lfs
+			$SUDO pacman -S --needed --noconfirm zsh git curl fzf github-cli git-lfs
 		else
 			warn "no supported package manager (apt/dnf/pacman); install zsh git curl fzf gh git-lfs yourself"
 		fi
@@ -88,5 +90,4 @@ if ((!LINKS_ONLY)); then
 	fi
 fi
 
-[[ $OS == Darwin ]] && log "Raycast: add $DOTFILES/raycast as a script directory"
 log "Done. Open a new terminal."

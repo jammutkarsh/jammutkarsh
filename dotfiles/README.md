@@ -1,12 +1,11 @@
 # dotfiles
 
-Bash | ZSH | Raycast | macOS
+Bash | ZSH | macOS | Linux
 
 ```
 zsh/      zshrc, aliases.zsh, uc_custom.zsh-theme
 git/      gitconfig
 bin/      small CLI scripts (added to PATH by zshrc)
-raycast/  Raycast script commands
 ```
 
 ```sh
@@ -15,4 +14,3 @@ raycast/  Raycast script commands
 ```
 
 Existing `~/.zshrc` / `~/.gitconfig` are moved to `*.bak.<timestamp>`.
-Raycast: add `raycast/` as a script directory.
