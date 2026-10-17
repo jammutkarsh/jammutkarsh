@@ -5,8 +5,7 @@ done
 
 # PATH additions, only where the directory exists
 [[ -d ${HOMEBREW_PREFIX:-/nonexistent}/opt/curl/bin ]] && path=($HOMEBREW_PREFIX/opt/curl/bin $path)
-[[ -d /nix/var/nix/profiles/default/bin ]] && path+=(/nix/var/nix/profiles/default/bin)
-path=($HOME/.local/bin $HOME/.elixir-install/installs/*/*/bin(N) $HOME/.antigravity/antigravity/bin(N) $path)
+path=($HOME/.local/bin $path)
 
 export LANG=en_US.UTF-8
 export LC_ALL=en_US.UTF-8
