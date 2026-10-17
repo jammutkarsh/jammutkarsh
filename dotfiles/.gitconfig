@@ -1,0 +1,36 @@
+[credential "https://github.com"]
+	helper = 
+	helper = !/opt/homebrew/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/opt/homebrew/bin/gh auth git-credential
+[user]
+	name = Utkarsh Chourasia
+	email = mail@utkarshchourasia.in
+[core]
+	symlinks = true
+[init]
+	defaultBranch = main
+
+# Difftastic (https://difftastic.wilfred.me.uk/git.html)
+# git ds / git dl / git ddiff / git dshow / git dlog
+# Want it for every diff instead? git config --global diff.external difft
+[alias]
+	dl = -c diff.external=difft log -p --ext-diff
+	ds = -c diff.external=difft show --ext-diff
+	ddiff = -c diff.external=difft diff
+	dshow = -c diff.external=difft show --ext-diff
+	dlog = -c diff.external=difft log --ext-diff
+
+[difftool "difftastic"]
+	cmd = difft "$MERGED" "$LOCAL" "abcdef1" "100644" "$REMOTE" "abcdef2" "100644"
+[difftool]
+	prompt = false
+[pager]
+	difftool = true
+
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
