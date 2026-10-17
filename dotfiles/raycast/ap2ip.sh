@@ -20,8 +20,13 @@ set -euo pipefail
 # Get MAC address from the first argument
 MAC="14-28-76-b9-51-31" # iPhone AirPods
 
-# Path to blueutil (for Intel Mac)
-BLUEUTIL="/usr/local/bin/blueutil"
+# Raycast runs with a minimal PATH; cover Apple silicon and Intel Homebrew
+export PATH="/opt/homebrew/bin:/usr/local/bin:$PATH"
+BLUEUTIL="$(command -v blueutil || true)"
+if [ -z "$BLUEUTIL" ]; then
+	echo "blueutil not found (brew install blueutil)"
+	exit 1
+fi
 
 echo "$(date): Attempting to disconnect $MAC"
 

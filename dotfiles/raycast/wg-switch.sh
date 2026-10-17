@@ -18,6 +18,7 @@ set -euo pipefail
 # @raycast.author jammutkarsh
 # @raycast.authorURL https://raycast.com/jammutkarsh
 
+export PATH="/opt/homebrew/bin:/usr/local/bin:$PATH"
 WG_BIN="wg-quick"
 
 DEV_IF="dev"

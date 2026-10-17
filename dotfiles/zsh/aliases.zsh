@@ -24,9 +24,9 @@ alias goupdate='brew install go'
 
 # Misc
 alias b="ssh gz-bastion"
-alias nixd="/nix/var/nix/profiles/default/bin/nix develop"
-alias nixprune="/nix/var/nix/profiles/default/bin/nix-collect-garbage --delete-older-than 7d"
-alias iphonesync="rsync -av --ignore-existing /Volumes/Backups/Pictures/iPhone/ /Users/utc/Downloads/Backup/"
+alias nixd="nix develop"
+alias nixprune="nix-collect-garbage --delete-older-than 7d"
+alias iphonesync="rsync -av --ignore-existing /Volumes/Backups/Pictures/iPhone/ $HOME/Downloads/Backup/"
 alias macsync='rsync -avc --ignore-existing --progress Incoming/ Backup/'
 
 # Docker Shortcut Commands

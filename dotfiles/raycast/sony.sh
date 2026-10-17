@@ -20,8 +20,13 @@ set -euo pipefail
 # Get MAC address from the first argument
 MAC="40:72:18:34:C5:45" # Sony Headphones
 
-# Path to blueutil (for Intel Mac)
-BLUEUTIL="/usr/local/bin/blueutil"
+# Raycast runs with a minimal PATH; cover Apple silicon and Intel Homebrew
+export PATH="/opt/homebrew/bin:/usr/local/bin:$PATH"
+BLUEUTIL="$(command -v blueutil || true)"
+if [ -z "$BLUEUTIL" ]; then
+	echo "blueutil not found (brew install blueutil)"
+	exit 1
+fi
 
 echo "$(date): Attempting to connect $MAC"
 
