@@ -1,6 +1,6 @@
 # Why do I have a GitHub Profile
 
-![This only attracts attention, doesn't add any real value.](https://github.com/JammUtkarsh/jammutkarsh/blob/main/github-banner.png?raw=true)
+![This only attracts attention, doesn't add any real value.](https://github.com/JammUtkarsh/jammutkarsh/blob/main/assets/github-banner.png?raw=true)
 
 I mostly build stuff to solve **my own problems**. Sorry world, you're on your own (unless you're planning to *hire me*, then *I'm suddenly a global visionary*).
 
