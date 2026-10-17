@@ -14,16 +14,16 @@ If you find something cool here and want to collaborate, hit me up! Maybe **we c
 ## 🛠️ Currently working on
 
 
-- [jammutkarsh/dotfiles](https://github.com/jammutkarsh/dotfiles) - Bash | ZSH | Raycast | MacOS (2 days ago)
+- [jammutkarsh/dotfiles](https://github.com/jammutkarsh/dotfiles) - Bash | ZSH | Raycast | MacOS (3 days ago)
 - [jammutkarsh/docs](https://github.com/jammutkarsh/docs) -  (1 week ago)
 - [jammutkarsh/wandersort](https://github.com/jammutkarsh/wandersort) - WanderSort is a local-first media sorting engine that scans your chaotic pile of photos and videos — scattered across hard drives, SD cards, and phone dumps — and structures them into a clean folder tree you actually understand. (1 week ago)
 - [jammutkarsh/locationDB](https://github.com/jammutkarsh/locationDB) - A script that downloads the public GeoNames dataset and loads it into a local database — ready to query by city name, country, state, or geographic coordinates.  Supports PostgreSQL and SQLite out of the box. (4 weeks ago)
-- [jammutkarsh/pr-pulse](https://github.com/jammutkarsh/pr-pulse) - PR Pulse is a Pull Request dashboard for GitHub, delivered as a Chrome extension. Say No to Navigation! (4 weeks ago)
+- [jammutkarsh/pr-pulse](https://github.com/jammutkarsh/pr-pulse) - PR Pulse is a Pull Request dashboard for GitHub, delivered as a Chrome extension. Say No to Navigation! (1 month ago)
 
 ## ⭐ Recent Stars
 
-- [microsoft/tui-test](https://github.com/microsoft/tui-test) - 💻 control, record, &amp; test any tui app / cli with popular terminals - makes the terminal fully accessible to AI (4 days ago)
-- [nykooi1/vibe-wise](https://github.com/nykooi1/vibe-wise) - A Claude Code / Codex plugin that helps you learn how to build while AI writes the code. (1 week ago)
+- [microsoft/tui-test](https://github.com/microsoft/tui-test) - 💻 control, record, &amp; test any tui app / cli with popular terminals - makes the terminal fully accessible to AI (5 days ago)
+- [nykooi1/vibe-wise](https://github.com/nykooi1/vibe-wise) - A Claude Code / Codex plugin that helps you learn how to build while AI writes the code. (2 weeks ago)
 - [greensock/GSAP](https://github.com/greensock/GSAP) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web (2 weeks ago)
 - [johnousterhout/aposd-vs-clean-code](https://github.com/johnousterhout/aposd-vs-clean-code) - A discussion between John Ousterhout and Robert Martin about differences between John&#39;s book &#34;A Philosophy of Software Design&#34; and Bob&#39;s book &#34;Clean Code&#34;. (2 weeks ago)
 - [farzaa/clicky](https://github.com/farzaa/clicky) -  (1 month ago)
