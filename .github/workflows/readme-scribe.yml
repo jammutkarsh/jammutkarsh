@@ -12,12 +12,12 @@ jobs:
     steps:
       - uses: actions/checkout@master
 
-      - uses: muesli/readme-scribe@master
+      # fork of muesli/markscribe: rss exposes .Description, tolerates missing pubDate
+      - run: >
+          docker run --rm -e GITHUB_TOKEN -v "$PWD:/w" -w /w
+          ghcr.io/jammutkarsh/markscribe:latest -write README.md assets/uc.tpl
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
-        with:
-          template: "templates/uc.tpl"
-          writeTo: "README.md"
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         env:

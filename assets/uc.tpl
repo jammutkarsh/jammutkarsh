@@ -1,6 +1,6 @@
 # Why do I have a GitHub Profile
 
-![This only attracts attention, doesn't add any real value.](https://github.com/JammUtkarsh/jammutkarsh/blob/main/github-banner.png?raw=true)
+![This only attracts attention, doesn't add any real value.](https://github.com/JammUtkarsh/jammutkarsh/blob/main/assets/github-banner.png?raw=true)
 
 I mostly build stuff to solve **my own problems**. Sorry world, you're on your own (unless you're planning to *hire me*, then *I'm suddenly a global visionary*).
 
@@ -11,6 +11,16 @@ Host it, Break it, Raise an issue, I'll fix it for you! Just don’t send me you
 
 If you find something cool here and want to collaborate, hit me up! Maybe **we can build something together** that helps more than just... *me*.
 
+## ✍️ Latest Posts
+{{range rss "https://utkarshchourasia.in/blogs/rss.xml" 5}}
+- [{{.Title}}]({{.URL}}){{if not .PublishedAt.IsZero}} · {{.PublishedAt.Format "Jan 2, 2006"}}{{end}}
+  {{.Description}}
+{{end}}
+## 🚀 Highlighted Projects
+{{range rss "https://utkarshchourasia.in/projects/rss.xml" 5}}
+- [{{.Title}}]({{.URL}}){{if not .PublishedAt.IsZero}} · {{.PublishedAt.Format "Jan 2, 2006"}}{{end}}
+  {{.Description}}
+{{end}}
 ## 🛠️ Currently working on
 
 {{range recentContributions 5}}
