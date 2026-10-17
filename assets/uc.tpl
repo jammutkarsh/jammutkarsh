@@ -21,12 +21,6 @@ If you find something cool here and want to collaborate, hit me up! Maybe **we c
 - [{{.Title}}]({{.URL}}){{if not .PublishedAt.IsZero}} · {{.PublishedAt.Format "Jan 2, 2006"}}{{end}}
   {{.Description}}
 {{end}}
-## 🛠️ Currently working on
-
-{{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
-
 ## ⭐ Recent Stars
 {{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})

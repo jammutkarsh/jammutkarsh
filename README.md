@@ -11,15 +11,6 @@ Host it, Break it, Raise an issue, I'll fix it for you! Just don’t send me you
 
 If you find something cool here and want to collaborate, hit me up! Maybe **we can build something together** that helps more than just... *me*.
 
-## 🛠️ Currently working on
-
-
-- [jammutkarsh/dotfiles](https://github.com/jammutkarsh/dotfiles) - Bash | ZSH | Raycast | MacOS (3 days ago)
-- [jammutkarsh/docs](https://github.com/jammutkarsh/docs) -  (1 week ago)
-- [jammutkarsh/wandersort](https://github.com/jammutkarsh/wandersort) - WanderSort is a local-first media sorting engine that scans your chaotic pile of photos and videos — scattered across hard drives, SD cards, and phone dumps — and structures them into a clean folder tree you actually understand. (1 week ago)
-- [jammutkarsh/locationDB](https://github.com/jammutkarsh/locationDB) - A script that downloads the public GeoNames dataset and loads it into a local database — ready to query by city name, country, state, or geographic coordinates.  Supports PostgreSQL and SQLite out of the box. (4 weeks ago)
-- [jammutkarsh/pr-pulse](https://github.com/jammutkarsh/pr-pulse) - PR Pulse is a Pull Request dashboard for GitHub, delivered as a Chrome extension. Say No to Navigation! (1 month ago)
-
 ## ⭐ Recent Stars
 
 - [microsoft/tui-test](https://github.com/microsoft/tui-test) - 💻 control, record, &amp; test any tui app / cli with popular terminals - makes the terminal fully accessible to AI (5 days ago)
