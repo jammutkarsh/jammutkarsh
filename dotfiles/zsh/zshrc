@@ -35,9 +35,10 @@ autoload -U compinit && compinit
 export GOPATH="$HOME/go"
 export PATH=$PATH:$HOME/go/bin
 
-# Personal Configs TODO: Merge into one file
-source $HOME/dotfiles/alias
-export PATH=$PATH:$HOME/Dotfiles/scripts
+# Personal Configs (DOTFILES = repo root, resolved through the ~/.zshrc symlink)
+export DOTFILES=${${(%):-%x}:A:h:h}
+source $DOTFILES/zsh/aliases.zsh
+export PATH=$PATH:$DOTFILES/bin
 
 # History Configs
 HISTSIZE=50000
