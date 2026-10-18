@@ -16,11 +16,13 @@ alias gsta='git stash apply'
 alias gd='git diff'
 alias gpl='git pull'
 alias gc='git commit'
+alias gbr='git rev-parse --abbrev-ref HEAD'
 alias gcap='git commit --amend --no-edit && git push -f'
 alias gco="git branch --sort=-committerdate | fzf --header Checkout | tr '*' ' ' | xargs git checkout"
 alias psql='psql-18'
-alias gf='gofmt -s -d -e -w .'
+alias gf='gofumpt -l -w .'
 alias goupdate='brew install go'
+alias ocd='opencode'
 
 # Misc
 alias b="ssh gz-bastion"

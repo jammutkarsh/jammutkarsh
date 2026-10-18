@@ -24,7 +24,7 @@ link() {
 }
 
 install_packages() {
-	local extras=(atuin difftastic yq)
+	local extras=(atuin difftastic yq gofumpt)
 	case "$OS" in
 	Darwin)
 		if ! command -v brew >/dev/null; then
