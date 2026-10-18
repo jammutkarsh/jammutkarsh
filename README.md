@@ -33,19 +33,11 @@ If you find something cool here and want to collaborate, hit me up! Maybe **we c
 - [GFStat](https://utkarshchourasia.in/projects/gfstat)
   See who follows you back on GitHub, who doesn't, and follow or unfollow from the same page.
 
-- [2FA](https://utkarshchourasia.in/projects/2fa)
-  A fork of Russ Cox's command-line 2FA tool, extended with fuzzy name matching, automatic clipboard copy and import from 2FAS.
-
-- [PMS](https://utkarshchourasia.in/projects/pms)
-  An archived terminal UI for jumping into your projects and opening them in your editor.
-
 ## ⭐ Recent Stars
 
-- [microsoft/tui-test](https://github.com/microsoft/tui-test) - 💻 control, record, & test any tui app / cli with popular terminals - makes the terminal fully accessible to AI (5 days ago)
+- [microsoft/tui-test](https://github.com/microsoft/tui-test) - 💻 control, record, & test any tui app / cli with popular terminals - makes the terminal fully accessible to AI (6 days ago)
 - [nykooi1/vibe-wise](https://github.com/nykooi1/vibe-wise) - A Claude Code / Codex plugin that helps you learn how to build while AI writes the code. (2 weeks ago)
 - [greensock/GSAP](https://github.com/greensock/GSAP) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web (2 weeks ago)
-- [johnousterhout/aposd-vs-clean-code](https://github.com/johnousterhout/aposd-vs-clean-code) - A discussion between John Ousterhout and Robert Martin about differences between John's book "A Philosophy of Software Design" and Bob's book "Clean Code". (2 weeks ago)
-- [farzaa/clicky](https://github.com/farzaa/clicky) -  (1 month ago)
 
 ## 🔗 Links
 
