@@ -20,7 +20,7 @@ alias gbr='git rev-parse --abbrev-ref HEAD'
 alias gcap='git commit --amend --no-edit && git push -f'
 alias gco="git branch --sort=-committerdate | fzf --header Checkout | tr '*' ' ' | xargs git checkout"
 alias psql='psql-18'
-alias gf='gofumpt -l -w .'
+alias gf='gofmt -s -l -w .'
 alias goupdate='brew install go'
 alias ocd='opencode'
 
