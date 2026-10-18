@@ -5,14 +5,14 @@ url="$1"
 # Remove protocol (https:// or http://)
 name=$(echo "$url" | sed -E 's|^https?://||')
 
+# Remove query strings and fragments
+name=$(echo "$name" | sed -E 's/[?#].*$//')
+
 # Remove trailing slash
 name="${name%/}"
 
 # Replace all remaining slashes with hyphens
 name="${name//\//-}"
-
-# Remove query strings and fragments
-name=$(echo "$name" | sed -E 's/[?#].*$//')
 
 # Create the file
 touch "${name}.md"
