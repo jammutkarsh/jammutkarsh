@@ -12,12 +12,12 @@ Host it, Break it, Raise an issue, I'll fix it for you! Just don’t send me you
 If you find something cool here and want to collaborate, hit me up! Maybe **we can build something together** that helps more than just... *me*.
 
 ## ✍️ Latest Posts
-{{range rss "https://utkarshchourasia.in/blogs/rss.xml" 5}}
+{{range rss "https://utkarshchourasia.in/blogs/rss.xml" 3}}
 - [{{.Title}}]({{.URL}}){{if not .PublishedAt.IsZero}} · {{.PublishedAt.Format "Jan 2, 2006"}}{{end}}
   {{.Description}}
 {{end}}
 ## 🚀 Highlighted Projects
-{{range rss "https://utkarshchourasia.in/projects/rss.xml" 5}}
+{{range rss "https://utkarshchourasia.in/projects/rss.xml" 3}}
 - [{{.Title}}]({{.URL}}){{if not .PublishedAt.IsZero}} · {{.PublishedAt.Format "Jan 2, 2006"}}{{end}}
   {{.Description}}
 {{end}}
