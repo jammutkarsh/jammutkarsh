@@ -22,7 +22,7 @@ If you find something cool here and want to collaborate, hit me up! Maybe **we c
   {{.Description}}
 {{end}}
 ## ⭐ Recent Stars
-{{range recentStars 5}}
+{{range recentStars 3}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
