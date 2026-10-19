@@ -35,9 +35,9 @@ If you find something cool here and want to collaborate, hit me up! Maybe **we c
 
 ## ⭐ Recent Stars
 
-- [microsoft/tui-test](https://github.com/microsoft/tui-test) - 💻 control, record, & test any tui app / cli with popular terminals - makes the terminal fully accessible to AI (6 days ago)
-- [nykooi1/vibe-wise](https://github.com/nykooi1/vibe-wise) - A Claude Code / Codex plugin that helps you learn how to build while AI writes the code. (2 weeks ago)
-- [greensock/GSAP](https://github.com/greensock/GSAP) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web (2 weeks ago)
+- [jammutkarsh/prpulse.utkarshchourasia.in](https://github.com/jammutkarsh/prpulse.utkarshchourasia.in) - PR Pulse is a Pull Request dashboard for GitHub, delivered as a Chrome extension. Say No to Navigation! (1 day ago)
+- [iamarunbrahma/pdf-to-markdown](https://github.com/iamarunbrahma/pdf-to-markdown) - Turn PDFs into clean, structured Markdown (1 day ago)
+- [microsoft/tui-test](https://github.com/microsoft/tui-test) - 💻 control, record, & test any tui app / cli with popular terminals - makes the terminal fully accessible to AI (1 week ago)
 
 ## 🔗 Links
 
