@@ -35,8 +35,8 @@ If you find something cool here and want to collaborate, hit me up! Maybe **we c
 
 ## ⭐ Recent Stars
 
-- [jammutkarsh/prpulse.utkarshchourasia.in](https://github.com/jammutkarsh/prpulse.utkarshchourasia.in) - PR Pulse is a Pull Request dashboard for GitHub, delivered as a Chrome extension. Say No to Navigation! (1 day ago)
-- [iamarunbrahma/pdf-to-markdown](https://github.com/iamarunbrahma/pdf-to-markdown) - Turn PDFs into clean, structured Markdown (1 day ago)
+- [jammutkarsh/prpulse.utkarshchourasia.in](https://github.com/jammutkarsh/prpulse.utkarshchourasia.in) - PR Pulse is a Pull Request dashboard for GitHub, delivered as a Chrome extension. Say No to Navigation! (2 days ago)
+- [iamarunbrahma/pdf-to-markdown](https://github.com/iamarunbrahma/pdf-to-markdown) - Turn PDFs into clean, structured Markdown (2 days ago)
 - [microsoft/tui-test](https://github.com/microsoft/tui-test) - 💻 control, record, & test any tui app / cli with popular terminals - makes the terminal fully accessible to AI (1 week ago)
 
 ## 🔗 Links
