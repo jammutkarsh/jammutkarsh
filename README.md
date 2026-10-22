@@ -35,9 +35,9 @@ If you find something cool here and want to collaborate, hit me up! Maybe **we c
 
 ## ⭐ Recent Stars
 
-- [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Protect your SSH keys with your Mac's Secure Enclave (1 day ago)
-- [oneo-me/onevra](https://github.com/oneo-me/onevra) -  Native desktop UI components for Go, built on MyGo. Themed controls, window shells, Lucide icons, plus chat, Markdown, code highlighting, charts and a command palette. Also includes a standalone packager for macOS, Windows and Linux. (1 day ago)
-- [jammutkarsh/prpulse.utkarshchourasia.in](https://github.com/jammutkarsh/prpulse.utkarshchourasia.in) - PR Pulse is a Pull Request dashboard for GitHub, delivered as a Chrome extension. Say No to Navigation! (3 days ago)
+- [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Protect your SSH keys with your Mac's Secure Enclave (2 days ago)
+- [oneo-me/onevra](https://github.com/oneo-me/onevra) -  Native desktop UI components for Go, built on MyGo. Themed controls, window shells, Lucide icons, plus chat, Markdown, code highlighting, charts and a command palette. Also includes a standalone packager for macOS, Windows and Linux. (2 days ago)
+- [jammutkarsh/prpulse.utkarshchourasia.in](https://github.com/jammutkarsh/prpulse.utkarshchourasia.in) - PR Pulse is a Pull Request dashboard for GitHub, delivered as a Chrome extension. Say No to Navigation! (4 days ago)
 
 ## 🔗 Links
 
