@@ -35,9 +35,9 @@ If you find something cool here and want to collaborate, hit me up! Maybe **we c
 
 ## ⭐ Recent Stars
 
-- [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Protect your SSH keys with your Mac's Secure Enclave (2 days ago)
-- [oneo-me/onevra](https://github.com/oneo-me/onevra) -  Native desktop UI components for Go, built on MyGo. Themed controls, window shells, Lucide icons, plus chat, Markdown, code highlighting, charts and a command palette. Also includes a standalone packager for macOS, Windows and Linux. (2 days ago)
-- [jammutkarsh/prpulse.utkarshchourasia.in](https://github.com/jammutkarsh/prpulse.utkarshchourasia.in) - PR Pulse is a Pull Request dashboard for GitHub, delivered as a Chrome extension. Say No to Navigation! (4 days ago)
+- [egoist/kero](https://github.com/egoist/kero) - A cross-platform native terminal app optimized for agents (1 day ago)
+- [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad! (1 day ago)
+- [AdityaJain2162/cleanyourtv](https://github.com/AdityaJain2162/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. (1 day ago)
 
 ## 🔗 Links
 
