@@ -35,9 +35,9 @@ If you find something cool here and want to collaborate, hit me up! Maybe **we c
 
 ## ⭐ Recent Stars
 
-- [egoist/kero](https://github.com/egoist/kero) - A cross-platform native terminal app optimized for agents (6 days ago)
-- [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad! (6 days ago)
-- [AdityaJain2162/cleanyourtv](https://github.com/AdityaJain2162/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. (6 days ago)
+- [egoist/kero](https://github.com/egoist/kero) - A cross-platform native terminal app optimized for agents (1 week ago)
+- [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad! (1 week ago)
+- [AdityaJain2162/cleanyourtv](https://github.com/AdityaJain2162/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. (1 week ago)
 
 ## 🔗 Links
 
