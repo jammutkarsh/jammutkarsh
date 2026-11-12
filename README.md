@@ -35,9 +35,9 @@ If you find something cool here and want to collaborate, hit me up! Maybe **we c
 
 ## ⭐ Recent Stars
 
+- [symmetree-labs/zerostash](https://github.com/symmetree-labs/zerostash) - Zero-metadata file storage (1 day ago)
+- [JacobLinCool/d1-manager](https://github.com/JacobLinCool/d1-manager) - D1 Manager is a web UI and API for Cloudflare D1, a serverless SQL database. It provides a web interface for managing databases, tables, and records, as well as an AI assistant to help you write query in natural language. (1 day ago)
 - [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) - Building the self-learning layer next-gen agents will ship with, learning skills from real work. (1 week ago)
-- [egoist/kero](https://github.com/egoist/kero) - A cross-platform native terminal app optimized for agents (2 weeks ago)
-- [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad! (2 weeks ago)
 
 ## 🔗 Links
 
