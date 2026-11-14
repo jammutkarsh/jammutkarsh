@@ -35,8 +35,8 @@ If you find something cool here and want to collaborate, hit me up! Maybe **we c
 
 ## ⭐ Recent Stars
 
-- [symmetree-labs/zerostash](https://github.com/symmetree-labs/zerostash) - Zero-metadata file storage (2 days ago)
-- [JacobLinCool/d1-manager](https://github.com/JacobLinCool/d1-manager) - D1 Manager is a web UI and API for Cloudflare D1, a serverless SQL database. It provides a web interface for managing databases, tables, and records, as well as an AI assistant to help you write query in natural language. (2 days ago)
+- [symmetree-labs/zerostash](https://github.com/symmetree-labs/zerostash) - Zero-metadata file storage (3 days ago)
+- [JacobLinCool/d1-manager](https://github.com/JacobLinCool/d1-manager) - D1 Manager is a web UI and API for Cloudflare D1, a serverless SQL database. It provides a web interface for managing databases, tables, and records, as well as an AI assistant to help you write query in natural language. (3 days ago)
 - [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) - Building the self-learning layer next-gen agents will ship with, learning skills from real work. (1 week ago)
 
 ## 🔗 Links
