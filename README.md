@@ -27,17 +27,17 @@ If you find something cool here and want to collaborate, hit me up! Maybe **we c
 - [WanderSort](https://utkarshchourasia.in/projects/wandersort)
   A local-first media organiser that scans messy photo and video dumps and plans a clean, human-readable folder tree, with no cloud and no AI.
 
+- [Zerostash](https://utkarshchourasia.in/projects/zerostash)
+  Free bookmarks in your own Cloudflare account. A Karakeep-compatible server on Cloudflare's free tier, with its own browser extension, so Karakeep's apps work too.
+
 - [PR Pulse](https://utkarshchourasia.in/projects/pr-pulse)
   A Chrome and Firefox extension that puts all your GitHub pull requests in one dashboard, so you stop clicking through repositories.
 
-- [GFStat](https://utkarshchourasia.in/projects/gfstat)
-  See who follows you back on GitHub, who doesn't, and follow or unfollow from the same page.
-
 ## ⭐ Recent Stars
 
-- [symmetree-labs/zerostash](https://github.com/symmetree-labs/zerostash) - Zero-metadata file storage (5 days ago)
-- [JacobLinCool/d1-manager](https://github.com/JacobLinCool/d1-manager) - D1 Manager is a web UI and API for Cloudflare D1, a serverless SQL database. It provides a web interface for managing databases, tables, and records, as well as an AI assistant to help you write query in natural language. (5 days ago)
-- [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) - Building the self-learning layer next-gen agents will ship with, learning skills from real work. (1 week ago)
+- [lotusdblabs/lotusdb](https://github.com/lotusdblabs/lotusdb) - Most advanced key-value database written in Go, extremely fast, compatible with LSM tree and B+ tree. (1 day ago)
+- [symmetree-labs/zerostash](https://github.com/symmetree-labs/zerostash) - Zero-metadata file storage (6 days ago)
+- [JacobLinCool/d1-manager](https://github.com/JacobLinCool/d1-manager) - D1 Manager is a web UI and API for Cloudflare D1, a serverless SQL database. It provides a web interface for managing databases, tables, and records, as well as an AI assistant to help you write query in natural language. (6 days ago)
 
 ## 🔗 Links
 
