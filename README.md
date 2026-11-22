@@ -35,9 +35,9 @@ If you find something cool here and want to collaborate, hit me up! Maybe **we c
 
 ## ⭐ Recent Stars
 
-- [lotusdblabs/lotusdb](https://github.com/lotusdblabs/lotusdb) - Most advanced key-value database written in Go, extremely fast, compatible with LSM tree and B+ tree. (5 days ago)
+- [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua (1 day ago)
+- [lotusdblabs/lotusdb](https://github.com/lotusdblabs/lotusdb) - Most advanced key-value database written in Go, extremely fast, compatible with LSM tree and B+ tree. (6 days ago)
 - [symmetree-labs/zerostash](https://github.com/symmetree-labs/zerostash) - Zero-metadata file storage (1 week ago)
-- [JacobLinCool/d1-manager](https://github.com/JacobLinCool/d1-manager) - D1 Manager is a web UI and API for Cloudflare D1, a serverless SQL database. It provides a web interface for managing databases, tables, and records, as well as an AI assistant to help you write query in natural language. (1 week ago)
 
 ## 🔗 Links
 
