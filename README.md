@@ -35,7 +35,7 @@ If you find something cool here and want to collaborate, hit me up! Maybe **we c
 
 ## ⭐ Recent Stars
 
-- [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua (5 days ago)
+- [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua (6 days ago)
 - [lotusdblabs/lotusdb](https://github.com/lotusdblabs/lotusdb) - Most advanced key-value database written in Go, extremely fast, compatible with LSM tree and B+ tree. (1 week ago)
 - [symmetree-labs/zerostash](https://github.com/symmetree-labs/zerostash) - Zero-metadata file storage (2 weeks ago)
 
